@@ -1,0 +1,21 @@
+digraph case46 { 
+ K=0.6 
+ "nicholls" -> { "hutton" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#6"]; 
+ "nicholls" -> { "nicholls" } [color="blue", arrowhead="vee", penwidth=1, href="#6"]; 
+ "slynn" -> { "hutton" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#13"]; 
+ "slynn" -> { "slynn" } [color="blue", arrowhead="vee", penwidth=1, href="#13"]; 
+ "slynn" -> { "hutton" } [color="blue", arrowhead="vee", penwidth=1, href="#13"]; 
+ "steyn" -> { "hutton" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#18"]; 
+ "steyn" -> { "steyn" } [color="blue", arrowhead="vee", penwidth=1, href="#18"]; 
+ "steyn" -> { "hope" } [color="darkgreen", arrowhead="onormal", penwidth=1, href="#19"]; 
+ "hope" -> { "hutton" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#25"]; 
+ "hope" -> { "hope" } [color="blue", arrowhead="vee", penwidth=1, href="#25"]; 
+ "hutton" -> { "hope" } [color="darkgreen", arrowhead="onormal", penwidth=1, href="#360"]; 
+ "hutton" -> { "hutton" } [color="blue", arrowhead="vee", penwidth=1, href="#373"]; 
+ "nicholls" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#nicholls"]; 
+ "slynn" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#slynn"]; 
+ "steyn" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#steyn"]; 
+ "hope" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#hope"]; 
+ "hutton" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="yellow", href="#hutton"]; 
+
+}

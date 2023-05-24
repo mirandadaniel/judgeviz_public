@@ -1,0 +1,7 @@
+digraph fullagr_clyde_nicholls { 
+ K=0.6 
+ clyde -> { nicholls } [color="darkgreen", arrowhead="normal", penwidth=1, href="#697"]; 
+ "clyde" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#clyde"]; 
+ "nicholls" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#nicholls"]; 
+
+}

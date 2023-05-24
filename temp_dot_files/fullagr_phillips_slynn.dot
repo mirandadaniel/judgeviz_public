@@ -1,0 +1,7 @@
+digraph fullagr_phillips_slynn { 
+ K=0.6 
+ "phillips" -> { "slynn" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#492"]; 
+ "phillips" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#phillips"]; 
+ "slynn" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#slynn"]; 
+
+}

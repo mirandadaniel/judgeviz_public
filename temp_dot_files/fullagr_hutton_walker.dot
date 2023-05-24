@@ -1,0 +1,7 @@
+digraph fullagr_hutton_walker { 
+ K=0.6 
+ "hutton" -> { "walker" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#407"]; 
+ "hutton" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#hutton"]; 
+ "walker" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#walker"]; 
+
+}

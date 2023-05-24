@@ -1,0 +1,18 @@
+digraph case2 { 
+ K=0.6 
+ "slynn" -> { "hoffmann" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#6"]; 
+ "slynn" -> { "slynn" } [color="blue", arrowhead="vee", penwidth=1, href="#6"]; 
+ "nolan" -> { "hoffmann" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#12"]; 
+ "nolan" -> { "nolan" } [color="blue", arrowhead="vee", penwidth=1, href="#12"]; 
+ "hoffmann" -> { "hoffmann" } [color="blue", arrowhead="vee", penwidth=1, href="#271"]; 
+ "hutton" -> { "hoffmann" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#277"]; 
+ "hutton" -> { "hutton" } [color="blue", arrowhead="vee", penwidth=1, href="#277"]; 
+ "hobhouse" -> { "hoffmann" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#282"]; 
+ "hobhouse" -> { "hobhouse" } [color="blue", arrowhead="vee", penwidth=1, href="#282"]; 
+ "slynn" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#slynn"]; 
+ "nolan" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#nolan"]; 
+ "hoffmann" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="yellow", href="#hoffmann"]; 
+ "hutton" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#hutton"]; 
+ "hobhouse" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#hobhouse"]; 
+
+}

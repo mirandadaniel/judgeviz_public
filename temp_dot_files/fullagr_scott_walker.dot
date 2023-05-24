@@ -1,0 +1,7 @@
+digraph fullagr_scott_walker { 
+ K=0.6 
+ "scott" -> { "walker" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#144"]; 
+ "scott" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#scott"]; 
+ "walker" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#walker"]; 
+
+}

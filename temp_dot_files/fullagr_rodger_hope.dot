@@ -1,0 +1,7 @@
+digraph fullagr_rodger_hope { 
+ K=0.6 
+ "rodger" -> { "hope" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#584"]; 
+ "rodger" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#rodger"]; 
+ "hope" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#hope"]; 
+
+}

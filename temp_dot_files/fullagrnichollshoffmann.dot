@@ -1,0 +1,6 @@
+digraph fullagrnichollshoffmann { 
+ K=0.6 
+ "nicholls" -> { "hoffmann" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#6"]; 
+ "nicholls" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#nicholls"]; 
+
+}

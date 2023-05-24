@@ -1,0 +1,7 @@
+digraph fullagr_nicholls_walker { 
+ K=0.6 
+ "nicholls" -> { "walker" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#12"]; 
+ "nicholls" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#nicholls"]; 
+ "walker" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#walker"]; 
+
+}

@@ -1,0 +1,6 @@
+digraph fullagrhopehoffmann { 
+ K=0.6 
+ "hope" -> { "hoffmann" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#242"]; 
+ "hope" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#hope"]; 
+
+}

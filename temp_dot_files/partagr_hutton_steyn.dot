@@ -1,0 +1,8 @@
+digraph partagr_hutton_steyn { 
+ K=0.6 
+ "hutton" -> { "steyn" } [color="darkgreen", arrowhead="onormal", penwidth=1, href="#248"]; 
+ "hutton" -> { "steyn" } [color="darkgreen", arrowhead="onormal", penwidth=1, href="#249"]; 
+ "hutton" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#hutton"]; 
+ "steyn" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#steyn"]; 
+
+}

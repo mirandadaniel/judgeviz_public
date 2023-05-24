@@ -1,0 +1,6 @@
+<map id="outcome_nicholls_self" name="outcome_nicholls_self">
+<area shape="circle" id="node1" href="#nicholls" title="nicholls" alt="outcome_nicholls_self" coords="53,53,48" onclick="return myFunction(this.alt, href);"/>
+<area shape="poly" id="edge1" href="#279" alt="outcome_nicholls_self" coords="47,101,48,136,42,136,42,101" onclick="return myFunction(this.alt, href);"/>
+<area shape="poly" id="edge2" href="#282" alt="outcome_nicholls_self" coords="65,101,64,136,59,136,59,101" onclick="return myFunction(this.alt, href);"/>
+</map>
+

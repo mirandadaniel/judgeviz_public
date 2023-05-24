@@ -1,0 +1,161 @@
+3.44	60	1	0	0.5	NONE	[2003] UKHL 44	<new-case>	NONE	hoffmann	NONE	NONE	0	0	0	0	1	0
+3.44	60	2	1	0.5	nicholls	LORD NICHOLLS OF BIRKENHEAD	TEXTUAL	NONE	NONE	NONE	NONE	0	0	0	0	0	1
+3.44	60	3	2	1	nicholls	I have had the advantage of reading in draft the speech of my noble and learned friend Lord Hoffmann .	TEXTUAL	NONE	NONE	NONE	hoffmann	0	0	0	0	0	1
+3.44	60	4	3	1	nicholls	For the reasons he gives I would allow this appeal .	DISPOSAL	9	hoffmann	3	NONE	0	0	0	0	0	0
+3.44	60	6	4	1.5	steyn	LORD STEYN	TEXTUAL	NONE	NONE	NONE	NONE	0	0	0	0	0	1
+3.44	60	7	5	1.5	steyn	My Lords ,	TEXTUAL	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	9	6	2	steyn	For the reasons given in his opinion by my noble and learned friend Lord Hoffmann , I would also allow the appeal .	DISPOSAL	9	hoffmann	3	NONE	0	0	0	0	0	1
+3.44	60	11	7	2.5	hoffmann	LORD HOFFMANN	TEXTUAL	NONE	NONE	NONE	NONE	0	0	0	0	0	1
+3.44	60	12	8	2.5	hoffmann	My Lords ,	TEXTUAL	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	14	9	3	hoffmann	The issue in this appeal is whether the disability appeal tribunal made an error of law in deciding on 27 January 1999 that the appellant , Mrs Munira Moyna , did not qualify for disability living allowance under section 72 ( 1 ) ( a ) ( ii ) of the Social Security Contributions and Benefits Act 1992 .	FRAMING	2	NONE	NONE	NONE	1	1	0	0	0	0
+3.44	60	15	10	3	hoffmann	Mrs Moyna 's condition subsequently deteriorated and she made a fresh claim which was allowed with effect from 14 June 2000 .	FACT	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	16	11	3	hoffmann	This appeal is concerned with whether it should have been paid before that date .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	18	12	4	hoffmann	The Social Security Commissioner , to whom in the first instance an appeal from the tribunal lay under section 34 ( 1 ) of the Social Security Administration Act 1992 , decided that there had been no error of law but his decision was reversed by the Court of Appeal ( Dame Elizabeth Butler-Sloss P , Potter and Kay LJJ ) .	PROCEEDINGS	2	NONE	NONE	NONE	1	1	1	0	0	1
+3.44	60	19	13	4	hoffmann	The functions of the disability appeal tribunal have since been transferred by section 4 ( 1 ) of the Social Security Act 1998 to unified appeal tribunals constituted under that Act but the appeal to the commissioner ( section 14 ( 1 ) ) and thence to the Court of Appeal ( section 15 ( 1 ) ) is still only on points of law .	FRAMING	NONE	NONE	NONE	NONE	1	1	1	0	0	0
+3.44	60	21	14	5	hoffmann	Disability living allowance was introduced by the Disability Living Allowance and Disability Working Allowance Act 1991 to replace what had been called attendance allowance and mobility allowance .	BACKGROUND	NONE	NONE	NONE	NONE	0	1	0	0	0	0
+3.44	60	22	15	5	hoffmann	"The qualifications for attendance allowance had required a severe degree of disablement : the applicant had to be so severely disabled physically or mentally that he required "" frequent attention throughout the day "" or "" prolonged or repeated attention during the night "" in connection with his "" bodily functions "" or "" continual supervision "" throughout the day or night in order to avoid substantial danger to himself or others ."	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	23	16	5	hoffmann	"Although the courts were willing to give "" bodily functions "" a fairly wide meaning ( see for example Mallinson v Secretary of State for Social Security [ 1994 ] 1 WLR 630 ) the House of Lords decided in In re Woodling [ 1984 ] 1 WLR 348 that it did not include the performance of domestic tasks like cooking ."	BACKGROUND	NONE	NONE	NONE	NONE	0	0	1	1	1	0
+3.44	60	25	17	6	hoffmann	One purpose of the new benefit introduced by the 1991 Act was to enable persons with lesser degrees of disability to qualify for allowances at lower rates .	BACKGROUND	NONE	NONE	NONE	NONE	0	1	0	0	0	0
+3.44	60	26	18	6	hoffmann	"In provisions which are now consolidated in section 72 of the 1992 Act , it provided for payment of the "" care component "" of the allowance at three different levels ."	BACKGROUND	NONE	NONE	NONE	NONE	1	1	0	0	0	0
+3.44	60	27	19	6	hoffmann	The present case is concerned with the lowest level , to which a person is entitled under section 72 ( 1 ) :	BACKGROUND	1	NONE	NONE	NONE	1	0	0	0	0	0
+3.44	60	27	20	6.5	hoffmann	""" ... for any period throughout which ?"	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	28	21	6.5	hoffmann	( a ) he is so severely disabled physically or mentally that ?	BACKGROUND	1	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	29	22	6.5	hoffmann	"( ii ) he cannot prepare a cooked main meal for himself if he has the ingredients """	BACKGROUND	1	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	30	23	7	hoffmann	Paragraphs ( b ) and ( c ) of section 72 ( 1 ) prescribe the conditions for payment of allowances at the two higher levels .	BACKGROUND	NONE	NONE	NONE	NONE	1	0	0	0	0	0
+3.44	60	31	24	7	hoffmann	In order to ensure that the allowance is paid only for more or less chronic disabilities , subsection ( 2 ) provides that :	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	31	25	7.5	hoffmann	""" ... a person shall not be entitled to the care component of a disability living allowance unless ?"	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	32	26	7.5	hoffmann	( a ) throughout ?	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	33	27	7.5	hoffmann	( i ) the period of 3 months immediately preceding the date on which the award of that care component would begin ...	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	33	28	7.5	hoffmann	he has satisfied or is likely to satisfy one or other of the conditions mentioned in subsection 1 ( a ) to ( c ) above ; and	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	33	29	7.5	hoffmann	( b ) he is likely to continue to satisfy one or other of those conditions throughout ?	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	34	30	7.5	hoffmann	"( i ) the period of 6 months beginning with that date ... """	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	35	31	8	hoffmann	Mrs Moyna was for 21 years a civil servant in the ( then ) Ministry of Agriculture Fisheries and Food who retired in 1997 , aged 58 , on grounds of ill health .	FACT	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	36	32	8	hoffmann	She has a number of illnesses and disabilities , including a heart condition which prevents her from exerting herself for any length of time without bringing on pain and discomfort .	FACT	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	37	33	8	hoffmann	On 20 December 1996 she applied for disability living allowance .	FACT	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	38	34	8	hoffmann	"There is ( or was ) a comprehensive form for such applications called DLA 1 , which includes a section on "" Help that you need during the day - preparing a cooked main meal for yourself "" ."	FACT	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	39	35	8	hoffmann	The form said :	FACT	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	39	36	8.5	hoffmann	""" You may never have planned or prepared a cooked main meal for yourself ."	FACT	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	40	37	8.5	hoffmann	But try to imagine how much help you would need if you tried to do this .	FACT	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	41	38	8.5	hoffmann	If you had everything you needed for the meal , roughly how many days a week would you need help	FACT	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	41	39	8.5	hoffmann	planning a cooked main meal ?	FACT	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	42	40	8.5	hoffmann	peeling and chopping vegetables ?	FACT	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	43	41	8.5	hoffmann	using cooking utensils ?	FACT	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	44	42	8.5	hoffmann	using taps ?	FACT	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	45	43	8.5	hoffmann	using a cooker ?	FACT	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	46	44	8.5	hoffmann	"coping with hot pans ? """	FACT	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	48	45	9	hoffmann	The boxes to be ticked on the form offered the alternatives of No help needed , 1 to 3 days , 4 to 5 days and 6 to 7 days .	FACT	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	49	46	9	hoffmann	Mrs Moyna ticked the 1 to 3 days boxes for help with cooking utensils , taps and hot pans .	FACT	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	50	47	9	hoffmann	By way of explanation , she added in the space provided :	FACT	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	50	48	9.5	hoffmann	""" If pans are heavy , I need someone to carry them and put them on cooker or away ."	FACT	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	51	49	9.5	hoffmann	"I cannot carry anything heavy as if I do it brings on angina attacks . """	FACT	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	53	50	10	hoffmann	Mrs Moyna was then visited by an examining medical practitioner , who had his own form to fill in .	FACT	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	54	51	10	hoffmann	"This starts with a statement of the "" disabled person 's needs in their own words "" ."	FACT	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	55	52	10	hoffmann	"Under the heading "" Preparing a cooked Meal "" , the doctor wrote "" Can prepare a cooked meal "" ."	FACT	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	56	53	10	hoffmann	"In the section for the doctor 's own opinions , under the heading "" Need for attention : in your opinion can the disabled person safely ... "" , followed by a list of actions , he ticked "" Without someone 's help "" inrespectof peeling and chopping vegetables , using taps , using a cooker and coping with hot pans ."	FACT	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	58	54	11	hoffmann	The application form and the medical report then went to an adjudication officer , Mrs Roberts , who on 4 February 1997 disallowed the claim .	FACT	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	59	55	11	hoffmann	Mrs Moyna wrote on 13 February 1997 requesting a review .	FACT	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	60	56	11	hoffmann	The case was reconsidered by another adjudication officer , who reaffirmed the decision :	FACT	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	60	57	11.5	hoffmann	""" I accept the visiting doctor 's opinion as it is based on the examination and observation of Mrs Moyna ."	FACT	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	61	58	11.5	hoffmann	The cooked main meal is for one person only , therefore I consider that she could manage the pans for cooking such a meal .	FACT	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	62	59	11.5	hoffmann	"I do not accept that she cannot prepare a cooked main meal for herself . """	FACT	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	64	60	12	hoffmann	In her more detailed reasons , the adjudication officer said :	FACT	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	64	61	12.5	hoffmann	""" In her claim pack , Mrs Moyna states that she needs help 1 - 3 days a week , to use cooking utensils and taps and to cope with hot pans ."	FACT	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	65	62	12.5	hoffmann	She cannot carry anything heavy as it brings on angina attacks .	FACT	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	66	63	12.5	hoffmann	In her statement to the visiting doctor , she states she can prepare a cooked meal .	FACT	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	67	64	12.5	hoffmann	"The visiting doctor 's opinion is that she does not require help to prepare a cooked main meal . """	FACT	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	69	65	13	hoffmann	Mrs Moyna then appealed to the disability appeal tribunal , which dismissed her appeal on 27 January 1999 .	PROCEEDINGS	2	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	70	66	13	hoffmann	"She told the tribunal that she could cook , although "" nothing elaborate "" ."	PROCEEDINGS	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	71	67	13	hoffmann	The tribunal concluded :	PROCEEDINGS	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	71	68	13.5	hoffmann	""" Chopping and peeling is sometimes difficult - and always is with hard vegetables if they are large ."	PROCEEDINGS	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	72	69	13.5	hoffmann	She can manage a small saucepan for herself .	PROCEEDINGS	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	73	70	13.5	hoffmann	The other difficulty is standing for a long time and the appellant 's tactic if she has to cook something for herself is to put it on the cooker then lie down .	PROCEEDINGS	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	74	71	13.5	hoffmann	From this we concluded that , with some planning and careful arranging of cooking requisites and perhaps use of a high chair , appellant can , on most days , prepare a cooked main meal for herself , and that it is not unreasonable to expect her to do so .	PROCEEDINGS	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	75	72	13.5	hoffmann	"She therefore does not qualify for the care component on that basis . """	PROCEEDINGS	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	77	73	14	hoffmann	Mrs Moyna then appealed to the commissioner , saying that the tribunal has misconstrued the requirements of section 72 ( 1 ) ( a ) ( ii ) .	PROCEEDINGS	NONE	NONE	NONE	NONE	1	0	0	0	0	0
+3.44	60	78	74	14	hoffmann	The commissioner found no error of law .	PROCEEDINGS	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	79	75	14	hoffmann	"The test , he said , is whether the claimant can cook a "" labour intensive reasonable main daily meal freshly cooked on a traditional cooker "" ."	PROCEEDINGS	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	80	76	14	hoffmann	Not all tribunals might have reached the same conclusion but the tribunal was entitled on the evidence to reach the conclusion it did .	PROCEEDINGS	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	82	77	15	hoffmann	In the Court of Appeal the leading judgment was given by Kay LJ and the other two members of the court agreed .	PROCEEDINGS	NONE	NONE	NONE	NONE	0	0	1	0	0	1
+3.44	60	83	78	15	hoffmann	"He did not accept that one could have facts on which different tribunals could properly reach different conclusions about whether the "" cooking test "" had been satisfied ."	PROCEEDINGS	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	84	79	15	hoffmann	"The test was intended to be "" straightforward "" and produce the same answer on the same facts ."	PROCEEDINGS	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	86	80	16	hoffmann	"Kay LJ said that the provision of a cooked main meal was something required "" not on an occasional basis but on a regular basis if someone is to enjoy a reasonable quality of life "" ."	PROCEEDINGS	NONE	NONE	NONE	NONE	0	0	0	0	0	1
+3.44	60	87	81	16	hoffmann	"If the inability to cook was on "" no more than occasional days "" , the test would not be satisfied ."	PROCEEDINGS	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	88	82	16	hoffmann	"But if there was a "" clear pattern "" of a person not being able to provide for himself , it would ."	PROCEEDINGS	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	89	83	16	hoffmann	"In the present case , there was such a clear pattern , because on basis of Mrs Moyna 's answers on the claim form , there would sometimes be weeks in which for three days she would "" have to forgo her one cooked meal "" ."	PROCEEDINGS	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	90	84	16	hoffmann	"This was a "" significant "" disability because there was a regular pattern rather than something "" occasional or intermittent "" ."	PROCEEDINGS	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	93	85	17	hoffmann	"My Lords , there are two points to be made about the "" cooking test "" in section 72 ( 1 ) ( a ) ( ii ) ."	FRAMING	NONE	NONE	NONE	NONE	1	0	0	0	0	0
+3.44	60	94	86	17	hoffmann	The first is that its purpose is not to ascertain whether the applicant can survive , or enjoy a reasonable diet , without assistance .	FRAMING	3	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	95	87	17	hoffmann	It is a notional test , a thought-experiment , to calibrate the severity of the disability .	FRAMING	4	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	96	88	17	hoffmann	It does not matter whether the applicant actually needs to cook .	FRAMING	4	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	97	89	17	hoffmann	"As the form DLA 1 said , "" try to imagine how much help you would need if you tried to do this . """	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	98	90	17	hoffmann	No doubt some people ( disabled or otherwise ) do need to cook or prefer to do so , although home cooking seems to be fighting a losing battle against convenience foods and ready-cooked meals .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	99	91	17	hoffmann	"Not for nothing is the notional meal contemplated by the cooking test described in the authorities as "" traditional "" ."	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	100	92	17	hoffmann	It must be remembered that disability living allowance is a non-contributory , non-means tested benefit .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	101	93	17	hoffmann	A person who cannot cook for himself is entitled to the allowance , now # 14.90 a week , whether he solves the eating problem by obtaining help , having a wife , buying television dinners or dining at the Savoy .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	102	94	17	hoffmann	On the other hand , even if a person needs to cook and has the motor skills to do so , he may still need assistance ; to obtain the ingredients which the test assumes him to have , or because he is culinarily incompetent .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	103	95	17	hoffmann	So in my view the Court of Appeal was wrong to lay such emphasis upon the fact that unless the applicant could cook more or less every day , she would not enjoy a reasonable quality of life .	DISPOSAL	NONE	NONE	NONE	NONE	0	0	1	0	0	0
+3.44	60	105	96	18	hoffmann	That leads on to the second point , which is that the test says nothing about how often the person should be able to cook .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	106	97	18	hoffmann	It would have been easy for Parliament to say that a person should be able to cook daily or six times a week or whatever .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	107	98	18	hoffmann	Instead , the statute approaches the question of frequency in a different way .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	108	99	18	hoffmann	Section 72 ( 2 ) contemplates that one should be able to say of someone throughout a nine month period that he is a person whose disability is such that he cannot cook a main meal .	BACKGROUND	5	NONE	NONE	NONE	1	0	0	0	0	0
+3.44	60	109	100	18	hoffmann	What does this mean ?	TEXTUAL	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	110	101	18	hoffmann	One possible construction is that if there was a single occasion during the period when a remission in his disability would have allowed him to cook a meal , it cannot be said that throughout the period he was unable to do so .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	111	102	18	hoffmann	But the Secretary of State does not contend for this construction and I do not think that it would be right .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	112	103	18	hoffmann	That is not because one occasion is de minimis but because the test does not in my opinion function at that day to day level .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	113	104	18	hoffmann	It involves looking at the whole period and saying whether , in a more general sense , the person can fairly be described as a person who is unable to cook a meal .	FRAMING	5	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	114	105	18	hoffmann	It is an exercise in judgment rather than an arithmetical calculation of frequency .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	116	106	19	hoffmann	"I therefore agree with the commissioner that the question involves taking "" a broad view of the matter "" and making a judgment ."	DISPOSAL	6	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	117	107	19	hoffmann	The standard of motor abilities required by the cooking test is not so precise as to allow calibration by arithmetical formula .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	118	108	19	hoffmann	"In the present case , I think that the Court of Appeal attached too much weight to the fact that in her claim form Mrs Moyna had ticked the box "" 1 - 3 days "" for the extent to which she needed help with heavy pans , cutting vegetables and so forth ."	DISPOSAL	NONE	NONE	NONE	NONE	1	0	1	0	0	0
+3.44	60	119	109	19	hoffmann	In answering the generalised question of whether Mrs Moyna could fairly be described as a person unable to cook , it may be relevant to consider not only the number of occasions on which she says she would need assistance but also the reasons why it would be needed .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	120	110	19	hoffmann	The tribunal went into the matter in some detail .	PROCEEDINGS	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	121	111	19	hoffmann	It observed that she could cook for herself using lighter pans and cutting up smaller vegetables .	PROCEEDINGS	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	122	112	19	hoffmann	In addition , it had the opinion of the examining doctor and his record of Mrs Moyna 's own description of herself as a person who could cook a meal - a description which is , as I have said , not inconsistent with her not being able to do so all the time .	PROCEEDINGS	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	123	113	19	hoffmann	These are all items of evidence which go into the decision-making process .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	125	114	20	hoffmann	In any case in which a tribunal has to apply a standard with a greater or lesser degree of imprecision and to take a number of factors into account , there are bound to be cases in which it will be impossible for a reviewing court to say that the tribunal must have erred in law in deciding the case either way : see George Mitchell ( Chesterhall ) Ltd v Finney Lock Seeds Ltd [ 1983 ] 2 AC 803 , 815 - 816 .	FRAMING	7	NONE	NONE	NONE	0	0	0	1	1	0
+3.44	60	126	115	20	hoffmann	I respectfully think that it was unrealistic of Kay LJ to think that he was able to sharpen the test to produce only one right answer .	DISPOSAL	NONE	NONE	NONE	NONE	0	0	0	0	0	1
+3.44	60	127	116	20	hoffmann	In my opinion the commissioner was right to say that whether or not he would have arrived at the same conclusion , the decision of the tribunal disclosed no error of law .	DISPOSAL	8	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	129	117	21	hoffmann	That is sufficient to dispose of the appeal , but I must say something about an alternative submission by Mr Paines , who appeared for the Secretary of State .	DISPOSAL	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	130	118	21	hoffmann	"He said the words "" period throughout which . . . he is so severely disabled physically or mentally that ... he cannot prepare a cooked main meal for himself "" were ordinary English words and that their meaning was not a question of law ."	PROCEEDINGS	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	131	119	21	hoffmann	Consequently the short answer to the appeal was that the decision of the tribunal raised no point of law .	PROCEEDINGS	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	133	120	22	hoffmann	"This submission was based upon some well known remarks of Lord Reid in Brutus v Cozens [ 1973 ] AC 854 , 861 , in which the question was whether the appellant had been guilty of "" insulting behaviour "" :"	PROCEEDINGS	NONE	NONE	NONE	NONE	0	0	0	1	1	1
+3.44	60	133	121	22.5	hoffmann	""" The meaning of an ordinary word of the English language is not a question of law ."	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	134	122	22.5	hoffmann	The proper construction of a statute is a question of law .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	135	123	22.5	hoffmann	If the context shows that a word is used in an unusual sense the court will determine in other words what that unusual sense is .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	136	124	22.5	hoffmann	But here there is in my opinion no question of the word ' insulting ' being used in any unusual sense .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	137	125	22.5	hoffmann	It appears to me , for reasons which I shall give later , to be intended to have its ordinary meaning .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	138	126	22.5	hoffmann	"It is for the tribunal which decides the case to consider , not as law but as fact , whether in the whole circumstances the words of the statute do or do not as a matter of ordinary usage of the English language cover or apply to the facts which have been proved . """	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	140	127	23	hoffmann	I think that these observations have been given a much wider meaning than the author intended .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	141	128	23	hoffmann	Lord Reid was in my opinion making two very pertinent points .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	1
+3.44	60	142	129	23	hoffmann	First , he was drawing attention to a feature of language ; namely , that many words or phrases are linguistically irreducible in the sense that any attempt to elucidate a sentence by replacing them with synonyms will change rather than explain its meaning .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	143	130	23	hoffmann	Lord Kilbrandon made the same point in his reference to Dr Johnson at p. 867 .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	1
+3.44	60	144	131	23	hoffmann	On the other hand , Lord Reid insisted that , whether the statute used simple words or difficult ones , its construction was a question of law .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	1
+3.44	60	146	132	24	hoffmann	Lord Reid was here making the well-known distinction between the meaning of a word , which depends upon conventions known to the ordinary speaker of English or ascertainable from a dictionary , and the meaning which the author of an utterance appears to have intended to convey by using that word in a sentence .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	1
+3.44	60	147	133	24	hoffmann	The latter depends not only upon the conventional meanings of the words used but also upon syntax , context and background .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	148	134	24	hoffmann	The meaning of an English word is not a question of law because it does not in itself have any legal significance .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	149	135	24	hoffmann	It is the meaning to be ascribed to the intention of the notional legislator in using that word which is a statement of law .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	150	136	24	hoffmann	It is because of the nature of language that , in trying to ascertain the legislator 's meaning , it is seldom helpful to make additions or substitutions in the actual language he has used .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	152	137	25	hoffmann	"Lord Reid 's second point is made in the last sentence of the passage I have quoted , when he says that the question of whether the facts found by the tribunal count as "" insulting "" for the purposes of the statute is a question of fact ."	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	1
+3.44	60	153	138	25	hoffmann	There is a good deal of high authority for saying that the question of whether the facts as found or admitted fall one side or the other of some conceptual line drawn by the law is a question of fact : see , for example , Edwards v Bairstow [ 1956 ] AC 14 and O ' Kelly v Trusthouse Forte plc [ 1984 ] QB 90 .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	1	1	0
+3.44	60	154	139	25	hoffmann	What this means in practice is that an appellate court with jurisdiction to entertain appeals only on questions of law will not hear an appeal against such a decision unless it falls outside the bounds of reasonable judgment .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	156	140	26	hoffmann	It may seem rather odd to say that something is a question of fact when there is no dispute whatever over the facts and the question is whether they fall within some legal category .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	157	141	26	hoffmann	In his classic work on Trial by Jury Lord Devlin said ( at p 61 ) :	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	1
+3.44	60	157	142	26.5	hoffmann	""" The questions of law which are for the judge fall into two categories : first , there are questions which cannot be correctly answered except by someone who is skilled in the law ; secondly , there are questions of fact which lawyers have decided that judges can answer better than juries . """	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	159	143	27	hoffmann	Likewise it may be said that there are two kinds of questions of fact : there are questions of fact ; and there are questions of law as to which lawyers have decided that it would be inexpedient for an appellate tribunal to have to form an independent judgment .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	160	144	27	hoffmann	But the usage is well established and causes no difficulty as long as it is understood that the degree to which an appellate court will be willing to substitute its own judgment for that of the tribunal will vary with the nature of the question : see In re Grayan Building Services Ltd [ 1995 ] Ch 241 , 254 - 255 .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	1	1	0
+3.44	60	162	145	28	hoffmann	"Applying the first of these two points to the facts of the present case , I think that it was unhelpful for the Court of Appeal to construe the statutory language as if it included words like "" daily "" or "" regularly "" ."	DISPOSAL	NONE	NONE	NONE	NONE	0	0	1	0	0	0
+3.44	60	163	146	28	hoffmann	Applying the second , I think that the decision of the tribunal was within the bounds of reasonable judgment .	DISPOSAL	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	164	147	28	hoffmann	"I therefore think that , properly understood , Lord Reid 's remarks in Brutus v Cozens [ 1973 ] AC 854 , 861 do not lay down some heterodox principle which provides a short cut to dismissing an appeal ( "" the last resort of counsel appearing on behalf of respondents "" as Lord Woolf MR said in R v Radio Authority , Ex p Bull [ 1998 ] QB 294 , 304 ) but are in accordance with established principles and common sense ."	DISPOSAL	NONE	NONE	NONE	NONE	0	0	0	1	1	1
+3.44	60	166	148	29	hoffmann	I would therefore allow the appeal and restore the decision of the tribunal .	DISPOSAL	2	NONE	3	NONE	0	0	0	0	0	0
+3.44	60	168	149	29.5	rodger	LORD RODGER OF EARLSFERRY	TEXTUAL	NONE	NONE	NONE	NONE	0	0	0	0	0	1
+3.44	60	169	150	29.5	rodger	My Lords ,	TEXTUAL	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	171	151	30	rodger	I have had the privilege of considering the speech of my noble and learned friend Lord Hoffmann in draft .	TEXTUAL	NONE	NONE	NONE	hoffmann	0	0	0	0	0	1
+3.44	60	172	152	30	rodger	For the reasons that he gives I too would allow the appeal and restore the decision of the tribunal .	DISPOSAL	9	hoffmann	3	NONE	0	0	0	0	0	0
+3.44	60	174	153	30.5	walker	LORD WALKER OF GESTINGTHORPE	TEXTUAL	NONE	NONE	NONE	NONE	0	0	0	0	0	1
+3.44	60	175	154	30.5	walker	My Lords ,	TEXTUAL	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	177	155	31	walker	I have had the advantage of reading in draft the speech of my noble and learned friend Lord Hoffmann .	TEXTUAL	NONE	NONE	NONE	hoffmann	0	0	0	0	0	1
+3.44	60	178	156	31	walker	For the reasons given in his speech I would allow this appeal .	DISPOSAL	9	hoffmann	3	NONE	0	0	0	0	0	0
+3.44	60	N/A	N/A	31.5	walker	Prepared	<prep-date>	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	N/A	N/A	31.5	walker	30	<prep-date>	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	N/A	N/A	31.5	walker	July	<prep-date>	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.44	60	N/A	N/A	31.5	walker	2003	<prep-date>	NONE	NONE	NONE	NONE	0	0	0	0	0	0

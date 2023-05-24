@@ -1,0 +1,7 @@
+digraph fullagr_scott_slynn { 
+ K=0.6 
+ "scott" -> { "slynn" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#330"]; 
+ "scott" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#scott"]; 
+ "slynn" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#slynn"]; 
+
+}

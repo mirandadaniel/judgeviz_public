@@ -1,0 +1,31 @@
+digraph case178 { 
+ K=0.6 
+ "nicholls" -> { "scott" } [color="darkgreen", arrowhead="onormal", penwidth=1, href="#42"]; 
+ "nicholls" -> { "hope" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#180"]; 
+ "nicholls" -> { "scott" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#180"]; 
+ "nicholls" -> { "walker" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#180"]; 
+ "nicholls" -> { "nicholls" } [color="blue", arrowhead="vee", penwidth=1, href="#180"]; 
+ "hope" -> { "nicholls" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#186"]; 
+ "hope" -> { "scott" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#186"]; 
+ "hope" -> { "walker" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#186"]; 
+ "hope" -> { "hope" } [color="blue", arrowhead="vee", penwidth=1, href="#186"]; 
+ "hope" -> { "nicholls" } [color="blue", arrowhead="vee", penwidth=1, href="#186"]; 
+ "hope" -> { "scott" } [color="darkgreen", arrowhead="onormal", penwidth=1, href="partagr_hope_scott"];
+ "scott" -> { "scott" } [color="blue", arrowhead="vee", penwidth=1, href="outcome_scott_self"];
+ "scott" -> { "nicholls" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#485"]; 
+ "scott" -> { "hope" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#485"]; 
+ "scott" -> { "walker" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#485"]; 
+ "walker" -> { "nicholls" } [color="darkgreen", arrowhead="normal", penwidth=1, href="fullagr_walker_nicholls"];
+ "walker" -> { "hope" } [color="darkgreen", arrowhead="normal", penwidth=1, href="fullagr_walker_hope"];
+ "walker" -> { "scott" } [color="darkgreen", arrowhead="normal", penwidth=1, href="fullagr_walker_scott"];
+ "walker" -> { "walker" } [color="blue", arrowhead="vee", penwidth=1, href="#571"]; 
+ "walker" -> { "scott" } [color="blue", arrowhead="vee", penwidth=1, href="#571"]; 
+ "brown" -> { all } [color="darkgreen", arrowhead="normal", penwidth=1, href="#577"]; 
+ "brown" -> { "brown" } [color="blue", arrowhead="vee", penwidth=1, href="#577"]; 
+ "nicholls" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#nicholls"]; 
+ "hope" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#hope"]; 
+ "scott" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#scott"]; 
+ "walker" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#walker"]; 
+ "brown" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#brown"]; 
+
+}

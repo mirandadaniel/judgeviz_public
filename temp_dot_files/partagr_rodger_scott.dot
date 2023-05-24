@@ -1,0 +1,8 @@
+digraph partagr_rodger_scott { 
+ K=0.6 
+ "rodger" -> { "scott" } [color="darkgreen", arrowhead="onormal", penwidth=1, href="#408"]; 
+ "rodger" -> { "scott" } [color="darkgreen", arrowhead="onormal", penwidth=1, href="#430"]; 
+ "rodger" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#rodger"]; 
+ "scott" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="yellow", href="#scott"]; 
+
+}

@@ -1,0 +1,24 @@
+digraph case49 { 
+ K=0.6 
+ "bingham" -> { "walker" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#6"]; 
+ "bingham" -> { "millett" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#6"]; 
+ "bingham" -> { "bingham" } [color="blue", arrowhead="vee", penwidth=1, href="#6"]; 
+ "bingham" -> { "walker" } [color="blue", arrowhead="vee", penwidth=1, href="#6"]; 
+ "nicholls" -> { "walker" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#12"]; 
+ "nicholls" -> { "nicholls" } [color="blue", arrowhead="vee", penwidth=1, href="#12"]; 
+ "nicholls" -> { "walker" } [color="blue", arrowhead="vee", penwidth=1, href="#12"]; 
+ "millett" -> { "walker" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#138"]; 
+ "millett" -> { "millett" } [color="blue", arrowhead="vee", penwidth=1, href="#138"]; 
+ "scott" -> { "millett" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#144"]; 
+ "scott" -> { "walker" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#144"]; 
+ "scott" -> { "scott" } [color="blue", arrowhead="vee", penwidth=1, href="#144"]; 
+ "scott" -> { "walker" } [color="blue", arrowhead="vee", penwidth=1, href="#144"]; 
+ "walker" -> { "millett" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#340"]; 
+ "walker" -> { "walker" } [color="blue", arrowhead="vee", penwidth=1, href="#340"]; 
+ "bingham" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#bingham"]; 
+ "nicholls" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#nicholls"]; 
+ "millett" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="yellow", href="#millett"]; 
+ "scott" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#scott"]; 
+ "walker" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="yellow", href="#walker"]; 
+
+}

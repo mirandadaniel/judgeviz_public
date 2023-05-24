@@ -1,0 +1,8 @@
+digraph outcome_walker_self { 
+ K=0.6 
+ "walker" -> { "self" } [color="blue", arrowhead="vee", penwidth=1, href="#284"]; 
+ "walker" -> { "self" } [color="blue", arrowhead="vee", penwidth=1, href="#392"]; 
+ "walker" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#walker"]; 
+ "walker" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#walker"]; 
+
+}

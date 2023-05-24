@@ -1,0 +1,7 @@
+digraph fullagr_hobhouse_nicholls { 
+ K=0.6 
+ "hobhouse" -> { "nicholls" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#499"]; 
+ "hobhouse" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#hobhouse"]; 
+ "nicholls" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#nicholls"]; 
+
+}

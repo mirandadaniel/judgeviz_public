@@ -1,0 +1,7 @@
+digraph fullagr_bingham_walker { 
+ K=0.6 
+ "bingham" -> { "walker" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#6"]; 
+ "bingham" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#bingham"]; 
+ "walker" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#walker"]; 
+
+}

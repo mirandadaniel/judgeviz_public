@@ -1,0 +1,21 @@
+digraph case15 { 
+ K=0.6 
+ "bingham" -> { "steyn" } [color="darkgreen", arrowhead="onormal", penwidth=1, href="#186"]; 
+ "steyn" -> { "bingham" } [color="darkgreen", arrowhead="normal", penwidth=1, href="fullagr_steyn_bingham"];
+ "steyn" -> { "steyn" } [color="blue", arrowhead="vee", penwidth=1, href="#192"]; 
+ "cooke" -> { "bingham" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#238"]; 
+ "cooke" -> { "steyn" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#238"]; 
+ "cooke" -> { "bingham" } [color="darkgreen", arrowhead="onormal", penwidth=1, href="#248"]; 
+ "cooke" -> { "steyn" } [color="darkgreen", arrowhead="onormal", penwidth=1, href="#253"]; 
+ "cooke" -> { "cooke" } [color="blue", arrowhead="vee", penwidth=1, href="#260"]; 
+ "hutton" -> { "bingham" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#266"]; 
+ "hutton" -> { "hutton" } [color="blue", arrowhead="vee", penwidth=1, href="#266"]; 
+ "scott" -> { "bingham" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#274"]; 
+ "scott" -> { "scott" } [color="blue", arrowhead="vee", penwidth=1, href="#277"]; 
+ "bingham" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="yellow", href="#bingham"]; 
+ "steyn" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#steyn"]; 
+ "cooke" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#cooke"]; 
+ "hutton" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#hutton"]; 
+ "scott" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#scott"]; 
+
+}

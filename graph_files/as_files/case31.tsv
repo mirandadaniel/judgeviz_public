@@ -1,0 +1,145 @@
+31	0	https://publications.parliament.uk/pa/ld200102/ldjudgmt/jd020620/pope-1.htm 	NAN	NAN	NAN	0	lord hobhouse
+31	1	------------- NEW JUDGE --------------- 	NAN	NAN	NAN	0	lord hobhouse
+31	2	LORD NICHOLLS OF BIRKENHEAD 	NAN	NAN	NAN	0	lord hobhouse
+31	3	My Lords , 	NAN	NAN	NAN	0	lord hobhouse
+31	4	1 . 	NAN	NAN	NAN	0	lord hobhouse
+31	5	I have had the advantage of reading a draft of the speech of my noble and learned friend Lord Hobhouse of Woodborough . 	lord nicholls	lord hobhouse	ackn	0	lord hobhouse
+31	6	For the reasons he gives , with which I agree , I would allow this appeal . 	lord nicholls	lord hobhouse	fullagr	0	lord hobhouse
+31	6	For the reasons he gives , with which I agree , I would allow this appeal . 	lord nicholls	self	outcome	0	lord hobhouse
+31	7	------------- NEW JUDGE --------------- 	NAN	NAN	NAN	0.1	lord hobhouse
+31	8	LORD BROWNE-WILKINSON 	NAN	NAN	NAN	0.1	lord hobhouse
+31	9	My Lords , 	NAN	NAN	NAN	0.1	lord hobhouse
+31	10	2 . 	NAN	NAN	NAN	0.1	lord hobhouse
+31	11	I have had the advantage of reading in draft the speech of my noble and learned friend , Lord Hobhouse of Woodborough . 	lord browne-wilkinson	lord hobhouse	ackn	0.1	lord hobhouse
+31	12	I agree with it , and for the reasons he gives I too would allow the appeal and make he order which he proposes . 	lord browne-wilkinson	lord hobhouse	fullagr	0.1	lord hobhouse
+31	12	I agree with it , and for the reasons he gives I too would allow the appeal and make he order which he proposes . 	lord browne-wilkinson	self	outcome	0.1	lord hobhouse
+31	12	I agree with it , and for the reasons he gives I too would allow the appeal and make he order which he proposes . 	lord browne-wilkinson	lord hobhouse	outcome	0.1	lord hobhouse
+31	13	------------- NEW JUDGE --------------- 	NAN	NAN	NAN	0.1	lord hobhouse
+31	14	LORD HOBHOUSE OF WOODBOROUGH 	NAN	NAN	NAN	0.1	lord hobhouse
+31	15	My Lords , 	NAN	NAN	NAN	0.1	lord hobhouse
+31	16	3 . 	NAN	NAN	NAN	0.1	lord hobhouse
+31	17	This appeal has been necessary to resolve a difference of opinion concerning the sentencing powers of the Crown Court under s. 71 of the Criminal Justice Act 1988 . 	NAN	NAN	NAN	0.1	lord hobhouse
+31	18	The sentencing power in question is the power of the Crown Court to make a confiscation order in respect of a defendant who has been convicted in the Magistrates ' Court and committed to the Crown Court for sentence under s. 38 of the Magistrates ' Court Act 1980 . 	NAN	NAN	NAN	0.1	lord hobhouse
+31	19	4 . 	NAN	NAN	NAN	0.1	lord hobhouse
+31	20	The relevant facts are that the defendant , Alan Pope , was charged with 17 offences of procuring the execution of a valuable security by deception contrary to s. 20 -LRB- 2 -RRB- of the Theft Act 1968 . 	NAN	NAN	NAN	0.1	lord hobhouse
+31	21	The offences charged spanned the period between March 1993 and September 1997 and involved in all the diversion of some # 220,000 of his employers ' money into his own bank account . 	NAN	NAN	NAN	0.2	lord hobhouse
+31	22	The offences were indictable offences triable ` either way ' , ie either summarily in the magistrates ' court or on indictment in the Crown Court . 	NAN	NAN	NAN	0.2	lord hobhouse
+31	23	On 20 January 2000 , in the Magistrates ' Court at Huntingdon , the defendant elected to plead guilty to all the charges and , in view of these pleas , convictions were duly entered against him . 	NAN	NAN	NAN	0.2	lord hobhouse
+31	24	In exercise of their powers under s. 38 of the Magistrates ' Court Act 1980 , the magistrates committed him to the Crown Court for sentence . 	NAN	NAN	NAN	0.2	lord hobhouse
+31	25	On 26 May 2000 , the Crown Court sitting at Peterborough -LRB- Judge Morrell sitting with two Justices -RRB- sentenced him to two years imprisonment concurrent on all counts and , after making the relevant assessments , made a confiscation order against him in the sum of # 127,000 -LRB- with a further period of two years ' imprisonment in default of payment within six months -RRB- . 	NAN	NAN	NAN	0.2	lord hobhouse
+31	26	5 . 	NAN	NAN	NAN	0.2	lord hobhouse
+31	27	The defendant appealed to the Court of Appeal -LRB- Criminal Division -RRB- on the ground that the Crown Court had exceeded its powers in making the confiscation order and the further grounds that the Crown Court had not assessed his realisable assets and exercised its discretion on the right basis and in a fair manner . 	NAN	NAN	NAN	0.2	lord hobhouse
+31	28	The Court of Appeal , Buxton LJ , Scott Baker and Holman JJ , allowed the appeal and quashed the confiscation order . 	NAN	NAN	NAN	0.2	lord hobhouse
+31	29	They held that they were bound by the previous decision of the Court in R v Whellem -LSB- 2000 -RSB- 1 Cr App R -LRB- S -RRB- 200 to hold that the Crown Court had not had the jurisdiction to make the confiscation order . 	NAN	NAN	NAN	0.2	lord hobhouse
+31	30	The Court of Appeal certified a question of law of general public importance : `` Whether the Crown Court on committal for sentence from a Magistrates ' Court in respect of offences committed before 30 September 1998 has the power to make an order for confiscation pursuant to s. 71 of the Criminal Justice Act 1988 ? '' 	NAN	NAN	NAN	0.2	lord hobhouse
+31	31	The Crown has appealed to your Lordships ' House with your Lordships ' leave . 	NAN	NAN	NAN	0.2	lord hobhouse
+31	32	It was agreed by counsel for both parties that , if the certified question is answered favourably to the Crown , the appeal should be allowed and the case remitted to the Court of Appeal . 	NAN	NAN	NAN	0.2	lord hobhouse
+31	33	The Statutory Material : 6 . 	NAN	NAN	NAN	0.2	lord hobhouse
+31	34	The question of statutory construction arises from the manner in which the 1988 Act and the other relevant Acts have been amended from time to time . 	NAN	NAN	NAN	0.2	lord hobhouse
+31	35	The Criminal Justice Act 1988 as originally enacted provided in Part VI under the heading `` Confiscation of the Proceeds of an Offence '' - `` 71 -LRB- 1 -RRB- The Crown Court and a magistrates ' court shall each have power , in addition to dealing with an offender in any other way , to make an order under this section requiring him to him to pay such sum as the court thinks fit . 	NAN	NAN	NAN	0.3	lord hobhouse
+31	36	-LRB- 2 -RRB- The Crown Court may make such an order against an offender where - -LRB- a -RRB- he is found guilty of an offence to which this Part of this Act applies ; and - ... -LRB- 3 -RRB- A magistrates ' court may make such an order against an offender where - -LRB- a -RRB- he is convicted of an offence listed in Schedule 4 to this Act ; and ... -LRB- 9 -RRB- In this Part of this Act ... -LRB- c -RRB- references to an offence to which this Part of this Act applies are references to any offence which - -LRB- i -RRB- is listed in Schedule 4 to this Act ; or -LRB- ii -RRB- if not so listed , is an indictable offence , other than a drug trafficking offence ; ... '' Schedule 4 contains a limited list of offences connected with places of entertainment and cognate activities and breach of copyright etc. . 	NAN	NAN	NAN	0.3	lord hobhouse
+31	37	The offences with which the defendant was charged and for which he was convicted were indictable offences not involving drug trafficking . 	NAN	NAN	NAN	0.3	lord hobhouse
+31	38	7 . 	NAN	NAN	NAN	0.3	lord hobhouse
+31	39	The 1988 Act was amended by the Proceeds of Crime Act 1995 . 	NAN	NAN	NAN	0.3	lord hobhouse
+31	40	This provided , so far as material , that there should be substituted for the original s. 71 -LRB- 1 -RRB- to -LRB- 3 -RRB- new subsections -LRB- 1 -RRB- to -LRB- 1E -RRB- . '' 	NAN	NAN	NAN	0.3	lord hobhouse
+31	41	-LRB- 1 -RRB- Where an offender is convicted , in any proceedings before the Crown Court or a magistrates ' court , of an offence of a relevant description , it shall be the duty of the court ... to -LSB- follow the prescribed procedure for possibly making a confiscation order -RSB- ... -LRB- 1E -RRB- For the purposes of this Part of this Act an offence is an offence of a relevant description - -LRB- a -RRB- in the case of an offence of which a person is convicted in any proceedings before the Crown Court or which is or will be taken into consideration by the Crown Court in determining any sentence , if it is a offence to which this Part of this Act applies ; and -LRB- b -RRB- in the case of an offence of which a person is convicted in any proceedings in a magistrates ' court or which is or will be taken into consideration by a magistrates ' court in determining any sentence , if it is an offence listed in Schedule 4 to this Act . '' 	NAN	NAN	NAN	0.3	lord hobhouse
+31	42	Major changes were made in the 1995 Act to the confiscation order regime but they are not presently relevant . 	NAN	NAN	NAN	0.3	lord hobhouse
+31	43	One such change had already been made by s. 28 of the Criminal Justice Act 1993 which amended the 1988 Act so that the confiscation order and the other sentences , eg imprisonment or fine , no longer all had to be imposed at the same time on the same occasion but the decision upon the confiscation order and its imposition could be postponed without holding up the other parts of the sentencing process : s. 72A . 	NAN	NAN	NAN	0.3	lord hobhouse
+31	44	In 1998 , by s. 83 of the Crime and Disorder Act 1998 , a further subsection was added to s. 71 of the 1988 Act : '' -LRB- 9A -RRB- Where an offender is committed by a magistrates ' court for sentence under section 38 or 38A of the Magistrates ' Court Act 1980 or section 56 of the Criminal Justice Act 1967 , this section and sections 72 to 74C below shall have effect as if the offender had been convicted of the offence in the proceedings before the Crown Court and not the proceedings before the magistrates ' court . '' 	NAN	NAN	NAN	0.3	lord hobhouse
+31	45	This provision did not apply to offences committed before it came into force , ie before 30 September 1998 : Schedule 9 , paragraph 8 . 	NAN	NAN	NAN	0.3	lord hobhouse
+31	46	This is why that date is referred to in the certified question . 	NAN	NAN	NAN	0.3	lord hobhouse
+31	47	8 . 	NAN	NAN	NAN	0.3	lord hobhouse
+31	48	This amendment refers to the Magistrates ' Courts Act 1980 . 	NAN	NAN	NAN	0.3	lord hobhouse
+31	49	Section 38 was part of that Act as originally drafted . 	NAN	NAN	NAN	0.4	lord hobhouse
+31	50	It provided that - `` Where on the summary trial of an offence triable either way ... if ... the court is of the opinion that -LSB- the defendant 's character and antecedents -RSB- are such as that greater punishment should be inflicted for the offence than the court has power to inflict , the court may ... commit him in custody or on bail to the Crown Court for sentence in accordance with the provisions of section 42 of the Powers of Criminal Courts Act 1973 . '' 	NAN	NAN	NAN	0.4	lord hobhouse
+31	51	In 1991 this section was amplified in a section which was substituted by s. 25 of the Criminal Justice Act 1991 . 	NAN	NAN	NAN	0.4	lord hobhouse
+31	52	The powers to commit for sentence were expanded . 	NAN	NAN	NAN	0.4	lord hobhouse
+31	53	The cross-reference to s. 42 of the 1973 Act was preserved . 	NAN	NAN	NAN	0.4	lord hobhouse
+31	54	9 . 	NAN	NAN	NAN	0.4	lord hobhouse
+31	55	Section 42 of the Powers of Criminal Courts Act 1973 , as amended by the 1980 Act provided : `` Where an offender is committed by a magistrates ' court for sentence under section 38 of the Magistrates ' Court Act 1980 or section 62 of the Criminal Justice Act 1967 , the Crown Court shall enquire into the circumstances of the case and shall have power to deal with the offender in any manner in which it could deal with him if he had just been convicted of the offence on indictment before the court . '' 	NAN	NAN	NAN	0.4	lord hobhouse
+31	56	Later amendments have been made to s. 42 but are not material to this appeal . 	NAN	NAN	NAN	0.4	lord hobhouse
+31	57	10 . 	NAN	NAN	NAN	0.4	lord hobhouse
+31	58	It will be appreciated that these provisions do distinguish between the jurisdiction of the magistrates ' court on the one hand and that of the Crown Court on the other to make confiscation orders . 	NAN	NAN	NAN	0.4	lord hobhouse
+31	59	But it will likewise be appreciated that s. 42 of the 1973 Act makes special provision for the sentencing of offenders who have been committed to the Crown Court for sentence under s. 38 of the 1980 Act . 	NAN	NAN	NAN	0.4	lord hobhouse
+31	60	The magistrates ' court would not have had the power to make the confiscation order against the defendant -LRB- the offences were not offences falling within Schedule 4 -RRB- any more than it could have sentenced him to two years imprisonment . 	NAN	NAN	NAN	0.4	lord hobhouse
+31	61	But if he had just been convicted of the offences on indictment before the Crown Court , the Crown Court would undoubtedly have had jurisdiction to make a confiscation order against him . 	NAN	NAN	NAN	0.4	lord hobhouse
+31	62	R v Whellem : 11 . 	NAN	NAN	NAN	0.4	lord hobhouse
+31	63	R v Whellem was decided on 11 June 1999 by a Court of Appeal consisting of Tuckey LJ , Gage J and Judge Rivlin QC . 	NAN	NAN	NAN	0.5	lord hobhouse
+31	64	The judgment of the court was delivered by Gage J. Mr Whellem had peaded guilty in the magistrates ' court to three counts of having been knowingly concerned in dealing with wine , cigarettes and tobacco with intent to defraud the Crown of the duty payable . 	NAN	NAN	NAN	0.5	lord hobhouse
+31	65	He was committed for sentence to the Crown Court under s. 38 . 	NAN	NAN	NAN	0.5	lord hobhouse
+31	66	In the Crown Court he was sentenced to 12 months ' imprisonment and a confiscation order was made against him in the sum of # 35,243.08 . 	NAN	NAN	NAN	0.5	lord hobhouse
+31	67	The relevant evasion of duty had taken place over the period June 1996 to May 1998 . 	NAN	NAN	NAN	0.5	lord hobhouse
+31	68	Mr Whellem appealed to the Court of Appeal on the ground that , since he had pleaded guilty in the magistrates ' court and had been convicted there , he was not a person who had been convicted in any proceedings before the Crown Court , s. 71 -LRB- 1E -RRB- , the confiscation order had been made without jurisdiction . 	NAN	NAN	NAN	0.5	lord hobhouse
+31	69	This argument was accepted and the confiscation order was quashed ; but the Court of Appeal substituted a compensation order in the like amount . 	NAN	NAN	NAN	0.5	lord hobhouse
+31	70	12 . 	NAN	NAN	NAN	0.5	lord hobhouse
+31	71	The argument of Mr Whellem was based upon the wording of s. 71 -LRB- 1E -RRB- read with s. 71 -LRB- 9A -RRB- introduced by the 1998 Act . 	NAN	NAN	NAN	0.5	lord hobhouse
+31	72	It was submitted that the introduction of the new subsection -LRB- 1E -RRB- in 1995 had created an unintentional lacuna which had not been remedied until the introduction of -LRB- 9A -RRB- in 1998 which did not have retrospective effect . 	NAN	NAN	NAN	0.5	lord hobhouse
+31	73	Subsection -LRB- 9A -RRB- had only been necessary because of the discovery of the lacuna . 	NAN	NAN	NAN	0.5	lord hobhouse
+31	74	It was this lacuna which invalidated the order made against Mr Whellem . 	NAN	NAN	NAN	0.5	lord hobhouse
+31	75	The argument of the Crown was that s. 42 of the 1973 Act had throughout given the Crown Court the requisite power on a committal for sentence . 	NAN	NAN	NAN	0.5	lord hobhouse
+31	76	The argument of the Crown was supported by In re F , an unreported decision of Jowitt J on 22 June 1998 that the requisite power was given by s. 42 read with s. 71 . 	NAN	NAN	NAN	0.6	lord hobhouse
+31	77	The Court of Appeal rejected the argument of the Crown . 	NAN	NAN	NAN	0.6	lord hobhouse
+31	78	They gave a construction to subsection -LRB- 1E -RRB- which overrode s. 42 and required an actual conviction in the Crown Court . 	NAN	NAN	NAN	0.6	lord hobhouse
+31	79	They were not impressed by the decision of Jowitt J since his attention had not been drawn to the new subsection -LRB- 9A -RRB- . 	NAN	NAN	NAN	0.6	lord hobhouse
+31	80	13 . 	NAN	NAN	NAN	0.6	lord hobhouse
+31	81	The decision in Whellem has been criticised in a case note in the Criminal Law Review , -LSB- 1999 -RSB- p. 1001 . 	NAN	NAN	NAN	0.6	lord hobhouse
+31	82	Understandably describing the relevant legislation as a `` tangled mess '' , the writer , Dr Thomas , points out the relevance of the confiscation legislation being drafted by reference to indictable offences which include offences triable either way and the absurdity then of failing to give effect to the clear provisions of s. 42 . 	NAN	NAN	NAN	0.6	lord hobhouse
+31	83	Dr Thomas , also draws attention to the case of Stephenson , -LSB- 1999 -RSB- 1 Cr App R -LRB- S -RRB- 177 , 179 , and to the view that the need for subsection -LRB- 9A -RRB- was not to fill a non-existent lacuna in the powers of the Crown Court but to enable the prosecutor , by serving a notice under the amended s. 71 -LRB- 1 -RRB- , to place the Crown Court under a duty to follow the confiscation procedures on a s. 38 -LRB- or s. 38A -RRB- committal . 	NAN	NAN	NAN	0.6	lord hobhouse
+31	84	14 . 	NAN	NAN	NAN	0.6	lord hobhouse
+31	85	The defendant submits nevertheless that Whellem was rightly decided for the reasons given in the judgment delivered by Gage J. `` In our judgment , where a defendant pleads guilty in a magistrates ' court , it can not be said that he has been convicted before the Crown Court . 	NAN	NAN	NAN	0.6	lord hobhouse
+31	86	S. 42 -LRB- 1 -RRB- -LRB- a -RRB- of the Powers of -LSB- Criminal -RSB- Courts Act 1973 gives the court power to deal with such a defendant in any manner as if he had been convicted on indictment , but the power in s. 71 -LRB- 1E -RRB- does not arise save in the court where he was convicted : in this case that is the magistrates ' court . '' 	NAN	NAN	NAN	0.6	lord hobhouse
+31	87	The Court of Appeal : 15 . 	NAN	NAN	NAN	0.6	lord hobhouse
+31	88	In the present case Buxton LJ reviewed the law and the criticisms made of Whellem by Dr Thomas . 	NAN	NAN	NAN	0.6	lord hobhouse
+31	89	He disagreed with the decision in Whellem but held that it was not decided per incuriam and that the Court was bound to follow it . 	NAN	NAN	NAN	0.6	lord hobhouse
+31	90	Buxton LJ pointed out that s. 71 -LRB- 1E -RRB- was a definition section and that the relevant power was to be derived from s. 71 -LRB- 1 -RRB- , that s. 42 was clear and seemingly conclusive and supported by Stephenson , and that the argument of redundancy from s. 71 -LRB- 9A -RRB- was unimpressive ; he broadly agreed with the criticisms of Whellem made by Dr Thomas . 	NAN	NAN	NAN	0.7	lord hobhouse
+31	91	Discussion : 16 . 	NAN	NAN	NAN	0.7	lord hobhouse
+31	92	The arguments in your Lordships ' House were those which had been considered by the Court of Appeal in Whellem and the present case . 	NAN	NAN	NAN	0.7	lord hobhouse
+31	93	For the reasons given by Buxton LJ I prefer the argument of the Crown . 	NAN	NAN	NAN	0.7	lord hobhouse
+31	94	S. 42 is clear and so is the function of the s. 38 scheme of which it forms part . 	NAN	NAN	NAN	0.7	lord hobhouse
+31	95	The purpose is to enable the question of guilt in an either way case to be settled in the magistrates ' court where the defendant does not opt for a trial on indictment and for the Crown Court to deal with sentence where it is necessary to ensure that the sentencing court has the appropriate sentencing powers to reflect the gravity of the case . 	NAN	NAN	NAN	0.7	lord hobhouse
+31	96	S. 42 uses wholly appropriate words to achieve this result : `` the Crown Court ... . 	NAN	NAN	NAN	0.7	lord hobhouse
+31	97	shall have power to deal with the offender in any manner in which it could deal with him if he had just been convicted of the offence on indictment before the court . '' 	NAN	NAN	NAN	0.7	lord hobhouse
+31	98	S. 71 as originally enacted had no words which could even raise an argument that s. 42 was to be qualified . 	NAN	NAN	NAN	0.7	lord hobhouse
+31	99	It is scarcely arguable that the amendments made to s. 71 in 1995 and the inclusion of subsection -LRB- 1E -RRB- was intended to qualify s. 42 and undermine s. 38 . 	NAN	NAN	NAN	0.7	lord hobhouse
+31	100	Apparently , the factor which is thought to make it arguable and persuasive is the 1998 amendment and the inclusion of subsection -LRB- 9A -RRB- . 	NAN	NAN	NAN	0.7	lord hobhouse
+31	101	But this is an unimpressive argument : it seeks to construe and determine the import of a statutory provision by reference to something which occurred three years after it was enacted and became law ; it is founded on one of the weakest of arguments , the argument of redundancy ; it is in any event questionable whether the premise from which the redundancy argument proceeded was made out as is demonstrated by the comments of Dr Thomas already referred to . 	NAN	NAN	NAN	0.7	lord hobhouse
+31	102	17 . 	NAN	NAN	NAN	0.7	lord hobhouse
+31	103	The only additional argument advanced in support of the defendant 's case on this appeal was an attempt to rely upon parliamentary material . 	NAN	NAN	NAN	0.7	lord hobhouse
+31	104	I do not consider that this attempt was proper . 	NAN	NAN	NAN	0.8	lord hobhouse
+31	105	S. 42 is clear and the arguments considered by Buxton LJ and the Court of Appeal do not raise any ambiguity . 	NAN	NAN	NAN	0.8	lord hobhouse
+31	106	The material sought to be relied on was the report of what was said by Lord Williams of Mostyn when inviting the House of Lords to agree to the Commons amendment which was to become s. 83 of the Crime and Disorder Act 1998 . 	NAN	NAN	NAN	0.8	lord hobhouse
+31	107	He said -LRB- HL Debates 22 July 1998 , vol .592 col. 1002 -RRB- that the amendment and that to Schedule 9 - `` are technical amendments which are designed to deal with an unintended effect of s. 49 of the Criminal Procedure and Investigations Act 1996 on the courts ' powers to confiscate the proceeds of crime . 	NAN	NAN	NAN	0.8	lord hobhouse
+31	108	Under the 1988 Act , the magistrates ' court , except for a very limited range of offences , has no power to make confiscation orders . 	NAN	NAN	NAN	0.8	lord hobhouse
+31	109	The Crown Court has extensive powers to order confiscation when it convicts a defendant , but its powers of confiscation are not presently available where an offender is committed for sentence , which happens quite often . 	NAN	NAN	NAN	0.8	lord hobhouse
+31	110	Amendment No. 61 , with its brother , is designed to deal with that anomaly . '' 	NAN	NAN	NAN	0.8	lord hobhouse
+31	111	At the best from the point of view of the defendant , this quotation does no more that raise a question whether what Dr Thomas said about the motivation for the 1998 amendment were correct . 	NAN	NAN	NAN	0.8	lord hobhouse
+31	112	The critical point is whether Lord Williams was right in the belief that there was a lacuna . 	NAN	NAN	NAN	0.8	lord hobhouse
+31	113	For the reasons which I have already given , and those given by Buxton LJ , I do not agree that he was right . 	NAN	NAN	NAN	0.8	lord hobhouse
+31	114	What he says is further open to question in that he believes that the problem arises from s. 49 of the Criminal Procedure and Investigations Act 1996 . 	NAN	NAN	NAN	0.8	lord hobhouse
+31	115	That was the section which introduced the scheme of an initial procedure for offences triable either way and an indication of intention as to plea . 	NAN	NAN	NAN	0.8	lord hobhouse
+31	116	This might have raised problems for the operation of s. 38 but it did not because it was anticipated by the draftsman who expressly provided in the new s. 17A -LRB- 6 -RRB- that , if the accused indicates that he would plead guilty , `` the court shall proceed as if the proceedings constituted from the beginning the summary trial of the information ... and he pleaded guilty ... '' . 	NAN	NAN	NAN	0.8	lord hobhouse
+31	117	The s. 38 procedure is therefore , available as was accepted in both Whellem and the present case , and s. 42 continued to apply . 	NAN	NAN	NAN	0.8	lord hobhouse
+31	118	Conclusion : 18 . 	NAN	NAN	NAN	0.9	lord hobhouse
+31	119	It follows that in my opinion the supposed lacuna in the powers of the Crown Court to make confiscation orders did not exist even for the short period between 1995 and 30 September 1998 and that the certified question should be answered in the affirmative . 	NAN	NAN	NAN	0.9	lord hobhouse
+31	120	Whellem should be overruled . 	NAN	NAN	NAN	0.9	lord hobhouse
+31	121	The appeal should be allowed accordingly and the case remitted to the Court of Appeal . 	lord hobhouse	self	outcome	0.9	lord hobhouse
+31	122	19 . 	NAN	NAN	NAN	0.9	lord hobhouse
+31	123	In the Court of Appeal , the defendant criticised the amount of the confiscation order made in the Crown Court and submitted as a further ground of appeal that it had been arrived at on the wrong basis and the proper procedures had not been followed . 	NAN	NAN	NAN	0.9	lord hobhouse
+31	124	The Court of Appeal indicated that , if they had not quashed the confiscation order on the jurisdiction point , they would have remitted the order to the Crown Court -LRB- sic -RRB- . 	NAN	NAN	NAN	0.9	lord hobhouse
+31	125	The parties ' printed cases addressed these matters but your Lordships have not heard argument upon them because , as previously stated , counsel for both parties agreed that in the event of the appeal on the certified question being allowed , the case should be remitted to the Court of Appeal , the Crown having now conceded that it could not rely upon the # 585,000 figure said to be available to the defendant outside the jurisdiction : see paragraph 49 of the Crown 's printed case . 	NAN	NAN	NAN	0.9	lord hobhouse
+31	126	------------- NEW JUDGE --------------- 	NAN	NAN	NAN	0.9	lord hobhouse
+31	127	LORD MILLETT 	NAN	NAN	NAN	0.9	lord hobhouse
+31	128	My Lords , 	NAN	NAN	NAN	0.9	lord hobhouse
+31	129	20 . 	NAN	NAN	NAN	0.9	lord hobhouse
+31	130	I have had the advantage of reading in draft the speech of my noble and learned friend , Lord Hobhouse of Woodborough . 	lord millett	lord hobhouse	ackn	0.9	lord hobhouse
+31	131	I agree with it , and for the reasons he gives I too would allow the appeal and make the order which he proposes . 	lord millett	lord hobhouse	fullagr	0.9	lord hobhouse
+31	131	I agree with it , and for the reasons he gives I too would allow the appeal and make the order which he proposes . 	lord millett	self	outcome	0.9	lord hobhouse
+31	131	I agree with it , and for the reasons he gives I too would allow the appeal and make the order which he proposes . 	lord millett	lord hobhouse	outcome	0.9	lord hobhouse
+31	132	------------- NEW JUDGE --------------- 	NAN	NAN	NAN	1	lord hobhouse
+31	133	LORD SCOTT OF FOSCOTE 	NAN	NAN	NAN	1	lord hobhouse
+31	134	My Lords , 	NAN	NAN	NAN	1	lord hobhouse
+31	135	21 . 	NAN	NAN	NAN	1	lord hobhouse
+31	136	I have had the advantage of reading in draft the opinion of my noble and learned friend , Lord Hobhouse of Woodborough . 	lord scott	lord hobhouse	ackn	1	lord hobhouse
+31	137	I agree with it , and for the reasons he gives I too would allow the appeal and make the order which he proposes . 	lord scott	lord hobhouse	fullagr	1	lord hobhouse
+31	137	I agree with it , and for the reasons he gives I too would allow the appeal and make the order which he proposes . 	lord scott	self	outcome	1	lord hobhouse
+31	137	I agree with it , and for the reasons he gives I too would allow the appeal and make the order which he proposes . 	lord scott	lord hobhouse	outcome	1	lord hobhouse

@@ -1,0 +1,7 @@
+digraph fullagr_hutton_bingham { 
+ K=0.6 
+ "hutton" -> { "bingham" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#216"]; 
+ "hutton" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#hutton"]; 
+ "bingham" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#bingham"]; 
+
+}

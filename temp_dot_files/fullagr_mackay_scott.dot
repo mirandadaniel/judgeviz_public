@@ -1,0 +1,7 @@
+digraph fullagr_mackay_scott { 
+ K=0.6 
+ "mackay" -> { "scott" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#12"]; 
+ "mackay" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#mackay"]; 
+ "scott" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#scott"]; 
+
+}

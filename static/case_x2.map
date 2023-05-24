@@ -1,0 +1,16 @@
+<map id="case17" name="case17">
+<area shape="circle" id="node1" href="#steyn" title="steyn" alt="" coords="53,53,48"/>
+<area shape="poly" id="edge2" href="#7" alt="" coords="93,24,106,24,117,30,125,39,128,53,122,72,108,82,105,77,118,69,123,53,120,42,114,34,105,30,93,29"/>
+<area shape="circle" id="node2" href="#cooke" title="cooke" alt="" coords="269,197,48"/>
+<area shape="poly" id="edge1" href="#7" alt="" coords="94,78,220,160,217,165,91,83"/>
+<area shape="poly" id="edge5" href="#283" alt="" coords="309,168,322,168,333,174,341,183,344,197,338,216,324,226,321,221,334,213,339,197,336,186,330,178,321,174,309,173"/>
+<area shape="circle" id="node3" href="#browne-wilkinson" title="browne&#45;wilkinson" alt="" coords="197,53,48"/>
+<area shape="poly" id="edge3" href="#13" alt="" coords="221,95,244,140,239,143,216,98"/>
+<area shape="poly" id="edge4" href="#13" alt="" coords="237,24,250,24,261,30,269,39,272,53,266,72,252,82,249,77,262,69,267,53,264,42,258,34,249,30,237,29"/>
+<area shape="circle" id="node4" href="#clyde" title="clyde" alt="" coords="341,53,48"/>
+<area shape="poly" id="edge6" href="#289" alt="" coords="322,98,299,143,295,140,318,95"/>
+<area shape="poly" id="edge7" href="#289" alt="" coords="381,24,394,24,405,30,413,39,416,53,410,72,396,82,393,77,406,69,411,53,408,42,402,34,393,30,381,29"/>
+<area shape="circle" id="node5" href="#hutton" title="hutton" alt="" coords="485,53,48"/>
+<area shape="poly" id="edge8" href="#295" alt="" coords="450,87,427,104,324,168,322,163,424,99,447,82"/>
+<area shape="poly" id="edge9" href="#295" alt="" coords="525,24,538,24,549,30,557,39,560,53,554,72,540,82,537,77,550,69,555,53,552,42,546,34,537,30,525,29"/>
+</map>

@@ -1,0 +1,7 @@
+digraph fullagr_scott_bingham { 
+ K=0.6 
+ "scott" -> { "bingham" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#226"]; 
+ "scott" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#scott"]; 
+ "bingham" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#bingham"]; 
+
+}

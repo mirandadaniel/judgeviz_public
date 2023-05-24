@@ -1,0 +1,19 @@
+digraph case21 { 
+ K=0.6 
+ "hope" -> { "hobhouse" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#6"]; 
+ "hope" -> { "hope" } [color="blue", arrowhead="vee", penwidth=1, href="#6"]; 
+ "hope" -> { "hobhouse" } [color="darkgreen", arrowhead="onormal", penwidth=1, href="partagr_hope_hobhouse"];
+ "browne-wilkinson" -> { "hobhouse" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#39"]; 
+ "browne-wilkinson" -> { "browne-wilkinson" } [color="blue", arrowhead="vee", penwidth=1, href="#39"]; 
+ "clyde" -> { "hobhouse" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#45"]; 
+ "clyde" -> { "clyde" } [color="blue", arrowhead="vee", penwidth=1, href="#45"]; 
+ "hutton" -> { "hobhouse" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#51"]; 
+ "hutton" -> { "hutton" } [color="blue", arrowhead="vee", penwidth=1, href="#51"]; 
+ "hobhouse" -> { "hobhouse" } [color="blue", arrowhead="vee", penwidth=1, href="#344"]; 
+ "hope" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#hope"]; 
+ "browne-wilkinson" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#browne-wilkinson"]; 
+ "clyde" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#clyde"]; 
+ "hutton" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#hutton"]; 
+ "hobhouse" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="yellow", href="#hobhouse"]; 
+
+}

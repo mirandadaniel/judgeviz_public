@@ -1,0 +1,530 @@
+3.21	69	1	0	0.5	NONE	[2003] UKHL 21	<new-case>	NONE	NONE	NONE	NONE	0	0	0	0	1	0
+3.21	69	2	1	0.5	nicholls	LORD NICHOLLS OF BIRKENHEAD	TEXTUAL	NONE	NONE	NONE	NONE	0	0	0	0	0	1
+3.21	69	3	2	0.5	nicholls	My Lords ,	TEXTUAL	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	5	3	1	nicholls	Can a person change the sex with which he or she is born ?	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	6	4	1	nicholls	Stated in an over-simplified and question-begging form , this is the issue raised by this appeal .	TEXTUAL	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	7	5	1	nicholls	More specifically , the question is whether the petitioner , Mrs Elizabeth Bellinger , is validly married to Mr Michael Bellinger .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	8	6	1	nicholls	On 2 May 1981 Mr and Mrs Bellinger went through a ceremony of marriage to each other .	FACT	4	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	9	7	1	nicholls	Section 1 ( c ) of the Nullity of Marriage Act 1971 , re-enacted in section 11 ( c ) of the Matrimonial Causes Act 1973 , provides that a marriage is void unless the parties are ' respectively male and female ' .	BACKGROUND	NONE	NONE	NONE	NONE	1	1	0	0	0	0
+3.21	69	10	8	1	nicholls	The question is whether , at the time of the marriage , Mrs Bellinger was ' female ' within the meaning of that expression in the statute .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	11	9	1	nicholls	In these proceedings she seeks a declaration that the marriage was valid at its inception and is subsisting .	PROCEEDINGS	3	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	12	10	1	nicholls	The trial judge , Johnson J , refused to make this declaration : see [ 2001 ] 1 FLR 389 .	PROCEEDINGS	3	NONE	NONE	NONE	0	0	0	0	1	1
+3.21	69	13	11	1	nicholls	So did the Court of Appeal , by a majority of two to one : see [ 2001 ] EWCA Civ 1140 , [ 2002 ] 2 WLR 411 .	PROCEEDINGS	3	NONE	NONE	NONE	0	0	1	0	1	0
+3.21	69	14	12	1	nicholls	The majority comprised Dame Elizabeth Butler-Sloss P and Robert Walker LJ .	PROCEEDINGS	NONE	NONE	NONE	NONE	0	0	0	0	0	1
+3.21	69	15	13	1	nicholls	Thorpe LJ dissented .	PROCEEDINGS	NONE	NONE	NONE	NONE	0	0	0	0	0	1
+3.21	69	17	14	2	nicholls	In an alternative claim , advanced for the first time before your Lordships ' House , Mrs Bellinger seeks a declaration that section 11 ( c ) of the Matrimonial Causes Act 1973 is incompatible with articles 8 and 12 of the European Convention on Human Rights .	PROCEEDINGS	NONE	NONE	NONE	NONE	1	1	1	0	0	0
+3.21	69	18	15	2	nicholls	The Lord Chancellor has intervened in the proceedings as the minister with policy responsibility for that statutory provision .	PROCEEDINGS	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	20	16	3	nicholls	Mrs Bellinger was born on 7 September 1946 .	FACT	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	21	17	3	nicholls	At birth she was correctly classified and registered as male .	FACT	4	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	22	18	3	nicholls	That is common ground .	FACT	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	23	19	3	nicholls	For as long as she can remember , she felt more inclined to be female .	FACT	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	24	20	3	nicholls	She had an increasing urge to live as a woman rather than as a man .	FACT	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	25	21	3	nicholls	Despite her inclinations , and under some pressure , in 1967 she married a woman .	FACT	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	26	22	3	nicholls	She was then twenty one .	FACT	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	27	23	3	nicholls	The marriage broke down .	FACT	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	28	24	3	nicholls	They separated in 1971 and were divorced in 1975 .	FACT	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	30	25	4	nicholls	Since then Mrs Bellinger has dressed and lived as a woman .	FACT	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	31	26	4	nicholls	She underwent treatment , described below .	FACT	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	32	27	4	nicholls	When she married Mr Bellinger he was fully aware of her background .	FACT	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	33	28	4	nicholls	He has throughout been entirely supportive of her .	FACT	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	34	29	4	nicholls	She was described on her marriage certificate as a spinster .	FACT	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	35	30	4	nicholls	Apart from that , the registrar did not ask about her gender status , nor did Mrs Bellinger volunteer any information .	FACT	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	36	31	4	nicholls	Since their marriage Mr and Mrs Bellinger have lived happily together as husband and wife , and have presented themselves in this way to the outside world .	FACT	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	37	32	4.5	nicholls	The indicia of sex and transsexual people	TEXTUAL	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	38	33	5	nicholls	The indicia of human sex or gender ( for present purposes the two terms are interchangeable ) can be listed , in no particular order , as follows .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	39	34	5	nicholls	( 1 ) Chromosomes : XY pattern in males , XX in females .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	40	35	5	nicholls	( 2 ) Gonads : testes in males , ovaries in females .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	41	36	5	nicholls	( 3 ) Internal sex organs other than the gonads : for instance , sperm ducts in males , uterus in females .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	42	37	5	nicholls	( 4 ) External genitalia .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	43	38	5	nicholls	( 5 ) Hormonal patterns and secondary sexual characteristics , such as facial hair and body shape : no one suggests these criteria should be a primary factor in assigning sex .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	44	39	5	nicholls	( 6 ) Style of upbringing and living .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	45	40	5	nicholls	( 7 ) Self-perception .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	46	41	5	nicholls	Some medical research has suggested that this factor is not exclusively psychological .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	47	42	5	nicholls	Rather , it is associated with biological differentiation within the brain .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	48	43	5	nicholls	The research has been very limited , and in the present state of neuroscience the existence of such an association remains speculative .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	50	44	6	nicholls	In the vast majority of cases these indicia in an individual all point in the same direction .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	51	45	6	nicholls	There is no difficulty in assigning male or female gender to the individual .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	52	46	6	nicholls	But nature does not draw straight lines .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	53	47	6	nicholls	Some people have the misfortune to be born with physiological characteristics which deviate from the normal in one or more respects , and to lesser or greater extent .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	54	48	6	nicholls	These people attract the convenient shorthand description of inter-sexual .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	55	49	6	nicholls	In such cases classification of the individual as male or female is best done by having regard to all the factors I have listed .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	56	50	6	nicholls	If every person has to be classified as either male or female , that is the best that can be done .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	57	51	6	nicholls	That was the course , in line with medical opinion , followed by Charles J in W v W ( Physical Inter-sex ) [ 2001 ] Fam 111 , 146d-f .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	1	1	1
+3.21	69	58	52	6	nicholls	That is not the problem arising in the present case .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	60	53	7	nicholls	Transsexual people are to be distinguished from inter-sexual people .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	61	54	7	nicholls	Transsexual is the label given , not altogether happily , to a person who has the misfortune to be born with physical characteristics which are congruent but whose self-belief is incongruent .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	62	55	7	nicholls	Transsexual people are born with the anatomy of a person of one sex but with an unshakeable belief or feeling that they are persons of the opposite sex .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	63	56	7	nicholls	They experience themselves as being of the opposite sex .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	64	57	7	nicholls	Mrs Bellinger is such a person .	FACT	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	65	58	7	nicholls	The aetiology of this condition remains uncertain .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	66	59	7	nicholls	It is now generally recognised as a psychiatric disorder , often known as gender dysphoria or gender identity disorder .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	67	60	7	nicholls	It can result in acute psychological distress .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	69	61	8	nicholls	The treatment of this condition depends upon its severity and the circumstances of the individual .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	70	62	8	nicholls	In severe cases conventional psychiatric treatment is inadequate .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	71	63	8	nicholls	Ultimately the most that medical science can do in order to alleviate the condition is , in appropriate cases , to rid the body of its intensely disliked features and make it accord , so far as possible , with the anatomy craved .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	72	64	8	nicholls	This is done by means of hormonal and other treatment and major surgery , popularly known as a ' sex change ' operation .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	73	65	8	nicholls	In this regard medical science and surgical expertise have advanced much in recent years .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	74	66	8	nicholls	Hormonal treatment can change a person 's secondary sexual characteristics .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	75	67	8	nicholls	Irreversible surgery can adapt or remove genitalia and other organs , external and internal .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	76	68	8	nicholls	By this means a normal body of one sex can be altered so as to give the appearance of a normal body of the other sex .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	77	69	8	nicholls	But there are still limits to what can be done .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	78	70	8	nicholls	Gonads cannot be constructed .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	79	71	8	nicholls	The creation of replica genital organs is particularly difficult with female to male gender reassignment surgery .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	80	72	8	nicholls	Chromosomal patterns remain unchanged .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	81	73	8	nicholls	The change of body can never be complete .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	83	74	9	nicholls	Surgery of this nature is the last step in what are typically four steps of treatment .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	84	75	9	nicholls	The four steps are psychiatric assessment , hormonal treatment , a period of living as a member of the opposite sex subject to professional supervision and therapy ( the ' real life experience ' ) , and finally , in suitable cases , gender reassignment surgery .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	85	76	9	nicholls	In February 1981 Mrs Bellinger , having been through the previous stages of treatment , successfully underwent this form of surgery .	FACT	4	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	86	77	9	nicholls	This involved removal of her testes and penis and , in the words of Johnson J , ' the creation of an orifice which can be described as an artificial vagina , but she was still without uterus or ovaries or any other biological characteristics of a woman . '	FACT	NONE	NONE	NONE	NONE	0	0	0	0	0	1
+3.21	69	87	78	9	nicholls	A chromosomal test , dated 8 April 1999 , showed her to have a karyotype 46XY pattern , an apparently normal male karyotype .	FACT	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	89	79	10	nicholls	For completeness I should mention in passing that a transsexual person is to be distinguished from a homosexual person .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	90	80	10	nicholls	A homosexual is a person who is attracted sexually to persons of the same sex .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	91	81	10	nicholls	Nor should a transsexual person be confused with a transvestite .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	92	82	10	nicholls	A transvestite is a person who , usually for the purpose of his or her sexual gratification , enjoys dressing in the clothes of the opposite sex .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	93	83	10.5	nicholls	The present state of the law	TEXTUAL	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	94	84	11	nicholls	The present state of English law regarding the sex of transsexual people is represented by the well known decision of Ormrod J in Corbett v Corbett [ 1971 ] P 83 , 104 , 106 .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	1	1	1
+3.21	69	95	85	11	nicholls	That case , like the present one , concerned the gender of a male to female transsexual in the context of the validity of a marriage .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	96	86	11	nicholls	Ormrod J held that , in this context , the law should adopt the chromosomal , gonadal and genital tests .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	1
+3.21	69	97	87	11	nicholls	If all three are congruent , that should determine a person 's sex for the purpose of marriage .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	98	88	11	nicholls	Any operative intervention should be ignored .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	99	89	11	nicholls	The biological sexual constitution of an individual is fixed at birth , at the latest , and cannot be changed either by the natural development of organs of the opposite sex or by medical or surgical means .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	101	90	12	nicholls	In R v Tan [ 1983 ] QB 1053 , 1063 - 1064 , the Court of Appeal , comprising May LJ and Parker and Staughton JJ , applied the Corbett approach in the context of criminal law .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	1	1	1	1
+3.21	69	102	91	12	nicholls	The court upheld convictions which were dependent on Gloria Greaves , a post-operative male to female transsexual , still being in law a man .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	103	92	12	nicholls	In S-T ( formerly J ) v J [ 1998 ] Fam 103 , 122 , a case of a female to male transsexual , the correctness of the decision in Corbett seems not to have been challenged .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	1	1	0
+3.21	69	104	93	12	nicholls	But Ward LJ suggested that the decision would bear re-examination .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	1
+3.21	69	106	94	13	nicholls	The decision in Corbett has attracted much criticism , from the medical profession and elsewhere .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	1	0	0
+3.21	69	107	95	13	nicholls	The criteria for designating a person as male or female are complex .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	108	96	13	nicholls	It is too ' reductionistic ' to have regard only to the three Corbett factors of chromosomes , gonads and genitalia .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	1	0	0
+3.21	69	109	97	13	nicholls	This approach ignores ' the compelling significance of the psychological status of the person as a man or a woman ' .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	110	98	13	nicholls	Further , the application of the Corbett approach leads to a substantially different outcome in the cases of a post-operative inter-sexual person and a post-operative transsexual person , even though , post-operatively , the bodies of the two individuals may be remarkably similar .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	1	0	0
+3.21	69	112	99	14	nicholls	In overseas jurisdictions Corbett has not been universally followed .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	113	100	14	nicholls	It was followed , for instance , in South Africa in W v W ( 1976 ) ( 2 ) SALR 308 and in Canada in M v M ( A ) ( 1984 ) 42 RFL ( 2d ) 267 .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	1	1	0
+3.21	69	114	101	14	nicholls	But more recently the trend has been in the opposite direction .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	115	102	14	nicholls	Thus , for instance , in New Zealand and Australia post-operative transsexuals ' assigned sex has been recognised for the purpose of validating their marriages .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	1	0	0	0
+3.21	69	116	103	14	nicholls	In New Zealand in Attorney-General v Otahuhu Family Court [ 1995 ] 1 NZLR 603 , 630 , Ellis J noted that once a transsexual person has undergone surgery , he or she is no longer able to operate in his or her original sex .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	1	1	1
+3.21	69	117	104	14	nicholls	He held there is no social advantage in the law not recognising the validity of the marriage of a transsexual in the sex of reassignment .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	118	105	14	nicholls	An adequate test is whether the person in question has undergone surgical and medical procedures that have effectively given the person the physical conformation of a person of a specified sex .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	120	106	15	nicholls	In Australia Chisholm J reached a similar conclusion in Re Kevin ( validity of marriage of transsexual ) [ 2001 ] Fam CA 1074 , a case decided after the decision of the Court of Appeal in the present case .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	1	0	1	1
+3.21	69	121	107	15	nicholls	Chisholm J 's extensive judgment contains a powerful critique of the existing law and a useful review of international developments .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	1
+3.21	69	122	108	15	nicholls	Having regard to the view I take of this case , it is not necessary for me to elaborate on his views .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	123	109	15	nicholls	Suffice to say , his conclusion was that there is no ' formulaic solution ' to determining the sex of an individual for the purpose of the law of marriage .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	124	110	15	nicholls	All relevant matters need to be considered , including the person 's life experiences and self-perception .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	125	111	15	nicholls	Post-operative transsexual people will normally be members of their reassigned sex .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	127	112	16	nicholls	This decision was the subject of an appeal .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	128	113	16	nicholls	Very recently , on 21 February 2003 , the full court of the Federal Family Court dismissed the appeal :	BACKGROUND	NONE	NONE	NONE	NONE	0	0	1	0	0	0
+3.21	69	129	114	16	nicholls	Appeal no. EA / 97/2001 ( unreported ) .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	130	115	16	nicholls	The judgment of the full court contains an invaluable survey of the authorities and the issues .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	131	116	16	nicholls	The court concluded that in the relevant Commonwealth marriage statute the words ' man ' and ' woman ' should be given their ordinary , everyday contemporary meaning .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	132	117	16	nicholls	Chisholm J .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	1
+3.21	69	132	118	16	nicholls	was entitled to conclude , as a question of fact , that the word ' man ' includes a post-operative female to male transsexual person .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	133	119	16	nicholls	The full court left open the ' more difficult ' question of pre-operative transsexual persons .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	134	120	16.5	nicholls	The decisions of the courts below	TEXTUAL	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	135	121	17	nicholls	The trial judge , Johnson J , recognised there has been a marked change in social attitudes to problems such as those of Mrs Bellinger since Corbett v Corbett [ 1971 ] P 83 was decided in 1970 .	PROCEEDINGS	NONE	NONE	NONE	NONE	0	0	0	1	1	1
+3.21	69	136	122	17	nicholls	The law on this matter in this country is , or is becoming , a minority position , at least so far as Europe is concerned .	PROCEEDINGS	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	137	123	17	nicholls	But the law is clear , and as a judge he had to accept the law as it is .	PROCEEDINGS	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	138	124	17	nicholls	What is also clear is that this is no simple matter .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	139	125	17	nicholls	Potentially there are serious implications to be considered in relation to the law of marriage and other areas of life : see [ 2001 ] 1 FLR 389 , 402 .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	1	0
+3.21	69	141	126	18	nicholls	Likewise , the majority of the Court of Appeal , having considered up to date medical evidence , adhered to the Corbett approach .	PROCEEDINGS	NONE	NONE	NONE	NONE	0	0	1	1	0	0
+3.21	69	142	127	18	nicholls	The three criteria relied upon by Ormrod J remain the only basis upon which to decide upon the gender of a child at birth .	PROCEEDINGS	NONE	NONE	NONE	NONE	0	0	0	0	0	1
+3.21	69	143	128	18	nicholls	There is , in informed medical circles , a growing momentum for recognition of transsexual people for every purpose and in a manner similar to those who are inter-sexed .	PROCEEDINGS	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	144	129	18	nicholls	This reflects changes in social attitudes as well as advances in medical research .	PROCEEDINGS	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	145	130	18	nicholls	But recognition of a change of gender for the purposes of marriage would require some certainty regarding the point at which the change takes place .	PROCEEDINGS	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	146	131	18	nicholls	This point is not easily ascertainable .	PROCEEDINGS	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	147	132	18	nicholls	At what point would it be consistent with public policy to recognise that a person should be treated for all purposes , including marriage , as a person of the opposite sex to that which he or she was correctly assigned at birth ?	PROCEEDINGS	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	148	133	18	nicholls	This is a question for Parliament , not the courts : see [ 2002 ] 2 WLR 411 , 434 - 436 , paras 97 - 109 .	PROCEEDINGS	NONE	NONE	NONE	NONE	0	0	0	0	1	0
+3.21	69	150	134	19	nicholls	In his dissenting judgment Thorpe LJ questioned whether it was right , particularly in the context of marriage , to make the chromosomal factor conclusive , or even dominant .	PROCEEDINGS	NONE	NONE	NONE	NONE	0	0	0	0	0	1
+3.21	69	151	135	19	nicholls	It is an invisible feature of an individual , incapable of perception other than by scientific test .	PROCEEDINGS	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	152	136	19	nicholls	In the context of the institution of marriage as it is today it is right to give predominance to psychological factors and to carry out the essential assessment of gender at or shortly before the time of marriage rather than at the time of birth : [ 2002 ] 2 WLR 411 , 449 , para 155 .	PROCEEDINGS	NONE	NONE	NONE	NONE	0	0	0	0	1	0
+3.21	69	153	137	19.5	nicholls	The European Court of Human Rights	TEXTUAL	NONE	NONE	NONE	NONE	0	0	1	0	0	0
+3.21	69	154	138	20	nicholls	This issue has been before the European Court of Human Rights on several occasions in the last twenty years .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	1	0	0	0
+3.21	69	155	139	20	nicholls	During this period the development of human rights law on this issue has been remarkably rapid .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	156	140	20	nicholls	Until very recently the court consistently held that application of the Corbett criteria , and consequent non-recognition of change of gender by post-operative transsexual persons , did not constitute a violation of article 8 ( right to respect for private life ) or article 12 ( right to marry ) : Rees v United Kingdom ( 1986 ) 9 EHRR 56 , Cossey v United Kingdom ( 1990 ) 13 EHRR 622 , and Sheffield and Horsham v United Kingdom ( 1998 ) 27 EHRR 163 .	BACKGROUND	NONE	NONE	NONE	NONE	1	0	0	1	1	0
+3.21	69	157	141	20	nicholls	It is to be noted , however , that in the latter case the court was critical of the United Kingdom 's apparent failure to take any steps to keep this area of the law under review .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	158	142	20	nicholls	There is , the court said , an increased social acceptance of transsexualism and an increased recognition of the problems which post-operative transsexual people encounter .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	159	143	20	nicholls	The court reiterated that this area ' needs to be kept under review by Contracting States ' : para 60 .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	161	144	21	nicholls	In its most recent decision the court has taken the view that the sands of time have run out .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	162	145	21	nicholls	The United Kingdom 's margin of appreciation no longer extends to declining to give legal recognition to all cases of gender reassignment .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	163	146	21	nicholls	This was the decision of the court , sitting as a grand chamber , in the case of Goodwin v United Kingdom ( 2002 ) 35 EHRR 18 .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	1	1	0
+3.21	69	164	147	21	nicholls	Judgment was given in July 2002 , that is , after the Court of Appeal gave its judgment in the present case .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	1	0	0	0
+3.21	69	165	148	21	nicholls	Christine Goodwin was a post-operative male to female transsexual .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	1
+3.21	69	166	149	21	nicholls	The court held unanimously that the United Kingdom was in breach of articles 8 and 12 .	BACKGROUND	NONE	NONE	NONE	NONE	1	0	0	0	0	0
+3.21	69	168	150	22	nicholls	The court 's judgment was wide-ranging .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	169	151	22	nicholls	As it happens , this was not a ' marriage ' case .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	170	152	22	nicholls	Christine Goodwin had married as a man and later been divorced .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	1
+3.21	69	171	153	22	nicholls	Her complaint was that in several respects she , as a post-operative transsexual person , was not treated fairly by the laws or practices of this country .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	172	154	22	nicholls	She was unable to pursue a claim for sexual harassment in an employment tribunal because she was considered in law to be a man .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	173	155	22	nicholls	She was not eligible for a state pension at 60 , the age of entitlement for women .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	174	156	22	nicholls	She remained obliged to pay the higher car insurance premiums applicable to men .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	175	157	22	nicholls	In many instances she had to choose between revealing her birth certificate and foregoing advantages conditional upon her producing her birth certificate .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	176	158	22	nicholls	Her inability to marry as a woman seems not to have been the subject of specific complaint by her .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	177	159	22	nicholls	But in its judgment the court expressed its views on this and other aspects of the lack of legal recognition of her gender reassignment .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	179	160	23	nicholls	Some of the main points in the judgment of the court can be summarised as follows .	TEXTUAL	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	180	161	23	nicholls	In the interests of legal certainty , foreseeability and equality before the law the court should not depart , without good reason , from precedents laid down in previous cases .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	181	162	23	nicholls	But the court must have regard to changing conditions within the respondent state and within contracting states generally .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	182	163	23	nicholls	The court must respond to any evolving convergence on the standards to be achieved : para 74 .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	183	164	23	nicholls	A test of congruent biological factors can no longer be decisive in denying legal recognition to the change of gender of a post-operative transsexual : para 100 .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	184	165	23	nicholls	With increasingly sophisticated types of surgery and hormonal treatments the principal unchanging biological aspect of gender identity is the chromosomal element .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	185	166	23	nicholls	It is not apparent that this must inevitably be of decisive significance : para 82 .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	186	167	23	nicholls	The court recognised that it is for a contracting state to determine , amongst other matters , the conditions under which a person claiming legal recognition as a transsexual establishes that gender re-assignment has been properly effected .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	187	168	23	nicholls	But it found ' no justification for barring the transsexual from enjoying the right to marry under any circumstances ' : para 103 .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	189	169	24	nicholls	This decision of the court was essentially prospective in character .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	190	170	24	nicholls	The court made this plain .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	191	171	24	nicholls	Until 1998 , the date of the decision in Sheffield and Horsham v United Kingdom ( 1998 ) 27 EHRR 163 , the court had found that the United Kingdom 's treatment of post-operative transsexual people was within this country 's margin of appreciation and that this treatment did not violate the Convention .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	1	1	0
+3.21	69	192	172	24	nicholls	By the Goodwin decision the court found that ' the situation , as it has evolved , no longer falls within the United Kingdom 's margin of appreciation ' : paras 119 - 120 ( emphasis added ) .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	1	0	0
+3.21	69	193	173	24.5	nicholls	Developments since the Goodwin decision	TEXTUAL	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	194	174	25	nicholls	This decision of the European Court of Human Rights prompted three developments .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	1	0	0	0
+3.21	69	195	175	25	nicholls	First , in written answers to the House of Commons on 23 July 2002 , the Parliamentary Secretary to the Lord Chancellor 's Department noted that the interdepartmental working group on transsexual people had been reconvened .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	1	0	0	1
+3.21	69	196	176	25	nicholls	Its terms of reference include re-examining the implications of granting full legal status to transsexual people in their acquired gender .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	197	177	25	nicholls	The minister stated that the working group had been asked to consider urgently the implications of the Goodwin judgment .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	1	0	0
+3.21	69	199	178	26	nicholls	The second development has an important bearing on the outcome of this appeal .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	200	179	26	nicholls	On 13 December 2002 the government announced its intention to bring forward primary legislation which will allow transsexual people who can demonstrate they have taken decisive steps towards living fully and permanently in the acquired gender to marry in that gender .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	201	180	26	nicholls	The legislation will also deal with other issues arising from the legal recognition of acquired gender .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	202	181	26	nicholls	A draft outline Bill will be published in due course .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	204	182	27	nicholls	The third development was that before your Lordships ' House counsel for the Lord Chancellor accepted that , from the time of the Goodwin decision , those parts of English law which fail to give legal recognition to the acquired gender of transsexual persons are in principle incompatible with articles 8 and 12 of the Convention .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	1	0	0	0
+3.21	69	205	183	27	nicholls	Domestic law , including section 11 ( c ) of the Matrimonial Causes Act 1973 , will have to change .	BACKGROUND	NONE	NONE	NONE	NONE	1	1	0	0	0	0
+3.21	69	206	184	27.5	nicholls	Gender reassignment	TEXTUAL	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	207	185	28	nicholls	The distinction between male and female exists throughout the animal world .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	208	186	28	nicholls	It corresponds to the different roles played in the reproductive process .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	209	187	28	nicholls	A male produces sperm which fertilise the female 's eggs .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	210	188	28	nicholls	In this country , as elsewhere , classification of a person as male or female has long conferred a legal status .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	211	189	28	nicholls	It confers a legal status , in that legal as well as practical consequences follow from the recognition of a person as male or female .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	212	190	28	nicholls	The legal consequences affect many areas of life , from marriage and family law to gender-specific crime and competitive sport .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	213	191	28	nicholls	It is not surprising , therefore , that society through its laws decides what objective biological criteria should be applied when categorising a person as male or female .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	214	192	28	nicholls	Individuals cannot choose for themselves whether they wish to be known or treated as male or female .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	215	193	28	nicholls	Self-definition is not acceptable .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	216	194	28	nicholls	That would make nonsense of the underlying biological basis of the distinction .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	218	195	29	nicholls	This approach did not give rise to legal difficulty before the advent of gender reassignment treatment .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	219	196	29	nicholls	This was noted by Lord Reed in his article ' Splitting the difference : transsexuals and European Human Rights law ' ( September 2000 ) .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	1
+3.21	69	220	197	29	nicholls	Gender identity disorder seems always to have existed .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	221	198	29	nicholls	But before the advent of gender reassignment treatment a claim by a transsexual person to be recognised in his or her self-perceived gender would have been hopeless .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	222	199	29	nicholls	The anatomy of his or her body of itself would have refuted the claim .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	224	200	30	nicholls	The position has now changed .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	225	201	30	nicholls	Recognition of transsexualism as a psychiatric disorder has been accompanied by the development of sophisticated techniques of medical treatment .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	226	202	30	nicholls	The anatomical appearance of the body can be substantially altered , by forms of treatment which are permissible as well as possible .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	227	203	30	nicholls	It is in these changed circumstances that society is now facing the question of how far it is prepared to go to alleviate the plight of the small minority of people who suffer from this medical condition .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	228	204	30	nicholls	Should self-perceived gender be recognised ?	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	230	205	31	nicholls	Recognition of gender reassignment will involve some blurring of the normally accepted biological distinction between male and female .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	231	206	31	nicholls	Some blurring already exists , unavoidably , in the case of inter-sexual persons .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	232	207	31	nicholls	When assessing the gender of inter-sexual persons , matters taken into account include self-perception and style of upbringing and living .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	233	208	31	nicholls	Recognition of gender reassignment will involve further blurring .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	234	209	31	nicholls	It will mean that in law a person who , unlike an inter-sexual person , had all the biological characteristics of one sex at birth may subsequently be treated as a member of the opposite sex .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	236	210	32	nicholls	Thus the circumstances in which , and the purposes for which , gender reassignment is recognised are matters of much importance .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	237	211	32	nicholls	These are not easy questions .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	238	212	32	nicholls	The circumstances of transsexual people vary widely .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	239	213	32	nicholls	The distinction between male and female is material in widely differing contexts .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	240	214	32	nicholls	The criteria appropriate for recognising self-perceived gender in one context , such as marriage , may not be appropriate in another , such as competitive sport .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	242	215	33	nicholls	Stated very shortly , this is the setting for the legal issues arising on this appeal , to which I now turn .	TEXTUAL	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	243	216	33.5	nicholls	Gender and marriage : part of a wider problem	TEXTUAL	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	245	217	34	nicholls	My Lords , I am profoundly conscious of the humanitarian considerations underlying Mrs Bellinger 's claim .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	1
+3.21	69	246	218	34	nicholls	Much suffering is involved for those afflicted with gender identity disorder .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	247	219	34	nicholls	Mrs Bellinger and others similarly placed do not undergo prolonged and painful surgery unless their turmoil is such that they cannot otherwise live with themselves .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	248	220	34	nicholls	Non-recognition of their reassigned gender can cause them acute distress .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	249	221	34	nicholls	I have this very much in mind .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	251	222	35	nicholls	I also have in mind that increasingly , in the more compassionate times in which we live , there is an international trend towards recognising gender reassignment and not condemning post-operative transsexual people to live in what was aptly described by the European Court of Human Rights in the Goodwin case as an intermediate zone , not quite one gender or the other .	FRAMING	NONE	NONE	NONE	NONE	0	0	1	1	0	0
+3.21	69	252	223	35	nicholls	And in this country gender reassignment has already received legal recognition for some purposes , for example , for the purpose of the discrimination legislation , in section 2A of the Sex Discrimination Act 1975 .	BACKGROUND	NONE	NONE	NONE	NONE	1	1	0	0	0	0
+3.21	69	253	224	35	nicholls	This section was introduced into the statute by the Sexual Discrimination ( Gender Re-assignment ) Regulations 1999 ( SI 1999/1102 ) .	BACKGROUND	NONE	NONE	NONE	NONE	0	1	0	0	0	0
+3.21	69	255	225	36	nicholls	Despite this , I am firmly of the view that your Lordships ' House , sitting in its judicial capacity , ought not to accede to the submissions made on behalf of Mrs Bellinger .	DISPOSAL	NONE	NONE	NONE	NONE	0	0	1	0	0	0
+3.21	69	256	226	36	nicholls	Recognition of Mrs Bellinger as female for the purposes of section 11 ( c ) of the Matrimonial Causes Act 1973 would necessitate giving the expressions ' male ' and ' female ' in that Act a novel , extended meaning : that a person may be born with one sex but later become , or become regarded as , a person of the opposite sex .	FRAMING	5	NONE	NONE	NONE	1	1	0	0	0	0
+3.21	69	258	227	37	nicholls	This would represent a major change in the law , having far reaching ramifications .	FRAMING	6	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	259	228	37	nicholls	It raises issues whose solution calls for extensive enquiry and the widest public consultation and discussion .	FRAMING	7	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	260	229	37	nicholls	Questions of social policy and administrative feasibility arise at several points , and their interaction has to be evaluated and balanced .	FRAMING	8	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	261	230	37	nicholls	The issues are altogether ill-suited for determination by courts and court procedures .	FRAMING	9	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	262	231	37	nicholls	They are pre-eminently a matter for Parliament , the more especially when the government , in unequivocal terms , has already announced its intention to introduce comprehensive primary legislation on this difficult and sensitive subject .	FRAMING	10	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	263	232	38	nicholls	Given this latter circumstance , intervention by the courts would be peculiarly inappropriate when the change being sought in the law raises issues such as the following .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	265	233	39	nicholls	First , much uncertainty surrounds the circumstances in which gender reassignment should be recognised for the purposes of marriage .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	266	234	39	nicholls	The present case concerns one individual and her particular condition and circumstances .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	267	235	39	nicholls	Although some of the evidence produced is of a general nature , the evidence before the House is focused on the facts of this case .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	268	236	39	nicholls	So were the arguments .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	269	237	39	nicholls	In particular , Miss Scriven QC submitted that wherever the line marking the transition from one sex to the other is to be drawn , Mrs Bellinger is on the reassigned gender side of the line .	PROCEEDINGS	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	271	238	40	nicholls	I do not consider this would be a proper or , indeed , a responsible basis on which to change the law .	DISPOSAL	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	272	239	40	nicholls	Surgical intervention takes many forms and , for a variety of reasons , is undertaken by different people to different extents .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	273	240	40	nicholls	For men it may mean castration or inversion of the penis to create a false vagina .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	274	241	40	nicholls	For women it may mean a mastectomy , hysterectomy , or creation of a false penis by phalloplasty .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	275	242	40	nicholls	There seems to be no ' standard ' operation or recognised definition of the outcome of completed surgery .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	276	243	40	nicholls	Today the case before the House concerns Mrs Bellinger .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	277	244	40	nicholls	Tomorrow 's case in the High Court will relate to a transsexual person who has been able to undergo a less extensive course of surgery .	FRAMING	NONE	NONE	NONE	NONE	0	0	1	0	0	1
+3.21	69	278	245	40	nicholls	The following week will be the case of a transsexual person who has undergone hormonal treatment but who , for medical reasons , has not been able to undergo any surgery .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	279	246	40	nicholls	Then there will be a transsexual person who is medically able to undergo all or part of the surgery but who does not wish to do so .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	280	247	40	nicholls	By what criteria are cases such as these to be decided ?	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	282	248	41	nicholls	But the problem is more fundamental than this .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	283	249	41	nicholls	It is questionable whether the successful completion of some sort of surgical intervention should be an essential prerequisite to the recognition of gender reassignment .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	284	250	41	nicholls	If it were , individuals may find themselves coerced into major surgical operations they otherwise would not have .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	285	251	41	nicholls	But the aim of the surgery is to make the individual feel more comfortable with his or her body , not to ' turn a man into a woman ' or vice versa .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	286	252	41	nicholls	As one medical report has expressed it , a male to female transsexual person is no less a woman for not having had surgery , or any more a woman for having had it : see Secretary , Department of Social Security v SRA ( 1993 ) 118 ALR 467 , 477 .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	1	1	0
+3.21	69	288	253	42	nicholls	These are deep waters .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	289	254	42	nicholls	Plainly , there must be some objective , publicly available criteria by which gender reassignment is to be assessed .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	290	255	42	nicholls	If possible the criteria should be capable of being applied readily so as to produce a reasonably clear answer .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	291	256	42	nicholls	Parties proposing to enter into a marriage relationship need to know whether their marriage will be valid .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	292	257	42	nicholls	Other people need to know whether a marriage was valid .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	293	258	42	nicholls	Marriage has legal consequences in many directions : for instance , housing and residential security of tenure , social security benefits , citizenship and immigration , taxation , pensions , inheritance , life insurance policies , criminal law ( bigamy ) .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	294	259	42	nicholls	There must be an adequate degree of certainty .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	295	260	42	nicholls	Otherwise , as the majority of the Court of Appeal observed , the applicability of the law to an individual suffering from gender identity disorder would be in a state of complete confusion : see [ 2002 ] 2 WLR 411 , 435 , para 104 .	PROCEEDINGS	NONE	NONE	NONE	NONE	0	0	1	0	1	0
+3.21	69	297	261	43	nicholls	Your Lordships ' House is not in a position to decide where the demarcation line could sensibly or reasonably be drawn .	DISPOSAL	NONE	NONE	NONE	NONE	0	0	1	0	0	0
+3.21	69	298	262	43	nicholls	Where this line should be drawn is far from self-evident .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	299	263	43	nicholls	The antipodean decisions of Attorney-General v Otahuhu Family Court [ 1995 ] 1 NZLR 603 and Re Kevin ( validity of marriage of transsexual ) [ 2001 ] Fam CA 1074 and App .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	1	1	0
+3.21	69	300	264	43	nicholls	EA 97/2001 have not identified any clear , persuasive principle in this regard .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	301	265	43	nicholls	Nor has the dissenting judgment of Thorpe LJ in the present case .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	1
+3.21	69	302	266	43	nicholls	Nor has the decision of the European Court of Human Rights in Goodwin v United Kingdom ( 2002 ) 35 EHRR 18 .	FRAMING	NONE	NONE	NONE	NONE	0	0	1	1	1	0
+3.21	69	303	267	43	nicholls	Nor is there uniformity among the thirteen member states of the European Union which afford legal recognition to a transsexual person 's acquired gender .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	304	268	43	nicholls	The pre-conditions for recognition vary considerably .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	306	269	44	nicholls	Further , the House is not in a position to give guidance on what other pre-conditions should be satisfied before legal recognition is given to a transsexual person 's acquired gender .	DISPOSAL	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	307	270	44	nicholls	Some member states of the European Union insist on the applicant being single or on existing marriages being dissolved .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	308	271	44	nicholls	Some insist on the applicant being sterile .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	309	272	44	nicholls	Questions arise about the practical mechanisms and procedures for obtaining recognition of acquired gender , and about the problem of people who ' revert ' to their original gender after a period in their new gender role .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	311	273	45	nicholls	Secondly , the recognition of gender reassignment for the purposes of marriage is part of a wider problem which should be considered as a whole and not dealt with in a piecemeal fashion .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	312	274	45	nicholls	There should be a clear , coherent policy .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	313	275	45	nicholls	The decision regarding recognition of gender reassignment for the purpose of marriage cannot sensibly be made in isolation from a decision on the like problem in other areas where a distinction is drawn between people on the basis of gender .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	314	276	45	nicholls	These areas include education , child care , occupational qualifications , criminal law ( gender-specific offences ) , prison regulations , sport , the needs of decency , and birth certificates .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	315	277	45	nicholls	Birth certificates , indeed , are one of the matters of most concern to transsexual people , because birth certificates are frequently required as proof of identity or age or place of birth .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	316	278	45	nicholls	When , and in what circumstances , should these certificates be capable of being reissued in a revised form which does not disclose that the person has undergone gender reassignment ?	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	318	279	46	nicholls	Thirdly , even in the context of marriage , the present question raises wider issues .	FRAMING	7	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	319	280	46	nicholls	Marriage is an institution , or relationship , deeply embedded in the religious and social culture of this country .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	320	281	46	nicholls	It is deeply embedded as a relationship between two persons of the opposite sex .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	321	282	46	nicholls	There was a time when the reproductive functions of male and female were regarded as the primary raison d ' ~~#234;tre of marriage .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	322	283	46	nicholls	The Church of England Book of Common Prayer of 1662 declared that the first cause for which matrimony was ordained was the ' procreation of children ' .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	323	284	46	nicholls	For centuries this was proclaimed at innumerable marriage services .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	324	285	46	nicholls	For a long time now the emphasis has been different .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	325	286	46	nicholls	Variously expressed , there is much more emphasis now on the ' mutual society , help and comfort that the one ought to have of the other ' .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	327	287	47	nicholls	Against this background there are those who urge that the special relationship of marriage should not now be confined to persons of the opposite sex .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	328	288	47	nicholls	It should be possible for persons of the same sex to marry .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	329	289	47	nicholls	This , it is said , is the appropriate way to resolve problems such as those confronting Mrs Bellinger .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	331	290	48	nicholls	It hardly needs saying that this approach would involve a fundamental change in the traditional concept of marriage .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	332	291	48	nicholls	Here again , this raises a question which ought to be considered as part of an overall review of the most appropriate way to deal with the difficulties confronting transsexual people .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	334	292	49	nicholls	For these reasons I would not make a declaration that the marriage celebrated between Mr and Mrs Bellinger in 1981 was valid .	DISPOSAL	3	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	335	293	49	nicholls	A change in the law as sought by Mrs Bellinger must be a matter for deliberation and decision by Parliament when the forthcoming Bill is introduced .	DISPOSAL	10	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	336	294	49.5	nicholls	Declaration of incompatibility	TEXTUAL	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	337	295	50	nicholls	Mrs Bellinger advanced a further , alternative claim for a declaration that in so far as section 11 ( c ) of the Matrimonial Causes Act 1973 makes no provision for the recognition of gender reassignment it is incompatible with articles 8 and 12 of the Convention .	PROCEEDINGS	NONE	NONE	NONE	NONE	1	1	0	0	0	0
+3.21	69	338	296	50	nicholls	Her claim is advanced on the footing that , although she and Mr Bellinger celebrated their marriage long before the Human Rights Act 1998 came into force , and although the Goodwin decision dealt with the human rights position as at the date of the judgment ( July 2002 ) , the non-recognition of their ability to marry continues to have adverse practical effects .	PROCEEDINGS	NONE	NONE	NONE	NONE	0	1	0	0	0	0
+3.21	69	339	297	50	nicholls	The statute continues to prevent them marrying each other .	PROCEEDINGS	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	341	298	51	nicholls	Mr Sales advanced several arguments on why such a declaration should not be made .	PROCEEDINGS	NONE	NONE	NONE	NONE	0	0	0	0	0	1
+3.21	69	342	299	51	nicholls	There is , he submitted , no present incompatibility between the statute and the Convention .	PROCEEDINGS	NONE	NONE	NONE	NONE	0	1	0	0	0	0
+3.21	69	343	300	51	nicholls	The European Court of Human Rights , in its decision in Goodwin , envisaged that the government should have a reasonable period in which to amend domestic law on a principled and coherent basis .	PROCEEDINGS	NONE	NONE	NONE	NONE	0	0	1	0	0	0
+3.21	69	344	301	51	nicholls	The court said it ' will be for the United Kingdom Government in due course to implement such measures as it considers appropriate to fulfil its obligations ' : see ( 2002 ) 35 EHRR 18 , 33 , paragraph 120 ( emphasis added ) .	PROCEEDINGS	NONE	NONE	NONE	NONE	0	0	0	0	1	0
+3.21	69	346	302	52	nicholls	I cannot accept this submission .	DISPOSAL	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	347	303	52	nicholls	It may be that , echoing the language of the European Court of Human Rights in Marckx v Belgium ( 1979 ) 2 EHRR 330 , 353 , para 58 , the principle of legal certainty dispenses the United Kingdom government from re-opening legal acts or situations which antedate the judgment in Goodwin .	FRAMING	NONE	NONE	NONE	NONE	0	0	1	1	1	0
+3.21	69	348	304	52	nicholls	But that is not the present case .	DISPOSAL	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	349	305	52	nicholls	In the present case section 11 ( c ) of the Matrimonial Causes Act 1973 remains a continuing obstacle to Mr and Mrs Bellinger marrying each other .	DISPOSAL	1	NONE	NONE	NONE	1	1	0	0	0	0
+3.21	69	351	306	53	nicholls	It may also be that there are circumstances where maintaining an offending law in operation for a reasonable period pending enactment of corrective legislation is justifiable .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	352	307	53	nicholls	An individual may not then be able , during the transitional period , to complain that his rights have been violated .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	353	308	53	nicholls	The admissibility decision of the court in Walden v Liechtenstein ( App no 33916/96 ) is an example of this pragmatic approach to the practicalities of government .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	1	1	0
+3.21	69	354	309	53	nicholls	But the question now under consideration is different .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	355	310	53	nicholls	It is more general .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	356	311	53	nicholls	The question is whether non-recognition of gender reassignment for the purposes of marriage is compatible with articles 8 and 12 .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	357	312	53	nicholls	The answer to this question is clear : it is not compatible .	DISPOSAL	11	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	358	313	53	nicholls	The European Court of Human Rights so found in July 2002 in Goodwin , and the government has so accepted .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	1	0	0	0
+3.21	69	359	314	53	nicholls	What was held to be incompatible in July 2002 has not now , for the purposes of section 4 , become compatible .	FRAMING	NONE	NONE	NONE	NONE	1	0	0	0	0	0
+3.21	69	360	315	53	nicholls	The government 's announcement of forthcoming legislation has not had that effect , nor could it .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	361	316	53	nicholls	That would make no sense .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	363	317	54	nicholls	Then Mr Sales submitted that a declaration of incompatibility would serve no useful purpose .	PROCEEDINGS	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	364	318	54	nicholls	A declaration of incompatibility triggers the ministerial powers to amend the offending legislation under the ' fast track ' procedures set out in section 10 and Schedule 2 of the Human Rights Act 1998 .	PROCEEDINGS	NONE	NONE	NONE	NONE	1	1	0	0	0	0
+3.21	69	365	319	54	nicholls	But the minister 's powers have already been triggered in the present case under section 10 ( 1 ) ( b ) , by reason of the decisions of the European Court of Human Rights in the Goodwin case and the associated case of I v United Kingdom ( App no. 25680/94 ) .	PROCEEDINGS	NONE	NONE	NONE	NONE	1	0	1	1	1	0
+3.21	69	366	320	54	nicholls	Further , the government has already announced its intention to bring forward primary legislation on this subject .	PROCEEDINGS	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	367	321	54	nicholls	For this reason also , counsel submitted , making a declaration of incompatibility would serve no useful purpose .	PROCEEDINGS	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	369	322	55	nicholls	I am not persuaded by these submissions .	DISPOSAL	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	370	323	55	nicholls	If a provision of primary legislation is shown to be incompatible with a Convention right the court , in the exercise of its discretion , may make a declaration of incompatibility under section 4 of the Human Rights Act 1998 .	BACKGROUND	NONE	NONE	NONE	NONE	1	1	0	0	0	0
+3.21	69	371	324	55	nicholls	In exercising this discretion the court will have regard to all the circumstances .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	372	325	55	nicholls	In the present case the government has not sought to question the decision of the European Court of Human Rights in Goodwin .	FRAMING	NONE	NONE	NONE	NONE	0	0	1	0	0	0
+3.21	69	373	326	55	nicholls	Indeed , it is committed to giving effect to that decision .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	374	327	55	nicholls	Nevertheless , when proceedings are already before the House , it is desirable that in a case of such sensitivity this House , as the court of final appeal in this country , should formally record that the present state of statute law is incompatible with the Convention .	DISPOSAL	12	NONE	NONE	NONE	0	1	0	0	0	0
+3.21	69	375	328	55	nicholls	I would therefore make a declaration of incompatibility as sought .	DISPOSAL	13	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	376	329	55	nicholls	I would otherwise dismiss this appeal .	DISPOSAL	3	NONE	3	NONE	0	0	0	0	0	0
+3.21	69	378	330	55.5	hope	LORD HOPE OF CRAIGHEAD	TEXTUAL	NONE	NONE	NONE	NONE	0	0	0	0	0	1
+3.21	69	379	331	55.5	hope	My Lords ,	TEXTUAL	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	381	332	56	hope	My noble and learned friend Lord Nicholls of Birkenhead has explained nature of the condition from which Mrs Bellinger has been suffering from as long as she can remember and the profound changes which she has undergone , both physically and socially , to give effect to her wish to live her life as a woman rather than as a man .	TEXTUAL	NONE	NONE	NONE	NONE	0	0	0	0	0	1
+3.21	69	382	333	56	hope	Her courage and that of Mr Bellinger , who has supported her constantly throughout their marriage , deserve our respect and admiration .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	383	334	56	hope	If there was a legitimate way of solving their problem and making the declaration which Mrs Bellinger seeks , I would of course wish to take it .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	384	335	56	hope	"But I agree with my noble and learned friend that the expressions "" male "" and "" female "" in section 11 ( c ) of the Matrimonial Causes Act 1973 are not capable of being given the extended meaning that would be needed to accommodate her case , and that we have no option but to dismiss this appeal ."	DISPOSAL	14	NONE	3	NONE	1	1	0	0	0	0
+3.21	69	386	336	57	hope	The essence of the problem , as I see it , lies in the impossibility of changing completely the sex which individuals acquire when they are born .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	387	337	57	hope	A great deal can be done to remove the physical features of the sex from which the transsexual wishes to escape and to reproduce those of the sex which he or she wishes to acquire .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	388	338	57	hope	The body can be altered to produce all the characteristics that the individual needs to feel comfortable , and there are no steps that cannot be taken to adopt a way of life that will enable him or her to enter into a satisfactory and loving heterosexual relationship .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	389	339	57	hope	But medical science is unable , in its present state , to complete the process .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	390	340	57	hope	It cannot turn a man into a woman or turn a woman into a man .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	391	341	57	hope	That is not what the treatment seeks to do after all , although it is described as gender reassignment surgery .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	392	342	57	hope	It is not just that the chromosomes that are present at birth are incapable of being changed .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	393	343	57	hope	The surgery , however extensive and elaborate , cannot supply all the equipment that would be needed for the patient to play the part which the sex to which he or she wishes to belong normally plays in having children .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	394	344	57	hope	At best , what is provided is no more than an imitation of the more obvious parts of that equipment .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	395	345	57	hope	Although it is often described as a sex change , the process is inevitably incomplete .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	396	346	57	hope	A complete change of sex is , strictly speaking , unachievable .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	398	347	58	hope	It is tempting to regard the fact that a complete sex change is unachievable as a mere technicality when this is compared with everything else that can be achieved in the case of post-operative transsexuals .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	399	348	58	hope	But the law of marriage exists in order to define the circumstances in which the public status that follows from a valid marriage may be acquired .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	400	349	58	hope	"There is much to be said for the view that the words "" male "" and "" female "" should each be given a single , clear meaning that can be applied uniformly in all cases ."	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	401	350	58	hope	That was achieved by the decision in Corbett v Corbett [ 1971 ] P 83 , which pre-dated the re-enactment of section 1 ( c ) of the Nullity of Marriage Act 1971 in section 11 ( c ) of the 1973 Act .	BACKGROUND	NONE	NONE	NONE	NONE	1	1	0	1	1	0
+3.21	69	402	351	58	hope	Any enlargement of the meaning of those words to accommodate the problems faced by transsexuals would raise questions of fact and degree which are avoided by the use of the words chosen by Parliament .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	404	352	59	hope	"I do not overlook the fact that Mrs Bellinger 's consultant urologist , Michael Royle , declared in a letter dated 5 January 1999 that she underwent gender reassignment surgery on 21 February 1981 and that "" she is physically female . """	PROCEEDINGS	4	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	405	353	59	hope	But it seems to me that this is an incomplete statement of the facts .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	406	354	59	hope	The wording of section 11 ( c ) demands that they be subjected to a more rigorous assessment .	FRAMING	NONE	NONE	NONE	NONE	1	0	0	0	0	0
+3.21	69	407	355	59	hope	"In Secretary , Department of Social Security v SRA ( 1993 ) 118 ALR 467 it was held that the respondent , who was a pre-operative male to female transsexual , did not fall within the ordinary meaning of the word "" female "" as her anatomical sex and her psychological sex had not been harmonised ."	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	1	1	0
+3.21	69	408	356	59	hope	One of the medical reports referred to by Lockhart J in the Federal Court of Australia , at p 477 , explained very clearly what the surgery seeks to achieve , and what it cannot do :	BACKGROUND	NONE	NONE	NONE	NONE	0	0	1	0	0	1
+3.21	69	408	357	59.5	hope	""" Genetically , and anatomically she is a ' male ' , however , she dresses and behaves as a woman ."	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	409	358	59.5	hope	She considers herself as a woman .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	410	359	59.5	hope	It is not for me to decide what the court or the Department of Social Security chooses to consider someone - but I do not think of , and treat the respondent as a woman .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	411	360	59.5	hope	The fact that she has not had surgery to me is irrelevant .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	412	361	59.5	hope	The aim of the surgery is to make somebody feel more comfortable with their body , not to ' turn them into a woman ' .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	413	362	59.5	hope	The surgery does not supply the patient with a uterus , nor with ovaries .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	414	363	59.5	hope	"It is purely and simply an attempt to allow the person 's body to approximate to how they feel within themselves . """	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	416	364	60	hope	"Lockhart J said in the SRA case at p 480 that the common understanding of the words "" woman "" and female "" and the phrase "" opposite sex "" , which were ordinary English words , was a question of fact and that the crucial question was whether different conclusions were reasonably possible as to whether the facts or circumstances fell within their ordinary meaning ."	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	1
+3.21	69	417	365	60	hope	"In Re Kevin ( validity of marriage of transsexual ) [ 2001 ] FamCA 1074 Chisholm J held that the ordinary contemporary meaning of the word "" man "" according to its Australian usage included post-operative female to male transsexuals , and that no good reasons had been shown why the ordinary meaning of the word should not apply in the context of marriage law : para 327 ."	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	1	1
+3.21	69	418	366	60	hope	He went on to say that there was no formulaic solution for determining the sex of an individual for this purpose , that all relevant factors had to be considered including the person 's biological and physical characteristics at birth , the person 's life experiences , the extent to which the person has functioned in society as a man or woman , any hormonal , surgical or other medical sex reassignment treatments the person has undergone and the consequences of such treatment and that it was clear from the Australian authorities that post-operative transsexuals will normally be members of their reassigned sex : paras 328 - 329 .	BACKGROUND	NONE	NONE	NONE	NONE	1	0	0	0	0	0
+3.21	69	419	367	60	hope	"He held that a marriage which "" Kevin "" had entered into with "" Jennifer "" on 21 August 1999 was a valid marriage under Australian law ."	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	1
+3.21	69	421	368	61	hope	In Re Kevin ( validity of marriage of transsexual ) ( unreported ) Appeal No EA 97/2001 , 21 February 2003 , the Full Court of the Family Court of Australia , after a comprehensive review of the authorities including the decision of the Court of Appeal in this case ( see [ 2002 ] 2 WLR 411 ) , agreed with the approach of Chisholm J. .	BACKGROUND	NONE	NONE	NONE	NONE	1	0	1	0	1	1
+3.21	69	422	369	61	hope	The essence of that decision is to be found in the following paragraphs :	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	422	370	61.5	hope	""" 110 ."	BACKGROUND	NONE	NONE	NONE	NONE	1	0	0	0	0	0
+3.21	69	423	371	61.5	hope	The definition of ' marriage ' is essentially connected with the term ' man ' .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	424	372	61.5	hope	In these circumstances , for the reasons stated by the trial judge as amplified by our reasons that appear subsequently , we take the view that the words ' marriage ' and ' man ' are not technical terms and should be given their ordinary contemporary meaning in the context of the Marriage Act .	BACKGROUND	NONE	NONE	NONE	NONE	0	1	0	0	0	0
+3.21	69	425	373	61.5	hope	111 .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	426	374	61.5	hope	In our view , it thus becomes a question of fact as to what the contemporary , everyday meanings of the words ' marriage ' and ' man ' are respectively .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	427	375	61.5	hope	112 .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	428	376	61.5	hope	It is then a question of law for this court to determine whether , on the facts found by the trial judge , it was open to him to reach the conclusion that he did , namely that at the relevant time , Kevin was a man and that the marriage was therefore valid .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	429	377	61.5	hope	"As it was in SRA ( supra ) so , too , it is that the answer to that question is ' at the heart of the present case ' . """	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	431	378	62	hope	"I need hardly say that I entirely agree with the Australian judges that the words "" male "" and "" female "" in section 11 ( c ) of the 1973 Act , which is the provision with which we are faced in this case , are not technical terms and that they must be given their ordinary , everyday meaning in the English language ."	FRAMING	NONE	NONE	NONE	NONE	1	1	0	0	0	0
+3.21	69	432	379	62	hope	But no evidence was placed before us to suggest that in contemporary usage in this country , on whichever date one might wish to select - 23 May 1973 when the 1973 Act was enacted , 2 May 1981 when Mr and Mrs Bellinger entered into their marriage ceremony or the date of this judgment , these words can be taken to include post-operative transsexual persons .	DISPOSAL	4	NONE	NONE	NONE	0	1	0	0	0	0
+3.21	69	433	380	62	hope	"The definition of "" male "" in the New Shorter Oxford English Dictionary ( 1993 ) tells us that its primary meaning when used as an adjective is "" of , pertaining to , or designating the sex which can beget offspring "" ."	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	434	381	62	hope	No mention is made anywhere in the extended definition of the word of transsexual persons .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	435	382	62	hope	"The word "" transsexual "" is defined as "" having the physical characteristics of one sex but a strong and persistent desire to belong to the other . """	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	436	383	62	hope	I see no escape from the conclusion that these definitions , with which the decision in Corbett v Corbett [ 1971 ] P 83 and the views of the majority in the Court of Appeal in this case are consistent , are both complete and accurate .	DISPOSAL	NONE	NONE	NONE	NONE	0	0	1	1	1	0
+3.21	69	437	384	62	hope	"The fact is that the ordinary meaning of the word "" male "" is incapable , without more , of accommodating the transsexual person within its scope ."	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	438	385	62	hope	The Australian cases show that a distinction has to be drawn , even according to the contemporary usage of the word in Australia , between pre-operative and post-operative transsexuals .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	439	386	62	hope	"Distinctions of that kind raise questions of fact and degree which are absent from the ordinary meaning of the word "" male "" in this country ."	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	440	387	62	hope	"Any attempt to enlarge its meaning would be bound to lead to difficulty , as there is no single agreed criterion by which it could be determined whether or not a transsexual was sufficiently "" male "" for the purpose of entering into a valid marriage ceremony ."	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	442	388	63	hope	In Goodwin v United Kingdom ( 2002 ) 35 EHRR 18 , 24 , paras 82 - 83 the European Court of Human Rights noted that it remains the case , as the court held in Sheffield and Horsham v United Kingdom ( 1998 ) 27 EHRR 163 , that a transsexual cannot acquire all the biological characteristics of the assigned sex .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	1	1	1	0
+3.21	69	443	389	63	hope	It went on to say that it was not apparent in the light of increasingly sophisticated surgery and hormonal techniques that the chromosomal element , which is the principal unchanging biological aspect of gender identity , must inevitably take on decisive significance for the purpose of legal attribution of gender identity for post-operative transsexuals .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	444	390	63	hope	So it was not persuaded that the state of medical science or scientific knowledge provided any determining argument as regards the legal recognition of transsexuals on grounds of social and legal policy .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	445	391	63	hope	But this approach is not at all inconsistent with the view which I would take of the facts .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	446	392	63	hope	The question which the court was asking itself was not whether the applicant , who was of the male sex when she was born , was now female .	FRAMING	4	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	447	393	63	hope	Post-operative transsexuals were assumed to fall into a distinct category .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	448	394	63	hope	The question was whether it was a breach of their Convention rights for legal recognition to be denied to their new sexual identity .	FRAMING	NONE	NONE	NONE	NONE	0	1	0	0	0	0
+3.21	69	450	395	64	hope	Of course , it is not given to every man or every woman to have , or to want to have , children .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	451	396	64	hope	But the ability to reproduce one 's own kind lies at the heart of all creation , and the single characteristic which invariably distinguishes the adult male from the adult female throughout the animal kingdom is the part which each sex plays in the act of reproduction .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	452	397	64	hope	"When Parliament used the words "" male "" and female "" in section 11 ( c ) of the 1973 Act it must be taken to have used those words in the sense which they normally have when they are used to describe a person 's sex , even though they are plainly capable of including men and women who happen to be infertile or are past the age of child bearing ."	FRAMING	NONE	NONE	NONE	NONE	1	1	0	0	0	0
+3.21	69	453	398	64	hope	"I think that section 5 ( 4 ) ( e ) of the Marriage ( Scotland ) Act 1977 , which provides there is a legal impediment to a marriage in Scots law where the parties "" are of the same sex "" , has to be read and understood in the same way ."	FRAMING	NONE	NONE	NONE	NONE	1	1	0	0	0	0
+3.21	69	454	399	64	hope	"I do not see how , on the ordinary methods of interpretation , the words "" male "" and "" female "" in section 11 ( c ) of the 1973 Act can be interpreted as including female to male and male to female transsexuals ."	DISPOSAL	NONE	NONE	NONE	NONE	1	1	0	0	0	0
+3.21	69	456	400	65	hope	What then are we to make , in this case , of the decision in Goodwin v United Kingdom ( 2002 ) 35 EHRR 18 ?	FRAMING	NONE	NONE	NONE	NONE	0	0	0	1	1	0
+3.21	69	457	401	65	hope	"If it could be said that the use of the words "" male "" and "" female "" in section 11 ( c ) of the 1973 Act was ambiguous , it would have been possible to have regard to that decision in seeking to resolve the ambiguity ."	FRAMING	NONE	NONE	NONE	NONE	1	1	0	0	0	0
+3.21	69	458	402	65	hope	But , for the reasons which I have given , I do not think that there is any such ambiguity .	DISPOSAL	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	459	403	65	hope	Then there is section 3 ( 1 ) of the Human Rights Act 1998 , which places a duty on the courts to read and give effect to legislation in a way that is compatible with the Convention rights if it is possible to do so .	BACKGROUND	NONE	NONE	NONE	NONE	1	1	0	0	0	0
+3.21	69	460	404	65	hope	But we are being asked in this case to make a declaration about the validity of a marriage ceremony which was entered into on 2 May 1981 , and section 3 ( 1 ) of the 1998 Act is not retrospective : R v Lambert [ 2001 ] UKHL 37 , [ 2002 ] 2 AC 545 ; R v Kansal ( No 2 ) [ 2001 ] UKHL 62 ; [ 2002 ] 2 AC 69 ; R v Lyons [ 2002 ] UKHL 44 ; [ 2002 ] 3 WLR 1562 , 1580D , para 45 per Lord Hoffmann and 1586B-C , para 63 per Lord Hutton .	FRAMING	NONE	NONE	NONE	NONE	1	1	0	1	1	1
+3.21	69	461	405	65	hope	The interpretative obligation which section 3 ( 1 ) provides is not available .	FRAMING	NONE	NONE	NONE	NONE	1	0	0	0	0	0
+3.21	69	463	406	66	hope	But I do not think that it would be right to leave the issue there .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	464	407	66	hope	If , as I would hold , the 1981 ceremony cannot be held to be a valid marriage ceremony , that is not an end of the matter .	FRAMING	3	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	465	408	66	hope	It would be open to Mrs Bellinger to try again some other day .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	466	409	66	hope	It must be emphasised that this is not what she wants to do , as she regards herself as having been happily married since 1981 .	FRAMING	4	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	467	410	66	hope	But we have been asked to say whether the provisions of section 11 ( c ) are incompatible with her Convention rights and , if we find that they are incompatible , to make a declaration of incompatibility .	FRAMING	NONE	NONE	NONE	NONE	1	0	0	0	0	0
+3.21	69	468	411	66	hope	I agree that it is proper that we should undertake this exercise , although neither of these steps can have any effect on the validity or otherwise of the 1981 ceremony .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	470	412	67	hope	We cannot proceed to the making of a declaration of incompatibility under section 4 ( 2 ) of the Human Rights Act 1998 without examining the question which section 3 ( 1 ) of the Act treats as the logically prior question , which is whether the legislation can be read and given effect in a way which is compatible with the Convention rights .	FRAMING	NONE	NONE	NONE	NONE	1	1	0	0	0	0
+3.21	69	471	413	67	hope	As Lord Steyn put it in R v A ( No 2 ) [ 2001 ] UKHL 25 ; [ 2002 ] 1 AC 45 , 68D-E , para 44 , a declaration of incompatibility is a measure of last resort .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	1	1	1
+3.21	69	472	414	67	hope	"But the word "" must "" which section 3 ( 1 ) uses is qualified by the phrase "" so far as it is possible to do so "" ."	FRAMING	NONE	NONE	NONE	NONE	1	0	0	0	0	0
+3.21	69	473	415	67	hope	As I said in R v Lambert [ 2002 ] 2 AC 545 , 585B-D , para 79 , the obligation , powerful though it is , is not to be performed without regard to its limitations .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	1	1	0
+3.21	69	474	416	67	hope	The obligation applies to the interpretation of legislation , which is the judges ' function .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	475	417	67	hope	It does not give them power to legislate : see also In re S ( Minors ) ( Care Order : Implementation of Care Plan ) [ 2002 ] UKHL 10 ; [ 2002 ] 2 WLR 720 , 731B-E , paras 38 - 39 , per Lord Nicholls of Birkenhead .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	1	1	1
+3.21	69	477	418	68	hope	"If the only problem of interpretation had been one of timing , on the view that section 11 ( c ) regards "" male "" and "" female "" as something that cannot be changed after birth whereas other provisions in the same section such as section 11 ( b ) relate to the position at the time the marriage is entered into , I would have been prepared to read the words "" at the time of the marriage "" in to section 11 ( c ) so as to give that provision a meaning which was compatible with the article 12 Convention right ."	FRAMING	NONE	NONE	NONE	NONE	1	1	0	0	0	0
+3.21	69	478	419	68	hope	If the only obstacle was that the parties ' sex at the time when they were born had been assumed wrongly to be immutable , it could be overcome by disregarding the niceties of language and finding a compatible construction by reading these words in .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	479	420	68	hope	But that would only have solved the problem for the future if it could indeed be said that Mrs Bellinger had completely changed her sex since birth and that she was now female .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	480	421	68	hope	That , for the reasons I have sought to explain , is not a possible view of the facts .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	482	422	69	hope	Her problem would be solved if it were possible for a transsexual to marry a person of the same sex , which is indeed what the European Court of Human Rights has now held should be the position in Goodwin .	FRAMING	NONE	NONE	NONE	NONE	0	0	1	0	0	0
+3.21	69	483	423	69	hope	"The court noted in para 100 of its judgment that article 9 of the Charter of Fundamental Rights of the European Union had departed "" no doubt deliberately "" from the wording of article 12 of the Convention in removing the reference to "" men and women of marriageable age . """	BACKGROUND	NONE	NONE	NONE	NONE	1	0	0	0	0	0
+3.21	69	484	424	69	hope	"Article 9 of the Charter states simply that "" the right to marry "" shall be guaranteed ."	BACKGROUND	NONE	NONE	NONE	NONE	1	0	0	0	0	0
+3.21	69	485	425	69	hope	The note to article 9 says that it neither prohibits nor imposes the granting of the status of marriage to unions between people of the same sex .	BACKGROUND	NONE	NONE	NONE	NONE	1	0	0	0	0	0
+3.21	69	486	426	69	hope	It appears that the European Court saw that article as opening up the possibility of transsexuals marrying persons of the opposite sex to their post-operative acquired gender , as it rendered arguments about whether they were in act of the opposite sex irrelevant .	FRAMING	NONE	NONE	NONE	NONE	0	0	1	0	0	0
+3.21	69	487	427	69	hope	By this route , which bypasses the physical problems which are inherent in the notion of a complete sex change , legal recognition can be given to the acquired gender of post-operative transsexuals .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	488	428	69	hope	But it is quite impossible to hold that section 11 ( c ) of the 1973 Act treats the sex of the parties to a marriage ceremony as irrelevant , as it makes express provision to the contrary .	FRAMING	NONE	NONE	NONE	NONE	1	1	0	0	0	0
+3.21	69	489	429	69	hope	In any event , problems of great complexity would be involved if recognition were to be given to same sex marriages .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	490	430	69	hope	They must be left to Parliament .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	491	431	69	hope	I do not think that your Lordships can solve the problem judicially by means of the interpretative obligation in section 3 ( 1 ) of the 1998 Act .	DISPOSAL	NONE	NONE	NONE	NONE	1	1	0	0	0	0
+3.21	69	493	432	70	hope	So I too would dismiss the appeal .	DISPOSAL	14	NONE	3	NONE	0	0	0	0	0	0
+3.21	69	494	433	70	hope	But I too would make a declaration that section 11 ( c ) of the Matrimonial Causes Act 1973 is incompatible with Mrs Bellinger 's right to respect for her private life under article 8 and with her right to marry under article 12 of the European Convention for the Protection of Human Rights and Fundamental Freedoms .	DISPOSAL	2	NONE	NONE	NONE	1	1	0	0	0	0
+3.21	69	496	434	70.5	hobhouse	LORD HOBHOUSE OF WOODBOROUGH	TEXTUAL	NONE	NONE	NONE	NONE	0	0	0	0	0	1
+3.21	69	497	435	70.5	hobhouse	My Lords ,	TEXTUAL	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	499	436	71	hobhouse	I agree with my noble and learned friends Lord Nicholls of Birkenhead and Lord Hope of Craighead that the appeal should be dismissed but that a declaration of incompatibility should now be made under s .4 of the Human Rights Act 1998 .	DISPOSAL	14	hope+nicholls	2	NONE	0	1	0	0	0	1
+3.21	69	501	437	72	hobhouse	The parties went through a ceremony of civil marriage before a registrar of marriages under the Marriage Act 1949 on 2nd May 1981 .	FACT	4	NONE	NONE	NONE	0	1	0	0	0	0
+3.21	69	502	438	72	hobhouse	At that date the Act which governed the legal validity of a purported marriage under English law was s .11 of the Matrimonial Causes Act 1973 :	FACT	NONE	NONE	NONE	NONE	0	1	0	0	0	0
+3.21	69	502	439	72	hobhouse	""" A marriage celebrated after 31st July 1971 shall be void on the following grounds only , that is to say - ..... ( c ) that the parties are not respectively male and female ; .... "" The appellant gave her name to the Registrar of Marriages as Elizabeth Ann Wilkinson describing herself as a "" spinster "" ."	FACT	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	503	440	72	hobhouse	Like your Lordships I will use the words ' she ' or ' her ' in relation to the appellant without begging the question in issue whether she was in truth female at the time she married Mr Bellinger in 1981 .	FRAMING	4	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	505	441	73	hobhouse	At that date and , indeed , until the judgment of the European Court of Human Rights in the case of Goodwin ( 28957/95 ) , [ 2002 ] 35 EHRR 18 , it was the authoritative view that a refusal by domestic law to recognise ' transsexual ' marriages ( a term to which I will have to revert ) did not contravene Article 12 of the Convention .	FRAMING	NONE	NONE	NONE	NONE	1	1	1	0	1	0
+3.21	69	506	442	73	hobhouse	The judgment in Goodwin expressly recognised that this had been the result of the earlier cases of Rees , Cossey , and Sheffield and Horsham : see paragraphs 73 - 75 and 97 - 104 of the judgment .	BACKGROUND	NONE	NONE	NONE	NONE	1	0	0	1	0	0
+3.21	69	507	443	73	hobhouse	Until the delivery of the Goodwin judgment the appellant would have had no basis for any attack upon propriety of s .11 of the 1973 Act .	FRAMING	NONE	NONE	NONE	NONE	0	1	0	1	0	0
+3.21	69	509	444	74	hobhouse	The judgment in Goodwin is , if I may say so , thoughtful and appreciates the complexity of the problems created for many aspects of the law by a novel recognition of the concept of a voluntary change of gender .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	1	0	0
+3.21	69	510	445	74	hobhouse	The new approach may reflect new social attitudes to questions of sexuality but the more specific changes in society and the law which should follow from the recognition of the new attitudes are much more difficult to evaluate and provide for .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	511	446	74	hobhouse	For example , in the present context , to what extent do you change the fundamental concept of marriage ?	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	512	447	74	hobhouse	What new criteria do you apply ?	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	513	448	74	hobhouse	Once you make this change , how do you , in a non-discriminatory way , deal with mere cohabitees or with homosexuals of the same gender ?	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	514	449	74	hobhouse	The judgment refers in paragraph 91 and the preceding paragraphs to the report of the UK Interdepartmental Working Group ( April 2000 ) and the very substantial difficulties which it identified but also pointed out that they were not considered to be insuperable .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	515	450	74	hobhouse	"The Court also observed in paragraph 103 that "" though there is widespread acceptance of the marriage of transsexuals , fewer countries permit the marriage of transsexuals in their assigned gender than recognise the change of gender itself "" ."	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	516	451	74	hobhouse	However the Court concluded that there had been a breach of , inter alia , Article 12 because , although the Member States must be given a reasonable opportunity to decide how to revise their national legislation and make the appropriate changes , there came a time when the United Kingdom 's continued failure to do so amounted to a denial of the right to marry protected by Article 12 : see paragraphs 52 , 53 , 102 - 4 , and 120 .	BACKGROUND	NONE	NONE	NONE	NONE	1	0	0	0	0	0
+3.21	69	518	452	75	hobhouse	The present case concerns a ' transsexual ' , that is to say , someone who wishes to change her existing gender and assume the opposite gender .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	519	453	75	hobhouse	This case is not concerned with gender mis-assignment nor with mixed or ' intersex ' gender .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	520	454	75	hobhouse	The appellant was born a male with all the characteristics of a male .	FACT	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	521	455	75	hobhouse	She was correctly assigned the male gender at birth and in her birth certificate .	FACT	4	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	522	456	75	hobhouse	In 1967/8 , when 21 , she married a woman .	FACT	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	523	457	75	hobhouse	( She did not disclose this fact to the registrar in 1981 . )	FACT	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	524	458	75	hobhouse	But the marriage was childless and did not last ; they were divorced in 1975 .	FACT	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	525	459	75	hobhouse	She assumed the female gender dressing and living as a woman .	FACT	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	526	460	75	hobhouse	In February 1981 , following hormone treatment from a specialist , she underwent gender reassignment surgery as described by my noble and learned friend Lord Nicholls .	FACT	4	NONE	NONE	NONE	0	0	0	0	0	1
+3.21	69	527	461	75	hobhouse	This was irreversible in the sense that thereafter she could never be fully restored so as to be an anatomically complete male .	FACT	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	529	462	76	hobhouse	Gender reassignment is an established medical procedure in various stages involving both diagnoses by the specialist and informed choices being made by the patient .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	530	463	76	hobhouse	There was uncontested expert evidence given about this at the trial .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	531	464	76	hobhouse	Conveniently , it is also summarised in the judgment in Goodwin .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	1	0	0
+3.21	69	532	465	76	hobhouse	The condition of dissatisfaction with one 's sexuality at a level justifying medical intervention is a medically recognised mental disorder ( DSM-IV ) .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	533	466	76	hobhouse	It reflects a pathological degree of dissatisfaction with one 's existing gender .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	534	467	76	hobhouse	The specialist has to study the patient over a period of time and confirm the diagnosis and ascertain that the patient is definitely willing to take the next steps .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	535	468	76	hobhouse	Firstly the patient must become used to living as a member of the opposite sex .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	536	469	76	hobhouse	Then the patient will be given courses of hormone treatment to change his / her hormonal make-up to that of the preferred sex .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	537	470	76	hobhouse	This reinforces the social changes already undertaken .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	538	471	76	hobhouse	Finally various degrees of gender reassignment surgery are undertaken .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	539	472	76	hobhouse	It is not until this last stage that the changes may become anatomically irreversible .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	540	473	76	hobhouse	At any previous stage the patient may change his / her mind and decide that he / she does not want to make the change or not go any further .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	541	474	76	hobhouse	In the present case the appellant was steadfast in her intentions and went as far as she could , given the considerable limitations of gender reassignment .	FACT	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	542	475	76	hobhouse	But the question of transsexualism includes definitional questions of how far the person must go in order to qualify as a transsexual .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	543	476	76	hobhouse	Is merely assuming the life and clothing of a woman enough or must it include irreversible gender reassignment ?	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	544	477	76	hobhouse	Or something in between ?	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	545	478	76	hobhouse	There are cogent arguments against adopting any specific criterion .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	546	479	76	hobhouse	A further question which arises is referred to in paragraph 50 of the Goodwin judgment , noting :	FRAMING	NONE	NONE	NONE	NONE	0	0	0	1	0	0
+3.21	69	546	480	76	hobhouse	""" Many people revert to their biological sex after living for some time in the opposite sex and some alternate between the two sexes throughout their lives . """	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	547	481	76	hobhouse	"All this underlines the novelty of the idea of gender by choice and how great a departure it represents from the pre-Goodwin human rights law and the previous understanding of what the words "" respectively male and female "" meant ."	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	548	482	76	hobhouse	"Similar fundamental novelties and changes in the use of language , culturally controversial , are involved in giving effect to the ECtHR 's interpretation of the word "" marry "" in Article 12 ."	FRAMING	NONE	NONE	NONE	NONE	1	0	0	0	0	0
+3.21	69	550	483	77	hobhouse	"The appellant 's primary claim was for a declaration under s .55 of the Family Law Act 1986 that her marriage to Mr Bellinger in 1981 was "" at its inception a valid marriage "" ."	PROCEEDINGS	NONE	NONE	NONE	NONE	0	1	0	0	0	0
+3.21	69	551	484	77	hobhouse	For the reasons given by my noble and learned friends and for the additional reasons I have given and those to be given by my noble and learned friend Lord Rodger of Earlsferry , the claim must fail and the appeal be dismissed .	DISPOSAL	14	all	3	NONE	0	0	0	0	0	1
+3.21	69	552	485	77	hobhouse	The 1981 wedding was not valid .	DISPOSAL	3	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	554	486	78	hobhouse	But that still leaves the question whether the House should make a declaration of incompatibility under s .4 of the Human Rights Act 1998 .	FRAMING	NONE	NONE	NONE	NONE	0	1	0	0	0	0
+3.21	69	555	487	78	hobhouse	"The threshold question is whether , by applying s .3 , it is possible , as a matter of interpretation , to ' read down ' s .11 ( c ) of the 1973 Act so as to include additional words such as "" or two people of the same sex one of whom has changed his / her sex to that of the opposite sex "" ."	FRAMING	NONE	NONE	NONE	NONE	0	1	0	0	0	0
+3.21	69	556	488	78	hobhouse	This would in my view not be an exercise in interpretation however robust .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	557	489	78	hobhouse	It would be a legislative exercise of amendment making a legislative choice as to what precise amendment was appropriate .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	558	490	78	hobhouse	Counsel for the Lord Chancellor on behalf of the Government did not argue otherwise .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	559	491	78	hobhouse	Counsel also did not argue that Goodwin was wrongly decided nor that the UK was not under a treaty obligation to comply with it .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	560	492	78	hobhouse	But , effectively repeating arguments made unsuccessfully in Strasbourg , submitted that the House should not exercise its discretion under s .4 having regard to the difficulty of deciding upon new policies and drafting new legislation .	PROCEEDINGS	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	561	493	78	hobhouse	These difficulties exist but much time has elapsed ; the Working Group reported in April 2000 ; the Court of Appeal commented as strongly as it was proper for them to do so at the lack of progress in July 2001 and the ECtHR has made its decision in Goodwin on the basis that the permitted time for compliance has expired .	PROCEEDINGS	NONE	NONE	NONE	NONE	0	0	1	0	0	0
+3.21	69	562	494	78	hobhouse	The argument for further time is now itself incompatible with the rights conferred by the Convention .	DISPOSAL	NONE	NONE	NONE	NONE	0	1	0	0	0	0
+3.21	69	564	495	79	hobhouse	But counsel also argued that , in view of his concession that Goodwin bound the United Kingdom , any declaration would be academic and its purpose was merely to confer a power to expedite legislation under s .10 .	PROCEEDINGS	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	565	496	79	hobhouse	These arguments must be rejected .	DISPOSAL	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	566	497	79	hobhouse	The Appellant and Mr Bellinger in exercise of their rights under Article 12 would wish to enter into a valid marriage as soon as the UK legislation enables them to do so .	FRAMING	NONE	NONE	NONE	NONE	1	0	0	0	0	0
+3.21	69	567	498	79	hobhouse	Others may wish to do the same .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	568	499	79	hobhouse	The Government can not yet give any assurance about the introduction of compliant legislation .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	569	500	79	hobhouse	There will be political costs in both the drafting and enactment of new legislation and the legislative time it will occupy .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	570	501	79	hobhouse	The incompatibility having been established , the declaration under s .4 should be made .	DISPOSAL	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	572	502	79.5	scott	LORD SCOTT OF FOSCOTE	TEXTUAL	NONE	NONE	NONE	NONE	0	0	0	0	0	1
+3.21	69	573	503	79.5	scott	My Lords ,	TEXTUAL	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	575	504	80	scott	I have had the great advantage of reading in advance the opinions on this case of my noble and learned friends Lord Nicholls of Birkenhead and Lord Hope of Craighead .	TEXTUAL	NONE	NONE	NONE	hope+nicholls	0	0	0	0	0	1
+3.21	69	576	505	80	scott	I find myself in complete and admiring agreement with their analysis of the issue arising in the case and with their conclusions on that issue .	DISPOSAL	15	hope+nicholls	NONE	NONE	0	0	0	0	0	0
+3.21	69	577	506	80	scott	I cannot improve on what they have said or add anything useful .	TEXTUAL	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	578	507	80	scott	I would dismiss the appeal for the reasons they have given and make the proposed declaration of incompatibility .	DISPOSAL	15	NONE	3	NONE	0	0	0	0	0	0
+3.21	69	580	508	80.5	rodger	LORD RODGER OF EARLSFERRY	TEXTUAL	NONE	NONE	NONE	NONE	0	0	0	0	0	1
+3.21	69	581	509	80.5	rodger	My Lords ,	TEXTUAL	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	583	510	81	rodger	I have had the privilege of considering the speeches of my noble and learned friends Lord Nicholls of Birkenhead , Lord Hope of Craighead and Lord Hobhouse of Woodborough in draft .	TEXTUAL	NONE	NONE	NONE	hobhouse+hope+nicholls	0	0	0	0	0	1
+3.21	69	584	511	81	rodger	I agree with them and , for the reasons they give , I too would make the declaration of incompatibility which they propose but would otherwise dismiss the appeal .	DISPOSAL	14	hobhouse+hope+nicholls	3	NONE	0	0	0	0	0	0
+3.21	69	585	512	81	rodger	I add a point about the language of the relevant legislation .	TEXTUAL	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	587	513	82	rodger	The submissions for Mrs Bellinger presuppose that , in relation to marriage , English law envisages that a person 's gender can alter .	PROCEEDINGS	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	588	514	82	rodger	The form of section 11 ( c ) of the Matrimonial Causes Act 1973 indicates that this is not so .	DISPOSAL	NONE	NONE	NONE	NONE	1	1	0	0	0	0
+3.21	69	589	515	82.5	rodger	83 .	TEXTUAL	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	590	516	82.5	rodger	Section 11 ( c ) is a re-enactment of section 1 ( c ) of the Nullity of Marriage Act 1971 which was passed shortly after the decision in Corbett v Corbett [ 1971 ] P 83 .	BACKGROUND	NONE	NONE	NONE	NONE	1	1	0	1	1	0
+3.21	69	591	517	82.5	rodger	Section 11 ( c ) contains one in a series of grounds of nullity .	BACKGROUND	NONE	NONE	NONE	NONE	1	0	0	0	0	0
+3.21	69	592	518	82.5	rodger	"By section 11 ( b ) a marriage is void if "" at the time of the marriage either party was already lawfully married "" ."	BACKGROUND	NONE	NONE	NONE	NONE	1	0	0	0	0	0
+3.21	69	593	519	82.5	rodger	The reference to the situation at the time of the marriage is necessary because a person may have been lawfully married at an earlier time and may be lawfully married at a later time .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	594	520	82.5	rodger	The situation is one that can change .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	595	521	82.5	rodger	"For purposes of nullity the critical consideration is what the situation was "" at the time of the marriage "" in question ."	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	596	522	82.5	rodger	"Similarly , section 11 ( d ) provides that a polygamous marriage entered into outside England and Wales is void if "" either party was at the time of the marriage domiciled in England and Wales "" ."	DISPOSAL	NONE	NONE	NONE	NONE	1	0	0	0	0	0
+3.21	69	597	523	82.5	rodger	Again , when dealing with domicile which can change , Parliament uses the past tense and specifies the time of the marriage .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	598	524	82.5	rodger	"Section 11 ( c ) is different in both respects : a marriage is void if "" the parties are not respectively male and female "" ."	FRAMING	NONE	NONE	NONE	NONE	1	0	0	0	0	0
+3.21	69	599	525	82.5	rodger	Both the present tense and the omission of any reference to the time of the marriage indicate that , in relation to the validity of marriage , Parliament regards gender as fixed and immutable .	DISPOSAL	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	N/A	N/A	82.5	rodger	Prepared	<prep-date>	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	N/A	N/A	82.5	rodger	10	<prep-date>	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	N/A	N/A	82.5	rodger	April	<prep-date>	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+3.21	69	N/A	N/A	82.5	rodger	2003	<prep-date>	NONE	NONE	NONE	NONE	0	0	0	0	0	0

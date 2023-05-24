@@ -1,0 +1,151 @@
+208	0	https://publications.parliament.uk/pa/ld200506/ldjudgmt/jd051027/szoma-1.htm 	NAN	NAN	NAN	0	lord brown
+208	1	------------- NEW JUDGE --------------- 	NAN	NAN	NAN	0	lord brown
+208	2	LORD BINGHAM OF CORNHILL 	NAN	NAN	NAN	0	lord brown
+208	3	My Lords , 	NAN	NAN	NAN	0	lord brown
+208	4	1 . 	NAN	NAN	NAN	0	lord brown
+208	5	I have had the advantage of reading in draft the opinion of my noble and learned friend Lord Brown of Eaton-under-Heywood . 	lord bingham	lord brown	ackn	0	lord brown
+208	6	I agree with it , and for the reasons which he gives would allow the appeal and make the order which he proposes . 	lord bingham	lord brown	fullagr	0	lord brown
+208	6	I agree with it , and for the reasons which he gives would allow the appeal and make the order which he proposes . 	lord bingham	self	outcome	0	lord brown
+208	6	I agree with it , and for the reasons which he gives would allow the appeal and make the order which he proposes . 	lord bingham	lord brown	outcome	0	lord brown
+208	7	------------- NEW JUDGE --------------- 	NAN	NAN	NAN	0	lord brown
+208	8	LORD HUTTON 	NAN	NAN	NAN	0.1	lord brown
+208	9	My Lords , 	NAN	NAN	NAN	0.1	lord brown
+208	10	2 . 	NAN	NAN	NAN	0.1	lord brown
+208	11	I have had the advantage of reading in draft the speech of my noble and learned friend , Lord Brown of Eaton-under-Heywood . 	lord hutton	lord brown	ackn	0.1	lord brown
+208	12	I agree with it and for the reasons which he gives I too would allow this appeal . 	lord hutton	lord brown	fullagr	0.1	lord brown
+208	12	I agree with it and for the reasons which he gives I too would allow this appeal . 	lord hutton	self	outcome	0.1	lord brown
+208	13	------------- NEW JUDGE --------------- 	NAN	NAN	NAN	0.1	lord brown
+208	14	LORD RODGER OF EARLSFERRY 	NAN	NAN	NAN	0.1	lord brown
+208	15	My Lords , 	NAN	NAN	NAN	0.1	lord brown
+208	16	3 . 	NAN	NAN	NAN	0.1	lord brown
+208	17	I have had the advantage of considering in draft the speech that is to be delivered by my noble and learned friend , Lord Brown of Eaton-under-Heywood . 	lord rodger	lord brown	ackn	0.1	lord brown
+208	18	I agree with it and , for the reasons which he gives , I too would allow the appeal . 	lord rodger	lord brown	fullagr	0.1	lord brown
+208	18	I agree with it and , for the reasons which he gives , I too would allow the appeal . 	lord rodger	self	outcome	0.1	lord brown
+208	19	------------- NEW JUDGE --------------- 	NAN	NAN	NAN	0.1	lord brown
+208	20	BARONESS HALE OF RICHMOND 	NAN	NAN	NAN	0.1	lord brown
+208	21	My Lords , 	NAN	NAN	NAN	0.1	lord brown
+208	22	4 . 	NAN	NAN	NAN	0.2	lord brown
+208	23	For the reasons given in the opinion of my noble and learned friend , Lord Brown of Eaton-under-Heywood , with which I agree , I too would allow this appeal and reinstate the Tribunal 's decision in favour of the appellant . 	lady hale	lord brown	fullagr	0.2	lord brown
+208	23	For the reasons given in the opinion of my noble and learned friend , Lord Brown of Eaton-under-Heywood , with which I agree , I too would allow this appeal and reinstate the Tribunal 's decision in favour of the appellant . 	lady hale	self	outcome	0.2	lord brown
+208	24	------------- NEW JUDGE --------------- 	NAN	NAN	NAN	0.2	lord brown
+208	25	LORD BROWN OF EATON-UNDER-HEYWOOD 	NAN	NAN	NAN	0.2	lord brown
+208	26	My Lords , 	NAN	NAN	NAN	0.2	lord brown
+208	27	5 . 	NAN	NAN	NAN	0.2	lord brown
+208	28	Is a person temporarily admitted to the United Kingdom under the written authority of an immigration officer pursuant to paragraph 21 of Schedule 2 to the Immigration Act 1971 -LRB- the 1971 Act -RRB- `` lawfully present in the United Kingdom '' within the meaning of paragraph 4 of the Schedule to the Social Security -LRB- Immigration and Asylum -RRB- Consequential Amendments Regulations 2000 -LRB- the 2000 Regulations -RRB- -LRB- 2000/363 -RRB- ? 	NAN	NAN	NAN	0.2	lord brown
+208	29	That is the single question raised on this appeal . 	NAN	NAN	NAN	0.2	lord brown
+208	30	Before addressing it , however , let me briefly indicate the particular context in which it arises and the consequences of a decision either way . 	NAN	NAN	NAN	0.2	lord brown
+208	31	6 . 	NAN	NAN	NAN	0.2	lord brown
+208	32	The appellant is a twenty-nine year old Polish national from the Roma community who arrived in this country on 8 November 1998 and immediately claimed asylum . 	NAN	NAN	NAN	0.2	lord brown
+208	33	He was temporarily admitted and in the event remained so under successive authorisations for a total of six years until 18 November 2004 when , following a Home Office concession made in October 2003 in favour of those who had claimed asylum before October 2000 , he was granted indefinite leave to remain . 	NAN	NAN	NAN	0.2	lord brown
+208	34	Meantime , he had been refused asylum and his appeal against that refusal had been dismissed . 	NAN	NAN	NAN	0.2	lord brown
+208	35	7 . 	NAN	NAN	NAN	0.2	lord brown
+208	36	This appeal , however , concerns not -LRB- or at least not directly -RRB- the appellant 's immigration status but rather his entitlement to a particular non-contributory benefit , income support . 	NAN	NAN	NAN	0.2	lord brown
+208	37	Shortly after his arrival here the appellant had claimed and received this benefit : in those days it was payable to asylum seekers provided only that they claimed asylum `` on their arrival '' . 	NAN	NAN	NAN	0.3	lord brown
+208	38	But then a new benefit regime was introduced by the Immigration and Asylum Act 1999 -LRB- the 1999 Act -RRB- and the 2000 Regulations made under it and it was under these provisions that the appellant 's claim to income support was refused . 	NAN	NAN	NAN	0.3	lord brown
+208	39	It was refused on the basis that the appellant was not `` lawfully present in the United Kingdom '' . 	NAN	NAN	NAN	0.3	lord brown
+208	40	The appellant appealed against the refusal and on 26 January 2001 his appeal was allowed by the Social Security Appeal Tribunal . 	NAN	NAN	NAN	0.3	lord brown
+208	41	On 10 October 2002 , however , Mr Commissioner Angus allowed the Secretary of State 's appeal and on 30 July 2003 the Court of Appeal -LRB- Pill and Carnwath LJJ and Maurice Kay J -RRB- dismissed the appellant 's appeal against the Commissioner 's decision . 	NAN	NAN	NAN	0.3	lord brown
+208	42	Your Lordships having granted leave , the appellant now appeals again to this House . 	NAN	NAN	NAN	0.3	lord brown
+208	43	8 . 	NAN	NAN	NAN	0.3	lord brown
+208	44	For reasons into which it is unnecessary to go , only six weeks worth of income support now turns upon the outcome of this appeal . 	NAN	NAN	NAN	0.3	lord brown
+208	45	The point at issue , however , will undoubtedly affect many others besides the appellant and , indeed , a number of other non-contributory benefits too . 	NAN	NAN	NAN	0.3	lord brown
+208	46	9 . 	NAN	NAN	NAN	0.3	lord brown
+208	47	Whilst previously the appellant had been entitled to income support simply by virtue of his presence in the United Kingdom , the 1999 Act changed that position . 	NAN	NAN	NAN	0.3	lord brown
+208	48	Section 115 -LRB- 1 -RRB- of the Act , under the heading `` Exclusion from Benefits '' , provided that no one is entitled to income support and a number of other specified security benefits `` while he is a person to whom this section applies . '' 	NAN	NAN	NAN	0.3	lord brown
+208	49	Subsection -LRB- 3 -RRB- provides that `` This section applies to a person subject to immigration control unless he falls within such category or description , or satisfies such conditions , as may be prescribed . '' 	NAN	NAN	NAN	0.3	lord brown
+208	50	Subsection -LRB- 9 -RRB- provides : '' ' A person subject to immigration control ' means a person who is not a national of an EEA state and who - -LRB- a -RRB- requires leave to enter or remain in the United Kingdom but does not have it . 	NAN	NAN	NAN	0.3	lord brown
+208	51	. 	NAN	NAN	NAN	0.3	lord brown
+208	52	. '' 	NAN	NAN	NAN	0.4	lord brown
+208	53	-LRB- paras -LRB- b -RRB- , -LRB- c -RRB- , and -LRB- d -RRB- of section 115 -LRB- 9 -RRB- refer to certain others who do have leave to enter or remain -RRB- . 	NAN	NAN	NAN	0.4	lord brown
+208	54	10 . 	NAN	NAN	NAN	0.4	lord brown
+208	55	The 2000 Regulations prescribe those who , pursuant to section 115 -LRB- 3 -RRB- , are not excluded from specified benefits notwithstanding that they are subject to immigration control . 	NAN	NAN	NAN	0.4	lord brown
+208	56	The various categories are described in Part 1 of the Schedule to the Regulations and it is paragraph 4 which is critical for present purposes : `` A person who is a national of a state which has ratified the European Convention on Social and Medical Assistance -LRB- done in Paris on 11 December 1953 -RRB- -LSB- ECSMA -RSB- or a state which has ratified the Council of Europe Social Charter -LSB- CESC -RSB- -LRB- signed in Turin on 18 October 1961 -RRB- and who is lawfully present in the United Kingdom . '' 	NAN	NAN	NAN	0.4	lord brown
+208	57	11 . 	NAN	NAN	NAN	0.4	lord brown
+208	58	It is sufficient for present purposes to cite one article from each of those treaties . 	NAN	NAN	NAN	0.4	lord brown
+208	59	Article 1 of ECSMA : `` Each of the Contracting Parties undertakes to ensure that nationals of the other Contracting Parties who are lawfully present in any part of its territory to which this Convention applies , and who are without sufficient resources , shall be entitled equally with its own nationals and on the same conditions to social and medical assistance -LRB- hereinafter referred to as ` assistance ' -RRB- provided by the legislation in force from time to time in that part of its territory . '' 	NAN	NAN	NAN	0.4	lord brown
+208	60	Article 13 of CESC : `` With a view to ensuring the effective exercise of the right to social and medical assistance , the Contracting Parties undertake 4 . 	NAN	NAN	NAN	0.4	lord brown
+208	61	to apply the provisions referred to in paras 1 , 2 and 3 of this article on an equal footing with their nationals to nationals of other contracting parties lawfully within their territories , in accordance with their obligations under -LSB- ECSMA -RSB- . '' 	NAN	NAN	NAN	0.4	lord brown
+208	62	12 . 	NAN	NAN	NAN	0.4	lord brown
+208	63	It is not in dispute that paragraph 4 was included in the Schedule to the 2000 Regulations specifically to meet the United Kingdom 's obligations under those treaties and it is common ground too that Poland had ratified one of them . 	NAN	NAN	NAN	0.4	lord brown
+208	64	The appellant 's entitlement to benefit thus depended solely upon whether or not he was `` lawfully present in the United Kingdom . '' 	NAN	NAN	NAN	0.4	lord brown
+208	65	13 . 	NAN	NAN	NAN	0.4	lord brown
+208	66	The provision under which the appellant was temporarily admitted to the United Kingdom was , as already mentioned , paragraph 21 of Schedule 2 to the 1971 Act . 	NAN	NAN	NAN	0.5	lord brown
+208	67	So far as relevant this provides : '' -LRB- 1 -RRB- A person liable to detention ... under paragraph 16 above may , under the written authority of an immigration officer , be temporarily admitted to the United Kingdom without being detained ; but this shall not prejudice a later exercise of the power to detain him . 	NAN	NAN	NAN	0.5	lord brown
+208	68	-LRB- 2 -RRB- So long as a person is at large in the United Kingdom by virtue of this paragraph , he shall be subject to such restrictions as to residence , as to his employment or occupation and as to reporting to the police or an immigration officer as may from time to time be notified to him in writing by an immigration officer . '' 	NAN	NAN	NAN	0.5	lord brown
+208	69	14 . 	NAN	NAN	NAN	0.5	lord brown
+208	70	The appellant 's straightforward case is that during the years in question he had received the immigration officer 's `` written authority '' to be `` at large in the United Kingdom '' and accordingly , there being no suggestion that he had failed to comply with such restrictions as had been imposed upon him , he fully satisfied the condition that he was `` lawfully present '' here . 	NAN	NAN	NAN	0.5	lord brown
+208	71	Undoubtedly he was present , such presence being pursuant to the written authority of an immigration officer expressly provided for by the legislation ; and he had committed no breach of the law . 	NAN	NAN	NAN	0.5	lord brown
+208	72	Small wonder that the IND 's Asylum Policy Instructions provide that `` applicants who have been granted temporary admission ... are lawfully present in the United Kingdom , provided they adhere to the conditions attached to the grant of temporary admission . '' 	NAN	NAN	NAN	0.5	lord brown
+208	73	15 . 	NAN	NAN	NAN	0.5	lord brown
+208	74	The argument looks on its face unanswerable but , submits the Secretary of State , there is an answer to it and this is to be found in section 11 of the 1971 Act and two decisions closely in point : first that of your Lordships ' House in R v Secretary of State for the Home Department , Ex p Bugdaycay -LSB- 1987 -RSB- AC 514 and secondly that of the Court of Appeal in Kaya v Haringey London Borough Council -LSB- 2002 -RSB- HLR 1 . 	NAN	NAN	NAN	0.5	lord brown
+208	75	These are the three key planks in the Secretary of State 's argument and it is convenient to identify them in turn . 	NAN	NAN	NAN	0.5	lord brown
+208	76	Section 11 -LRB- 1 -RRB- of the 1971 Act provides : `` A person arriving in the United Kingdom by ship or aircraft shall for purposes of this Act be deemed not to enter the United Kingdom unless and until he disembarks , and on disembarkation at a port shall further be deemed not to enter the United Kingdom so long as he remains in such area -LRB- if any -RRB- at the port as may be approved for this purpose by an immigration officer ; and a person who has not otherwise entered the United Kingdom shall be deemed not to do so as long as he is detained , or temporarily admitted or released while liable to detention , under the powers conferred by Schedule 2 to this Act ... '' 16 . 	NAN	NAN	NAN	0.5	lord brown
+208	77	Most materially therefore , section 11 `` for purposes of this Act '' deems a person `` who has not otherwise entered the United Kingdom ... not to do so as long as he is ... temporarily admitted . '' 	NAN	NAN	NAN	0.5	lord brown
+208	78	17 . 	NAN	NAN	NAN	0.5	lord brown
+208	79	The Secretary of State 's main argument is that the phrase `` lawfully present '' in paragraph 4 of the Schedule to the 2000 Regulations has to be read as a whole and that lawful presence for this purpose is a status gained only by having lawfully entered the United Kingdom with leave to enter -LRB- and having subsequently remained within the terms of that leave -RRB- . 	NAN	NAN	NAN	0.5	lord brown
+208	80	Not having been granted leave to enter , the appellant accordingly lacks the required immigration status and is not to be regarded as lawfully present . 	NAN	NAN	NAN	0.5	lord brown
+208	81	The Secretary of State 's fallback argument is that , even if one takes the words `` lawfully present '' separately , the appellant was not to be regarded as `` present '' : section 11 -LRB- 1 -RRB- deems him not to have entered the United Kingdom and , not having entered , he must be deemed not to be present either . 	NAN	NAN	NAN	0.6	lord brown
+208	82	18 . 	NAN	NAN	NAN	0.6	lord brown
+208	83	One of the group of cases decided by your Lordships ' House under the title R v Secretary of State for the Home Department , Ex p Bugdaycay was In re Musisi where the question arose whether Mr Musisi , a Ugandan asylum seeker who had arrived in this country via Kenya , was someone whom the Home Secretary could return to Kenya as a safe third country for that country rather than the United Kingdom to determine his entitlement to refugee status . 	NAN	NAN	NAN	0.6	lord brown
+208	84	One ingenious argument raised on his behalf was that his return to Kenya was precluded by article 32 -LRB- 1 -RRB- of the Refugee Convention : `` The Contracting States shall not expel a refugee lawfully in their territory save on grounds of national security or public order . '' 	NAN	NAN	NAN	0.6	lord brown
+208	85	Mr Musisi was , his counsel argued , `` a refugee lawfully in '' the United Kingdom . 	NAN	NAN	NAN	0.6	lord brown
+208	86	19 . 	NAN	NAN	NAN	0.6	lord brown
+208	87	The argument was given short shrift . 	NAN	NAN	NAN	0.6	lord brown
+208	88	If well-founded , Lord Bridge of Harwich pointed out , it would follow that any asylum seeker arriving in the United Kingdom would have `` an indefeasible right to remain here . '' 	NAN	NAN	NAN	0.6	lord brown
+208	89	That , he observed , would be `` very surprising '' and he concluded rather that `` the deeming provision enacted by section 11 -LRB- 1 -RRB- makes -LSB- the argument -RSB- quite untenable . '' 	NAN	NAN	NAN	0.6	lord brown
+208	90	20 . 	NAN	NAN	NAN	0.6	lord brown
+208	91	The argument rejected in Musisi had also been advanced in R v Secretary of State for the Home Department , Ex p Singh -LSB- 1987 -RSB- Imm AR 489 . 	NAN	NAN	NAN	0.6	lord brown
+208	92	Because , however , Singh came before the Divisional Court three months after the decision in Musisi the argument had become impossible . 	NAN	NAN	NAN	0.6	lord brown
+208	93	Noting counsel 's concession on the point Woolf LJ summarised his understanding of Musisi : `` Each of the present applicants had only been granted temporary admission and they required , but had not received , leave to enter under section 3 of the Immigration Act 1971 and by section 11 -LRB- 1 -RRB- of that Act a person is deemed not to have entered the United Kingdom so long as he is detained or temporarily admitted or released while liable to detention under the powers conferred by Schedule 2 of the Act . 	NAN	NAN	NAN	0.6	lord brown
+208	94	For the purposes of the Convention , a person temporarily admitted is therefore not to be regarded as lawfully in the territory . 	NAN	NAN	NAN	0.6	lord brown
+208	95	He is instead in an intermediate position which also differs from those in the country illegally ... '' 21 . 	NAN	NAN	NAN	0.7	lord brown
+208	96	Kaya , the second of the two authorities principally relied on by the respondent , raised and decided the identical question now before your Lordships . 	NAN	NAN	NAN	0.7	lord brown
+208	97	It arose there in the context of a Turkish asylum seeker 's claim for housing under homelessness legislation based on his pregnant wife 's priority need and there , as here , the claim turned on whether the claimant , temporarily admitted to the United Kingdom pending the resolution of his asylum claim , was `` lawfully present '' here within the meaning of the 2000 Regulations : Turkey had ratified ECSMA -- besides Croatia the only non-EU or EEA country to do so . 	NAN	NAN	NAN	0.7	lord brown
+208	98	Rejecting the claim , Buxton LJ -LRB- with whose judgment Peter Gibson LJ and Jonathan Parker LJ agreed -RRB- saw `` absolutely no reason not to apply the same reasoning -LSB- as Lord Bridge in Musisi -RSB- '' , and again founded his conclusions squarely upon section 11 . 	NAN	NAN	NAN	0.7	lord brown
+208	99	The `` function and role '' of this section he described , at para 33 , as follows : `` In the whole context of the Immigration Act it is admittedly a device , but it is a device to prevent persons who have not been granted leave to enter , but whose case has to be further considered , from committing what would otherwise be a criminal offence under national law . 	NAN	NAN	NAN	0.7	lord brown
+208	100	So section 11 does go to the lawfulness of the person 's presence and is directly relevant to the question of whether , under national rules , the seeker for asylum is ` unlawfully present ' in this country . 	NAN	NAN	NAN	0.7	lord brown
+208	101	As I have already indicated , in my judgment the purpose and intention of the ECSMA rule is that that should be a matter for the contracting state . '' 	NAN	NAN	NAN	0.7	lord brown
+208	102	22 . 	NAN	NAN	NAN	0.7	lord brown
+208	103	The decision in Kaya , of course , stood foursquare in the appellant 's path in the present case . 	NAN	NAN	NAN	0.7	lord brown
+208	104	Mr Drabble QC , on his behalf , sought to contend that it had been reached per incuriam but the Court of Appeal , rightly in my view , rejected that contention and regarded themselves as bound by it . 	NAN	NAN	NAN	0.7	lord brown
+208	105	Pill LJ and Maurice Kay J , I should add , thought the decision not merely binding but also correct . 	NAN	NAN	NAN	0.7	lord brown
+208	106	That , however , was not Carnwath LJ 's view : he agreed to the appeal being dismissed `` simply because '' the court was bound by Kaya . 	NAN	NAN	NAN	0.7	lord brown
+208	107	In addition he described the context in which the issue arose in Musisi as `` quite different '' , and the House of Lords reasoning there as `` very brief , no doubt partly influenced by the very unattractive consequences of the argument . '' 	NAN	NAN	NAN	0.7	lord brown
+208	108	23 . 	NAN	NAN	NAN	0.7	lord brown
+208	109	Mr Drabble criticises the reasoning , but not the actual decision , in Musisi and its adoption in Kaya , and he criticises too Buxton LJ 's analysis in Kaya of the role of section 11 in the scheme of the 1971 Act . 	NAN	NAN	NAN	0.7	lord brown
+208	110	24 . 	NAN	NAN	NAN	0.8	lord brown
+208	111	For my part I accept Mr Drabble 's arguments . 	NAN	NAN	NAN	0.8	lord brown
+208	112	In re Musisi was rightly decided but for the wrong reasons . 	NAN	NAN	NAN	0.8	lord brown
+208	113	The term `` refugee '' in article 32 -LRB- 1 -RRB- of the Refugee Convention can only mean someone already determined to have satisfied the article 1 definition of that term -LRB- as , for example in article 2 although in contrast to its meaning in article 33 -RRB- . 	NAN	NAN	NAN	0.8	lord brown
+208	114	Were it otherwise , there would be no question of removing asylum seekers to safe third countries and a number of international treaties , such as the two Dublin Conventions -LRB- for determining the EU state responsible for examining applications lodged in one member state -RRB- would be unworkable . 	NAN	NAN	NAN	0.8	lord brown
+208	115	In short , Mr Musisi failed to qualify as `` a refugee lawfully in '' the United Kingdom not because he was not lawfully here but rather because , within the meaning of article 32 -LRB- 1 -RRB- , he was not a refugee . 	NAN	NAN	NAN	0.8	lord brown
+208	116	25 . 	NAN	NAN	NAN	0.8	lord brown
+208	117	The decision in Kaya rests in part upon its application to the 2000 Regulations of the reasoning in Musisi -LRB- erroneous reasoning as already indicated -RRB- and in part upon Buxton LJ 's view that section 11 of the 1971 Act `` does go to the lawfulness of the person 's presence '' in the United Kingdom on the basis that but for section 11 the person temporarily admitted would have committed the criminal offence of entering the United Kingdom without leave -LRB- under section 24 -RRB- . 	NAN	NAN	NAN	0.8	lord brown
+208	118	In my opinion , however , section 11 's purpose is not to safeguard the person admitted from prosecution for unlawful entry but rather to exclude him from the rights -LRB- in particular the right to seek an extension of leave -RRB- given to those granted leave to enter . 	NAN	NAN	NAN	0.8	lord brown
+208	119	Even assuming that section 11 's deemed non-entry `` for purposes of this Act '' would otherwise be capable of affecting the construction of the 1999 Act and the 2000 Regulations -LRB- as legislation in pari materia -RRB- , it would in my judgment be quite wrong to carry the fiction beyond its originally intended purpose so as to deem a person in fact lawfully here not to be here at all . 	NAN	NAN	NAN	0.8	lord brown
+208	120	`` The intention of a deeming provision , in laying down a hypothesis , is that the hypothesis shall be carried as far as necessary to achieve the legislative purpose , but no further '' -- the effect of the authorities as summarised by Bennion , Statutory Interpretation , 4th ed -LRB- 2002 -RRB- , Section 304 at p 815 . 	NAN	NAN	NAN	0.8	lord brown
+208	121	26 . 	NAN	NAN	NAN	0.8	lord brown
+208	122	To my mind the only way the respondent could succeed in these proceedings would be to make good his core argument , that the word `` lawfully '' in this context means more than merely not unlawfully ; rather it should be understood to connote the requirement for some positive legal underpinning . 	NAN	NAN	NAN	0.8	lord brown
+208	123	Mr Giffin QC illustrates the argument by reference to Taikato v R -LRB- 1996 -RRB- 186 CLR 454 , a decision of the High Court of Australia on very different facts . 	NAN	NAN	NAN	0.8	lord brown
+208	124	The question there was whether an individual carrying a formaldehyde spray possessed it `` for a lawful purpose '' , and it was held that she did not do so even though her purpose -LRB- self-defence -RRB- was one not prohibited by law . 	NAN	NAN	NAN	0.8	lord brown
+208	125	Brennan CJ , at p 460 , said this : '' ` Lawful purpose ' in -LSB- the relevant legislation -RSB- should be read as a purpose that is authorised , as opposed to not forbidden , by law because that meaning best gives effect to the object of the section . 	NAN	NAN	NAN	0.9	lord brown
+208	126	The meaning of ` lawful ' depends on its context , as Napier J pointed out in Crafter v Kelly -LSB- -LSB- 1941 -RSB- SASR 237 at 243 -RSB- . 	NAN	NAN	NAN	0.9	lord brown
+208	127	As a result , a ` lawful purpose ' may mean a purpose not forbidden by law or not unlawful under the statute that enacts the term ... ; or it can mean a purpose that is supported by a positive rule of law ... As a general rule , interpreting ` lawful purpose ' in a legislative provision to mean a purpose that is not forbidden , rather than positively authorised , by law is the interpretation that best gives effect to the legislative purpose of the enactment . 	NAN	NAN	NAN	0.9	lord brown
+208	128	This is because statutes are interpreted in accordance with the presumption that Parliament does not take away existing rights unless it does so expressly or by necessary implication ... Nevertheless , the purpose , context or subject matter of a legislative provision may indicate that Parliament has used the term ` lawful purpose ' to mean a purpose that is positively authorised by law . '' 	NAN	NAN	NAN	0.9	lord brown
+208	129	27 . 	NAN	NAN	NAN	0.9	lord brown
+208	130	So too here , submits the respondent : paragraph 4 of the Schedule to the 2000 Regulations confers an entitlement to certain state benefits -LRB- or , more accurately , displaces a prima facie disqualification from receiving such benefits -RRB- upon persons who are nationals of a relevant state and who are `` lawfully present '' in the United Kingdom . 	NAN	NAN	NAN	0.9	lord brown
+208	131	Unless , submits Mr Giffin , the applicant 's presence in the United Kingdom has been positively authorised by a specific grant of leave to enter , rather merely than by temporary admission , his disqualification from the benefits should not be found displaced . 	NAN	NAN	NAN	0.9	lord brown
+208	132	28 . 	NAN	NAN	NAN	0.9	lord brown
+208	133	I would reject this argument . 	NAN	NAN	NAN	0.9	lord brown
+208	134	There is to my mind no possible reason why paragraph 4 should be construed as requiring more by way of positive legal authorisation for someone 's presence in the United Kingdom than that they are at large here pursuant to the express written authority of an immigration officer provided for by statute . 	NAN	NAN	NAN	0.9	lord brown
+208	135	-LRB- Much of the argument before the House assumed that if a temporarily admitted applicant were `` lawfully present '' in the United Kingdom for paragraph 4 purposes , so too would be any asylum seeker even were he in fact detained under Schedule 2 to the 1971 Act : he too would be legally irremovable unless and until his asylum claim were rejected . 	NAN	NAN	NAN	0.9	lord brown
+208	136	It now occurs to me that that assumption may be ill-founded : certainly Mr Giffin 's Taikato-based argument would have greater force in that type of case . 	NAN	NAN	NAN	0.9	lord brown
+208	137	For present purposes , however , it is unnecessary to decide the point . -RRB- 	NAN	NAN	NAN	0.9	lord brown
+208	138	29 . 	NAN	NAN	NAN	0.9	lord brown
+208	139	Although these conclusions are sufficient to dispose of the appeal , I would add just this about the various benefits provided for by the 1999 Act to which , pursuant to paragraph 4 of the Schedule to the 2000 Regulations as I would construe it , temporarily admitted asylum seekers are entitled . 	NAN	NAN	NAN	1	lord brown
+208	140	For my part I accept that these benefits go further than is strictly required to meet the United Kingdom 's international obligations under ECSMA and CESC . 	NAN	NAN	NAN	1	lord brown
+208	141	For one thing those treaties make a distinction -LRB- not recognised in our law -RRB- between lawful presence and lawful residence , certain benefits having to be made available only to those lawfully resident in the state . 	NAN	NAN	NAN	1	lord brown
+208	142	For another thing the respondent may well be right in saying that the basic care and emergency needs of asylum seekers are catered for by other benefits than those described in section 115 of the 1999 Act so that the United Kingdom 's treaty of obligations would be met even if asylum seekers are excluded from the latter -LRB- although there are strong arguments to the contrary too -RRB- . 	NAN	NAN	NAN	1	lord brown
+208	143	In my judgment , however , none of this is to the point : the court 's task is to construe the legislation as it stands , not as it might more stringently have been enacted . 	NAN	NAN	NAN	1	lord brown
+208	144	30 . 	NAN	NAN	NAN	1	lord brown
+208	145	I would allow this appeal and reinstate the original decision of the Social Security Appeal Tribunal in the appellant 's favour . 	lord brown	self	outcome	1	lord brown

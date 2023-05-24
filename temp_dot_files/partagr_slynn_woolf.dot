@@ -1,0 +1,8 @@
+digraph partagr_slynn_woolf { 
+ K=0.6 
+ "slynn" -> { "woolf" } [color="darkgreen", arrowhead="onormal", penwidth=1, href="#7"]; 
+ "slynn" -> { "woolf" } [color="darkgreen", arrowhead="onormal", penwidth=1, href="#15"]; 
+ "slynn" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#slynn"]; 
+ "woolf" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="yellow", href="#woolf"]; 
+
+}

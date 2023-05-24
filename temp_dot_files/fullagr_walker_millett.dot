@@ -1,0 +1,7 @@
+digraph fullagr_walker_millett { 
+ K=0.6 
+ "walker" -> { "millett" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#340"]; 
+ "walker" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#walker"]; 
+ "millett" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#millett"]; 
+
+}

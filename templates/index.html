@@ -1,0 +1,49 @@
+<!-- <!doctype html>
+<html>
+  <head>
+    <title>File Upload</title>
+  </head>
+  <body>
+    <h1>File Upload</h1>
+    <form method="POST" action="" enctype="multipart/form-data">
+      <p><input type="file" name="file"></p>
+      <p><input type="submit" value="Submit"></p>
+    </form>
+  </body>
+</html> -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>judgeViz</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='block.css') }}">
+</head>
+<!-- <body> -->
+{% extends "layout.html" %}
+{% block content %} 
+    <h2>Here is your case:</h2>
+    <h5><a href="{{ url_for('select_roles') }}">Select different roles</a></h5>
+    <h5><a href="{{ url_for('select_case') }}">Select a different case</a></h5>
+
+{% for table in tables %}
+            {{titles[loop.index]}}
+            {{ table|safe }}
+{% endfor %}
+<!-- add display of plain case here? -->
+<div class="sticky">
+  <h3>Colour key: </h3>
+  <body>
+      <ul>
+          <li>Fact – lilac</li>
+          <li>Textual – pink</li>
+          <li>Proceedings – orange</li>
+          <li>Framing – blue</li>
+          <li>Background – yellow</li>
+          <li>Disposal – green</li>
+  </body>
+</div>
+<!-- </body> -->
+{% endblock %}
+</html>
+

@@ -1,0 +1,29 @@
+digraph case154 { 
+ K=0.6 
+ "bingham" -> { "nicholls" } [color="darkgreen", arrowhead="onormal", penwidth=1, href="#16"]; 
+ "bingham" -> { "scott" } [color="darkgreen", arrowhead="onormal", penwidth=1, href="#16"]; 
+ "bingham" -> { "nicholls" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#20"]; 
+ "bingham" -> { all } [color="darkgreen", arrowhead="normal", penwidth=1, href="#22"]; 
+ "bingham" -> { "bingham" } [color="blue", arrowhead="vee", penwidth=1, href="outcome_bingham_self"];
+ "bingham" -> { "scott" } [color="darkgreen", arrowhead="normal", penwidth=1, href="fullagr_bingham_scott"];
+ "bingham" -> { "hobhouse" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#23"]; 
+ "nicholls" -> { "nicholls" } [color="blue", arrowhead="vee", penwidth=1, href="outcome_nicholls_self"];
+ "nicholls" -> { "hobhouse" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#689"]; 
+ "nicholls" -> { "scott" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#691"]; 
+ "clyde" -> { "nicholls" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#697"]; 
+ "clyde" -> { "clyde" } [color="blue", arrowhead="vee", penwidth=1, href="outcome_clyde_self"];
+ "clyde" -> { "scott" } [color="darkgreen", arrowhead="onormal", penwidth=1, href="#751"]; 
+ "hobhouse" -> { "nicholls" } [color="darkgreen", arrowhead="normal", penwidth=1, href="fullagr_hobhouse_nicholls"];
+ "hobhouse" -> { "nicholls" } [color="darkgreen", arrowhead="onormal", penwidth=1, href="partagr_hobhouse_nicholls"];
+ "hobhouse" -> { "scott" } [color="red", arrowhead="dot", penwidth=1, href="#923"]; 
+ "hobhouse" -> { "hobhouse" } [color="blue", arrowhead="vee", penwidth=1, href="outcome_hobhouse_self"];
+ "scott" -> { "nicholls" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#1554"]; 
+ "scott" -> { "scott" } [color="blue", arrowhead="vee", penwidth=1, href="outcome_scott_self"];
+ "scott" -> { "hobhouse" } [color="darkgreen", arrowhead="onormal", penwidth=1, href="#1764"]; 
+ "bingham" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#bingham"]; 
+ "nicholls" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#nicholls"]; 
+ "clyde" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#clyde"]; 
+ "hobhouse" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#hobhouse"]; 
+ "scott" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#scott"]; 
+
+}

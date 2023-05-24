@@ -1,0 +1,7 @@
+digraph partagr_hutton_rodger { 
+ K=0.6 
+ "hutton" -> { "rodger" } [color="darkgreen", arrowhead="onormal", penwidth=1, href="#23"]; 
+ "hutton" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#hutton"]; 
+ "rodger" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#rodger"]; 
+
+}

@@ -1,0 +1,7 @@
+<map id="fullagr_millett_nicholls" name="fullagr_millett_nicholls">
+<area shape="circle" id="node1" href="#millett" title="millett" alt="fullagr_millett_nicholls" coords="53,53,48" onclick="return myFunction(this.alt, href);"/>
+<area shape="circle" id="node2" href="#nicholls" title="nicholls" alt="fullagr_millett_nicholls" coords="53,197,48" onclick="return myFunction(this.alt, href);"/>
+<area shape="poly" id="edge1" href="#294" alt="fullagr_millett_nicholls" coords="47,101,47,136,42,136,42,101" onclick="return myFunction(this.alt, href);"/>
+<area shape="poly" id="edge2" href="#295" alt="fullagr_millett_nicholls" coords="65,101,65,136,60,136,59,101" onclick="return myFunction(this.alt, href);"/>
+</map>
+

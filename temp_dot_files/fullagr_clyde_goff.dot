@@ -1,0 +1,7 @@
+digraph fullagr_clyde_goff { 
+ K=0.6 
+ clyde -> { goff } [color="darkgreen", arrowhead="normal", penwidth=1, href="#263"]; 
+ "clyde" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#clyde"]; 
+ "goff" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#goff"]; 
+
+}

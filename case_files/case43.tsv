@@ -1,0 +1,144 @@
+2.34	43	1	0	0.5	NONE	[2002] UKHL 34	<new-case>	NONE	steyn	NONE	NONE	0	0	0	0	1	0
+2.34	43	2	1	0.5	slynn	LORD SLYNN OF HADLEY	TEXTUAL	NONE	NONE	NONE	NONE	0	0	0	0	0	1
+2.34	43	3	2	0.5	slynn	My Lords ,	TEXTUAL	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+2.34	43	5	3	1	slynn	I have had the advantage of reading in draft the opinion of my noble and learned friend , Lord Steyn .	TEXTUAL	NONE	NONE	NONE	steyn	0	0	0	0	0	1
+2.34	43	6	4	1	slynn	For the reasons he gives I too would dismiss the appeal .	DISPOSAL	14	steyn	3	NONE	0	0	0	0	0	0
+2.34	43	8	5	1.5	mackay	LORD MACKAY OF CLASHFERN	TEXTUAL	NONE	NONE	NONE	NONE	0	0	0	0	0	1
+2.34	43	9	6	1.5	mackay	My Lords ,	TEXTUAL	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+2.34	43	11	7	2	mackay	I have had the advantage of reading in draft the speech prepared by my noble and learned friend , Lord Steyn .	TEXTUAL	NONE	NONE	NONE	steyn	0	0	0	0	0	1
+2.34	43	12	8	2	mackay	For the reasons that he has given and with which I agree , I would dismiss these appeals .	DISPOSAL	14	steyn	3	NONE	0	0	0	0	0	0
+2.34	43	14	9	2.5	steyn	LORD STEYN	TEXTUAL	NONE	NONE	NONE	NONE	0	0	0	0	0	1
+2.34	43	15	10	2.5	steyn	My Lords ,	TEXTUAL	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+2.34	43	17	11	3	steyn	In 1982 Parliament placed a duty on health authorities and local social services authorities to provide after-care services for persons in their areas who have been discharged from compulsory detention under provisions of the Mental Health Act 1959 : section 51 of the Mental Health ( Amendment ) Act 1982 .	BACKGROUND	5	NONE	NONE	NONE	1	1	0	0	0	0
+2.34	43	18	12	3	steyn	In the next year this provision became section 117 of the consolidated Mental Health Act 1983 .	BACKGROUND	NONE	NONE	NONE	NONE	1	1	0	0	0	0
+2.34	43	19	13	3	steyn	Although the provision has been on the statute book for nearly 20 years it still is a matter of controversy whether the authorities are legally entitled to charge for after-care services .	FRAMING	7	NONE	NONE	NONE	0	0	0	0	0	0
+2.34	43	21	14	4	steyn	The Department of Health has consistently taken the view that health authorities and social services authorities may not charge for services which they render in consequence of their duty under section 117 .	BACKGROUND	1	NONE	NONE	NONE	1	0	0	0	0	0
+2.34	43	22	15	4	steyn	"A circular under the heading "" Advice Note for Use by Social Services Inspectorate "" issued by the Department of Health in January 1994 dealt with the point ."	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+2.34	43	23	16	4	steyn	Paragraph 2 reads as follows :	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+2.34	43	23	17	4.5	steyn	""" 2 ."	BACKGROUND	NONE	NONE	NONE	NONE	1	0	0	0	0	0
+2.34	43	24	18	4.5	steyn	Section 117 of the Mental Health Act 1983 imposes duties on local social services authorities and health authorities to provide after-care services ( which may include home care services ) .	BACKGROUND	5	NONE	NONE	NONE	1	1	0	0	0	0
+2.34	43	25	19	4.5	steyn	"Services provided under section 117 of the Mental Health Act 1983 are not subject to charging under section 17 of the 1983 Act . """	BACKGROUND	NONE	NONE	NONE	NONE	1	1	0	0	0	0
+2.34	43	26	20	4.5	steyn	"In response to a Parliamentary question in July 1998 the government stated that "" charges cannot be levied for services , residential or non-residential , which are provided as part of the programme of after care for a patient . . . under section 117 "" : Hansard Written Answers , 28 July 1998 , col ."	BACKGROUND	1	NONE	NONE	NONE	1	0	0	0	0	0
+2.34	43	26	21	4.5	steyn	172 .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+2.34	43	27	22	4.5	steyn	Nevertheless , there has been for many years confusion on this point among social services authorities and health authorities .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+2.34	43	28	23	4.5	steyn	The House was told that about two - thirds of the authorities charge for such services and one third do not .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+2.34	43	29	24	4.5	steyn	The question whether such charging is authorised by statute has substantial resource implications .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+2.34	43	30	25	4.5	steyn	While one views unverified figures with some scepticism , it was said that the annual sum so recovered by authorities was of the order of # 31m and that , if repayment has to be made of charges levied since 1993 , the sum involved may be about # 80m .	FRAMING	NONE	NONE	NONE	NONE	1	0	0	0	0	0
+2.34	43	31	26	4.5	steyn	Higher figures given to the Court of Appeal were apparently wrong : R v Richmond upon Thames London Borough Council , Ex p Watson [ 2001 ] QB 370 .	FRAMING	NONE	NONE	NONE	NONE	0	0	1	1	1	0
+2.34	43	32	27	4.5	steyn	Behind these figures lie , no doubt , innumerable tragic personal stories of mentally ill individuals , who were charged for after-care services .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+2.34	43	34	28	5	steyn	It has been the policy of successive governments to shift mentally ill patients from the institutional care of the National Health Service to care in the community : - Bridget Dimond , Legal Aspects of Care in the Community , 1997 , p 1 .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+2.34	43	35	29	5	steyn	The point is therefore of great importance .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+2.34	43	37	30	6	steyn	The three cases before the House all involve mentally ill persons who were formally admitted to hospital under section 3 of the 1983 Act .	FACT	6	NONE	NONE	NONE	1	1	0	0	0	0
+2.34	43	38	31	6	steyn	They were discharged and placed in caring residential accommodation .	FACT	6	NONE	NONE	NONE	0	0	0	0	0	0
+2.34	43	39	32	6	steyn	The local social services authorities involved charged them for the provision of after-care services .	FACT	2	NONE	NONE	NONE	0	0	0	0	0	0
+2.34	43	40	33	6	steyn	The lawfulness of the decisions to charge by the authorities was challenged in judicial review proceedings .	PROCEEDINGS	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+2.34	43	41	34	6	steyn	In careful judgments delivered by Sullivan J on 28 July 1999 ( [ 2000 ] LGR 318 ) and by the Court of Appeal ( Otton and Buxton LLJ and Hooper J [ 2001 ] QB 370 ) on 27 July 2000 it was ruled that there is no right to charge for after-care services .	PROCEEDINGS	2	NONE	NONE	NONE	0	0	1	0	1	1
+2.34	43	42	35	6	steyn	( Since the decision in the Court of Appeal Mary Watson has died .	PROCEEDINGS	3	NONE	NONE	NONE	0	0	1	0	0	0
+2.34	43	43	36	6	steyn	There are now only three appeals . )	PROCEEDINGS	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+2.34	43	44	37	6	steyn	On appeal to the House the rulings made below have been challenged on behalf of the authorities .	PROCEEDINGS	2	NONE	NONE	NONE	0	0	0	0	0	0
+2.34	43	46	38	7	steyn	"The central question is whether section 117 authorises and requires the provision of the "" after-care services "" or whether it merely operates as a gateway section to trigger provisions under other statutory provisions ."	FRAMING	7	NONE	NONE	NONE	1	0	0	0	0	0
+2.34	43	47	39	7	steyn	If the first view prevails , it is common ground there is no right to charge for the after-care services because section 117 itself contains no charging provision .	FRAMING	7	NONE	NONE	NONE	1	0	0	0	0	0
+2.34	43	48	40	7	steyn	On the other hand , if the second view is correct , the authorities may charge under other provisions even in cases covered by section 117 .	FRAMING	NONE	NONE	NONE	NONE	1	0	0	0	0	0
+2.34	43	49	41	7	steyn	The three cases before the House concern the provision of caring residential accommodation to formerly detained mentally ill patients .	PROCEEDINGS	6	NONE	NONE	NONE	0	0	0	0	0	0
+2.34	43	50	42	7	steyn	But exactly the same issue could arise inrespectof the other after-care services provided under section 117 ( 2 ) , eg psychiatric treatment .	FRAMING	NONE	NONE	NONE	NONE	1	0	0	0	0	0
+2.34	43	51	43	7	steyn	Inrespectof residential accommodation the relevant other provision under which it is said that charging was authorised is section 21 of the National Assistance Act 1948 .	FRAMING	7	NONE	NONE	NONE	1	1	0	0	0	0
+2.34	43	52	44	7	steyn	Section 21 contains an express charging provision .	PROCEEDINGS	7	NONE	NONE	NONE	1	0	0	0	0	0
+2.34	43	54	45	8	steyn	For convenience of discussion I set out the material parts of section 117 as amended in 1995 and 1997 :	BACKGROUND	4	NONE	NONE	NONE	1	0	0	0	0	0
+2.34	43	54	46	8.5	steyn	""" ( 1 ) This section applies to persons who are detained under section 3 above , or admitted to a hospital in pursuance of a hospital order made under section 37 above , or transferred to a hospital in pursuance of a hospital direction made under section 45A above or a transfer direction made under section 47 or 48 above , and then cease to be detained and ( whether or not immediately after so ceasing ) leave hospital ."	BACKGROUND	NONE	NONE	NONE	NONE	1	0	0	0	0	0
+2.34	43	55	47	8.5	steyn	( 2 ) It shall be the duty of the Health Authority and of the local social services authority to provide , in co-operation with relevant voluntary agencies , after-care services for any person to whom this section applies until such time as the Health Authority and the local social services authority are satisfied that the person concerned is no longer in need of such services ; but they shall not be so satisfied in the case of a patient who is subject to after-care under supervision at any time while he remains so subject .	BACKGROUND	5	NONE	NONE	NONE	0	0	0	0	0	0
+2.34	43	56	48	8.5	steyn	( 2A ) it shall be the duty of the Health Authority to secure that at all times while a patient is subject to after-care under supervision -	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+2.34	43	56	49	8.5	steyn	( a )	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+2.34	43	56	50	8.5	steyn	a person who is a registered medical practitioner approved for the purposes of section 12 above by the Secretary of State as having special experience in the diagnosis or treatment of mental disorder is in charge of the medical treatment provided for the patient as part of the after-care services provided for him under this section ; and	BACKGROUND	NONE	NONE	NONE	NONE	1	0	0	0	0	0
+2.34	43	56	51	8.5	steyn	( b )	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+2.34	43	56	52	8.5	steyn	". . . """	TEXTUAL	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+2.34	43	56	53	8.5	steyn	( Emphasis added )	TEXTUAL	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+2.34	43	56	54	8.5	steyn	It is important to note that section 117 applies to two primary classes of persons , viz mentally disabled persons detained for treatment under section 3 of the 1983 Act or by virtue of a hospital order made by the court pursuant to section 37 .	BACKGROUND	NONE	NONE	NONE	NONE	1	1	0	0	0	0
+2.34	43	57	55	8.5	steyn	In addition section 117 applies to smaller classes of persons detained under hospital directions made by the Crown Court under section 45A or transfer directions made by the Secretary of State under sections 47 and 48 .	BACKGROUND	NONE	NONE	NONE	NONE	1	0	1	0	0	0
+2.34	43	58	56	8.5	steyn	All classes of person to whom section 117 extends are exceptionally vulnerable persons .	BACKGROUND	NONE	NONE	NONE	NONE	1	0	0	0	0	0
+2.34	43	60	57	9	steyn	"Next it is necessary to identify what is embraced in the concept "" after-care services "" in section 117 ( 2 ) ."	BACKGROUND	NONE	NONE	NONE	NONE	1	0	0	0	0	0
+2.34	43	61	58	9	steyn	There is no issue on this point .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+2.34	43	62	59	9	steyn	In Clunis v Camden and Islington Health Authority [ 1998 ] QB 978 , 992 Beldam LJ observed on behalf of the Court of Appeal :	BACKGROUND	NONE	NONE	NONE	NONE	0	0	1	1	1	1
+2.34	43	62	60	9.5	steyn	""" After-care services are not defined in the Act of 1983 ."	BACKGROUND	NONE	NONE	NONE	NONE	0	1	0	0	0	0
+2.34	43	63	61	9.5	steyn	"They would normally include social work , support in helping the ex-patient with problems of employment , accommodation or family relationships , the provision of domiciliary services and the use of day centre and residential facilities . """	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+2.34	43	64	62	9.5	steyn	It is common ground that this was a correct description .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+2.34	43	65	63	9.5	steyn	It is agreed that caring residential accommodation is within the scope of section 117 ( 2 ) .	BACKGROUND	NONE	NONE	NONE	NONE	1	0	0	0	0	0
+2.34	43	67	64	10	steyn	It is now possible to address directly the issue before the House .	TEXTUAL	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+2.34	43	68	65	10	steyn	If Parliament had intended by section 117 ( 2 ) to provide that after-care services would be provided under other statutory provisions , one would have expected section 117 ( 2 ) to specify the statutory provisions to be triggered .	FRAMING	8	NONE	NONE	NONE	1	0	0	0	0	0
+2.34	43	69	66	10	steyn	Such a gateway provision would require appropriate wording .	FRAMING	9	NONE	NONE	NONE	0	0	0	0	0	0
+2.34	43	70	67	10	steyn	For a model of such a gateway provision one only needs to turn to section 2 of the Chronically Sick and Disabled Persons Act 1970 .	FRAMING	9	NONE	NONE	NONE	1	1	0	0	0	0
+2.34	43	71	68	10	steyn	Instead section 117 is free-standing .	FRAMING	10	NONE	NONE	NONE	1	0	0	0	0	0
+2.34	43	72	69	10	steyn	"It imposes a duty on the authorities to provide the after-care services and to continue to do so "" until such time as . . . the person concerned is no longer in need of such services "" ."	BACKGROUND	10	NONE	NONE	NONE	0	0	0	0	0	0
+2.34	43	73	70	10	steyn	That specific duty must be carried out inrespectof each particular individual person to whom section 117 applies .	BACKGROUND	NONE	NONE	NONE	NONE	1	0	0	0	0	0
+2.34	43	74	71	10	steyn	In my view section 117 ( 2 ) is incapable of being read as a duty to secure the provision of such services under unnamed other enactments .	DISPOSAL	11	NONE	NONE	NONE	1	0	0	0	0	0
+2.34	43	75	72	10	steyn	"Indeed sub-section ( 2A ) ( a ) refers to "" after-care services provided . . . under this section "" ."	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	1
+2.34	43	76	73	10	steyn	"Similarly , elsewhere in the 1983 Act there are repeated express references to "" after-care services provided under section 117 "" : see sections 25A to 25H ."	FRAMING	NONE	NONE	NONE	NONE	1	1	0	0	0	0
+2.34	43	77	74	10	steyn	( Emphasis added ) This use of language is inconsistent with the services being provided under other statutory provisions .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+2.34	43	78	75	10	steyn	No parliamentary draftsman , charged with the task of producing a gateway provision , could conceivably have produced a text without any wording to indicate a gateway provision and with so many counter indications strewn over it .	FRAMING	11	NONE	NONE	NONE	0	0	0	0	0	0
+2.34	43	80	76	11	steyn	Counsel for the authorities accepted in oral argument that there was a duty under section 117 to provide the after-care services .	PROCEEDINGS	12	NONE	NONE	NONE	1	0	0	0	0	0
+2.34	43	81	77	11	steyn	Given the imperative language of section 117 ( 2 ) this concession could not be avoided .	FRAMING	NONE	NONE	NONE	NONE	1	0	0	0	0	0
+2.34	43	82	78	11	steyn	But counsel disputed that there was any power under section 117 to provide the after-care services .	PROCEEDINGS	12	NONE	NONE	NONE	1	0	0	0	0	0
+2.34	43	83	79	11	steyn	He said the power must be found in other statutory provisions .	PROCEEDINGS	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+2.34	43	84	80	11	steyn	While attractively presented I have to say that this is a very contrived argument .	DISPOSAL	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+2.34	43	85	81	11	steyn	The natural and obvious interpretation of section 117 ( 2 ) is that the duty by necessary implication imports a concomitant power to carry out the duty .	DISPOSAL	13	NONE	NONE	NONE	1	0	0	0	0	0
+2.34	43	86	82	11	steyn	If this view is correct , the result is that it is difficult to maintain a credible argument that the services were rendered under other provisions .	DISPOSAL	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+2.34	43	88	83	12	steyn	On appeal to the House counsel for the authorities also put forward a somewhat different argument .	PROCEEDINGS	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+2.34	43	89	84	12	steyn	He argued that section 117 ( 2 ) simply contains the general duty on authorities to co-operate about discharged patients .	PROCEEDINGS	NONE	NONE	NONE	NONE	1	0	0	0	0	0
+2.34	43	90	85	12	steyn	"In the face of the imperative language providing that the authorities "" shall . . . provide . . . after-care services "" until "" the person concerned is no longer in need of such services "" this contention is untenable ."	DISPOSAL	5	NONE	NONE	NONE	0	0	0	0	0	0
+2.34	43	91	86	12	steyn	In any event , section 22 of the National Health Service Act 1977 already provides , in appropriately worded language , for co-operation between health authorities and local authorities .	FRAMING	NONE	NONE	NONE	NONE	1	1	0	0	0	0
+2.34	43	92	87	12	steyn	It was therefore unnecessary to enact section 117 ( 2 ) for the limited purpose of creating such a duty to co-operate .	DISPOSAL	NONE	NONE	NONE	NONE	1	0	0	0	0	0
+2.34	43	94	88	13	steyn	Nevertheless , I am prepared to stand back and consider whether the interpretation of section 117 by the courts below lead to an anomalous result .	TEXTUAL	NONE	NONE	NONE	NONE	1	0	0	0	0	0
+2.34	43	95	89	13	steyn	As his trump card counsel for the appellant authorities referred the House to a comment by Jones , Mental Health Act Manual~~#246; 7th ed ( 2001 ) , on the consequence of the Court of Appeal decision in the present case .	PROCEEDINGS	NONE	NONE	NONE	NONE	0	1	1	0	0	0
+2.34	43	96	90	13	steyn	The author contrasted the following two hypothetical cases , at p 400 , para 1 - 967 :	BACKGROUND	NONE	NONE	NONE	NONE	1	0	0	0	0	0
+2.34	43	96	91	13.5	steyn	""" Case 1 ."	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+2.34	43	97	92	13.5	steyn	A 50 - year-old man with pre-senile dementia is admitted informally to hospital as a compliant mentally incompetent patient .	BACKGROUND	NONE	NONE	NONE	NONE	1	0	0	0	0	0
+2.34	43	98	93	13.5	steyn	He is assessed as requiring residential care on his discharge from hospital .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+2.34	43	99	94	13.5	steyn	He will almost certainly require such accommodation for the rest of his life .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+2.34	43	100	95	13.5	steyn	He will be charged for the accommodation by virtue of section 22 of the National Assistance Act .	BACKGROUND	NONE	NONE	NONE	NONE	1	1	0	0	0	0
+2.34	43	101	96	13.5	steyn	Case 2 .	BACKGROUND	NONE	NONE	NONE	NONE	1	0	0	0	0	0
+2.34	43	102	97	13.5	steyn	A 50 year-old man with pre-senile dementia and with identical needs to the man in Case 1 is admitted to hospital under section 3 of this Act because he happened not to be compliant when the crisis in his mental health occurred .	BACKGROUND	NONE	NONE	NONE	NONE	1	0	0	0	0	0
+2.34	43	103	98	13.5	steyn	He is assessed as requiring residential care on his discharge from hospital .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+2.34	43	104	99	13.5	steyn	He will almost certainly require such accommodation for the rest of his life .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+2.34	43	105	100	13.5	steyn	"He will be provided with the accommodation without charge because he comes within the scope of section 117 . """	BACKGROUND	NONE	NONE	NONE	NONE	1	0	0	0	0	0
+2.34	43	106	101	13.5	steyn	Counsel described this as the anomaly of the compliant and non-compliant patients in adjacent beds .	PROCEEDINGS	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+2.34	43	107	102	13.5	steyn	In my opinion this view is too simplistic .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+2.34	43	108	103	13.5	steyn	There may well be a reasonable view that generally patients compulsorily admitted under sections 3 and 37 pose greater risks upon discharge to themselves and others than compliant patients .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+2.34	43	109	104	13.5	steyn	Moreover , Parliament necessarily legislates for the generality of cases .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+2.34	43	111	105	14	steyn	In the Court of Appeal Buxton LJ observed ( at p 386B-C ) that :	PROCEEDINGS	NONE	NONE	NONE	NONE	0	0	1	0	0	1
+2.34	43	111	106	14.5	steyn	""" the statutory provision is not at all anomalous , and not at all surprising ."	PROCEEDINGS	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+2.34	43	112	107	14.5	steyn	The persons referred to in section 117 ( 1 ) are an identifiable and exceptionally vulnerable class .	PROCEEDINGS	NONE	NONE	NONE	NONE	1	0	0	0	0	0
+2.34	43	113	108	14.5	steyn	To their inherent vulnerability they add the burden , and the responsibility for the medical and social service authorities , of having been compulsorily detained .	PROCEEDINGS	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+2.34	43	114	109	14.5	steyn	"It is entirely proper that special provision should be made for them to receive after-care , and it would be surprising , rather than the reverse , if they were required to pay for what is essentially a health-related form of care and treatment . """	PROCEEDINGS	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+2.34	43	115	110	14.5	steyn	I agree .	DISPOSAL	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+2.34	43	116	111	14.5	steyn	I would only add a few comments .	TEXTUAL	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+2.34	43	117	112	14.5	steyn	"The policy is that "" Compulsory admission powers should only be exercised in the last resort , "" eg only in very serious cases : para 2.7 of the Code of Practice issued by the Secretary of State for Health pursuant to section 118 of the 1983 Act ."	BACKGROUND	NONE	NONE	NONE	NONE	1	1	0	0	0	0
+2.34	43	118	113	14.5	steyn	"A principal factor in making a decision to admit is "" the danger the patient presents to him or herself or others "" : para 2.7 of the Code of Practice ."	BACKGROUND	NONE	NONE	NONE	NONE	0	1	0	0	0	0
+2.34	43	119	114	14.5	steyn	In practice section 117 will in a large measure cover patients whose mental illness is such that they pose a risk to themselves or others .	BACKGROUND	NONE	NONE	NONE	NONE	1	0	0	0	0	0
+2.34	43	121	115	15	steyn	The consequences of acceding to the arguments of the authorities would be far reaching .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+2.34	43	122	116	15	steyn	Under section 72 of the 1983 Act a detained patient may apply to a mental health tribunal for discharge .	BACKGROUND	NONE	NONE	NONE	NONE	1	1	0	0	0	0
+2.34	43	123	117	15	steyn	On discharge pursuant to a direction by a tribunal a patient may often still require medical and other care .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+2.34	43	124	118	15	steyn	Clearly , caring residential care ( ensuring , for example , that prescribed medication is taken ) may be essential .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+2.34	43	125	119	15	steyn	It takes the place of the hospital environment .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+2.34	43	126	120	15	steyn	It can hardly be said that the mentally ill patient freely chooses such accommodation .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+2.34	43	127	121	15	steyn	Charging them in these circumstances may be surprising .	DISPOSAL	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+2.34	43	128	122	15	steyn	Moreover , under section 73 of the 1983 Act inrespectof restricted patients ( ie patients inrespectof whom a restriction direction under section 41 of the 1983 Act has been made ) , the tribunal is empowered to impose conditions of discharge upon the patient with which the patient is obliged to comply , eg inrespectof residence and treatment .	BACKGROUND	NONE	NONE	NONE	NONE	1	1	0	0	0	0
+2.34	43	129	123	15	steyn	The Home Secretary also has the power at any time thereafter to impose conditions upon the patient .	BACKGROUND	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+2.34	43	130	124	15	steyn	Plainly in such cases the patients do not voluntarily avail themselves of the after care-services .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+2.34	43	131	125	15	steyn	If the argument of the authorities is accepted that there is a power to charge these patients such a view of the law would not be testimony to our society attaching a high value to the need to care after the exceptionally vulnerable .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+2.34	43	132	126	15	steyn	In my view the consequentialist arguments do not assist the case of the authorities .	DISPOSAL	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+2.34	43	133	127	15	steyn	They militate in favour of the interpretation upheld by Sullivan J and the Court of Appeal .	DISPOSAL	NONE	NONE	NONE	NONE	0	0	1	0	0	1
+2.34	43	135	128	16	steyn	There was an argument advanced on behalf of the appellant authorities based on taking into account Hansard material .	PROCEEDINGS	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+2.34	43	136	129	16	steyn	It was a hopeless attempt .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+2.34	43	137	130	16	steyn	The parliamentary material relied on throws no light whatever on the question of construction before the House .	FRAMING	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+2.34	43	139	131	17	steyn	For these reasons , I would dismiss the appeal .	DISPOSAL	2	NONE	3	NONE	0	0	0	0	0	0
+2.34	43	141	132	17.5	hutton	LORD HUTTON	TEXTUAL	NONE	NONE	NONE	NONE	0	0	0	0	0	1
+2.34	43	142	133	17.5	hutton	My Lords ,	TEXTUAL	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+2.34	43	144	134	18	hutton	I have had the advantage of reading in draft the speech of my noble and learned friend , Lord Steyn .	TEXTUAL	NONE	NONE	NONE	steyn	0	0	0	0	0	1
+2.34	43	145	135	18	hutton	I agree with it and for the reasons which he gives I also would dismiss this appeal .	DISPOSAL	14	steyn	3	NONE	0	0	0	0	0	0
+2.34	43	147	136	18.5	millett	LORD MILLETT	TEXTUAL	NONE	NONE	NONE	NONE	0	0	0	0	0	1
+2.34	43	148	137	18.5	millett	My Lords ,	TEXTUAL	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+2.34	43	150	138	19	millett	I have had the advantage of reading in draft the speech of my noble and learned friend , Lord Steyn .	TEXTUAL	NONE	NONE	NONE	steyn	0	0	0	0	0	1
+2.34	43	151	139	19	millett	I agree with it , and for the reasons he gives I , too , would dismiss the appeal .	DISPOSAL	14	steyn	3	NONE	0	0	0	0	0	0
+2.34	43	N/A	N/A	19.5	millett	Prepared	<prep-date>	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+2.34	43	N/A	N/A	19.5	millett	24	<prep-date>	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+2.34	43	N/A	N/A	19.5	millett	July	<prep-date>	NONE	NONE	NONE	NONE	0	0	0	0	0	0
+2.34	43	N/A	N/A	19.5	millett	2002	<prep-date>	NONE	NONE	NONE	NONE	0	0	0	0	0	0

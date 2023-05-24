@@ -1,0 +1,22 @@
+digraph bbbcase55 { 
+ K=0.6 
+ "nicholls" -> { "hobhouse" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#6"]; 
+ "nicholls" -> { "nicholls" } [color="blue", arrowhead="vee", penwidth=1, href="#6"]; 
+ "hope" -> { "hobhouse" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#12"]; 
+ "hope" -> { "hope" } [color="blue", arrowhead="vee", penwidth=1, href="#12"]; 
+ "hope" -> { "hobhouse" } [color="darkgreen", arrowhead="onormal", penwidth=1, href="partagr_hope_hobhouse"];
+ "hobhouse" -> { "hobhouse" } [color="blue", arrowhead="vee", penwidth=1, href="#179"]; 
+ "scott" -> { "hobhouse" } [color="darkgreen", arrowhead="onormal", penwidth=1, href="partagr_scott_hobhouse"];
+ "scott" -> { "scott" } [color="blue", arrowhead="vee", penwidth=1, href="outcome_scott_self"];
+ "scott" -> { "hobhouse" } [color="red", arrowhead="odot", penwidth=1, href="#189"]; 
+ "scott" -> { "hobhouse" } [color="blue", arrowhead="vee", penwidth=1, href="#258"]; 
+ "rodger" -> { "hobhouse" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#264"]; 
+ "rodger" -> { "rodger" } [color="blue", arrowhead="vee", penwidth=1, href="#264"]; 
+ "rodger" -> { "hobhouse" } [color="blue", arrowhead="vee", penwidth=1, href="#264"]; 
+ "nicholls" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#nicholls"]; 
+ "hope" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#hope"]; 
+ "hobhouse" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#hobhouse"]; 
+ "scott" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#scott"]; 
+ "rodger" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#rodger"]; 
+
+}

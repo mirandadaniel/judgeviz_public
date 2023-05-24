@@ -1,0 +1,7 @@
+digraph fullagr_steyn_cooke { 
+ K=0.6 
+ "steyn" -> { "cooke" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#7"]; 
+ "steyn" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#steyn"]; 
+ "cooke" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#cooke"]; 
+
+}

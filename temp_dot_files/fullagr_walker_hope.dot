@@ -1,0 +1,8 @@
+digraph fullagr_walker_hope { 
+ K=0.6 
+ walker -> { hope } [color="darkgreen", arrowhead="normal", penwidth=1, href="#492"]; 
+ walker -> { hope } [color="darkgreen", arrowhead="normal", penwidth=1, href="#570"]; 
+ "walker" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#walker"]; 
+ "hope" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#hope"]; 
+
+}

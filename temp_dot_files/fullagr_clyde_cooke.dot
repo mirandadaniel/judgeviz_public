@@ -1,0 +1,7 @@
+digraph fullagr_clyde_cooke { 
+ K=0.6 
+ "clyde" -> { "cooke" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#289"]; 
+ "clyde" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#clyde"]; 
+ "cooke" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#cooke"]; 
+
+}

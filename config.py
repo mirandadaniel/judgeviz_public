@@ -1,0 +1,10 @@
+all_mini_files = []
+mo_flag = False 
+dictionary = {}
+dictionary = { 1000000 : 'nothing' }
+pass_judge_dict = ''
+all_judges = []
+outcomes = {}
+mo_judges = []
+judge_dict = []
+case_name = ''

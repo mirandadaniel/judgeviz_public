@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>judgeViz</title>
+</head>
+<body>
+    {% extends "layout.html" %}
+    {% block content %} 
+    <h2>Judgment highlighter</h2>
+    <h4>Please select which case you would like to work with (scroll down to submit):</h4>
+    <form method="post">
+        {{ form.hidden_tag() }}
+        {{ form.example }}
+        <button type="submit">Submit</button>
+    </form>
+    {% endblock %}
+</body>
+</html>
+
+

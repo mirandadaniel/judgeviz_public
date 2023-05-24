@@ -1,0 +1,7 @@
+digraph fullagr_scott_nicholls { 
+ K=0.6 
+ "scott" -> { "nicholls" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#576"]; 
+ "scott" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#scott"]; 
+ "nicholls" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#nicholls"]; 
+
+}

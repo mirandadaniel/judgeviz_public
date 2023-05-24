@@ -1,0 +1,13 @@
+digraph partagr_hobhouse_nicholls { 
+ K=0.6 
+ hobhouse -> { nicholls } [color="darkgreen", arrowhead="onormal", penwidth=1, href="#881"]; 
+ hobhouse -> { nicholls } [color="darkgreen", arrowhead="onormal", penwidth=1, href="#885"]; 
+ hobhouse -> { nicholls } [color="darkgreen", arrowhead="onormal", penwidth=1, href="#923"]; 
+ hobhouse -> { nicholls } [color="darkgreen", arrowhead="onormal", penwidth=1, href="#983"]; 
+ hobhouse -> { nicholls } [color="darkgreen", arrowhead="onormal", penwidth=1, href="#986"]; 
+ hobhouse -> { nicholls } [color="darkgreen", arrowhead="onormal", penwidth=1, href="#1067"]; 
+ hobhouse -> { nicholls } [color="darkgreen", arrowhead="onormal", penwidth=1, href="#1171"]; 
+ "hobhouse" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#hobhouse"]; 
+ "nicholls" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#nicholls"]; 
+
+}

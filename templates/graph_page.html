@@ -1,0 +1,388 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Index</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='block.css') }}">
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
+    <style>
+        .control_panel {
+            overflow: hidden;
+            background-color: rgb(255, 255, 255);
+            position: fixed; 
+            top: 50px; 
+            width: 100%; 
+            }
+
+            table.table2 {
+                table-layout: fixed;
+                width: 100%;
+            }
+
+            table.table2 th, table.table2 td {
+                font-family: Arial, Helvetica, sans-serif;
+                width: 30%;
+                overflow: hidden;
+            }
+    </style>
+    <script>
+        let old_href = 'old'
+        let old_link_href = 'old_link'
+        let count = 0
+        let link_count = 0
+
+        function openSelection(evt, tabName) {
+            var i, tabcontent, tablinks;
+
+            tabcontent = document.getElementsByClassName("tabcontent2");
+            for (i = 0; i < tabcontent.length; i++) {
+                tabcontent[i].style.display = "none";
+            }
+
+            tablinks = document.getElementsByClassName("tablinks2");
+            for (i = 0; i < tablinks.length; i++) {
+                tablinks[i].className = tablinks[i].className.replace(" active", "");
+            }
+
+            document.getElementById(tabName).style.display = "block";
+            evt.currentTarget.className += " active";
+
+            evt.currentTarget.removeEventListener()
+        }
+
+
+        function clickTab(id){
+            let text = id;
+            // console.log(id)
+            document.getElementById(id).addEventListener("click", openSelection(onclick, id));
+        }
+
+        function openTab(evt, name) {
+            // console.log('name is')
+            // console.log(name)
+            var i, tabcontent, tablinks;
+            tabcontent = document.getElementsByClassName("tabcontent");
+            for (i = 0; i < tabcontent.length; i++) {
+                tabcontent[i].style.display = "none";
+            }
+
+            tablinks = document.getElementsByClassName("tablinks");
+            for (i = 0; i < tablinks.length; i++) {
+                tablinks[i].className = tablinks[i].className.replace(" active", "");
+            }
+
+            document.getElementById(name).style.display = "block";
+            evt.currentTarget.className += " active";
+        }
+
+
+        function changeLinkBackground(href) {
+            var col=document.getElementById(href);
+            col.style.background="#E6E6FA";
+            col.style.fontWeight= 'bold';
+        }  
+
+        function changeLinkColour(href) {    
+            changeLinkBackground(href);
+            // console.log('old ref in change color: ', old_href)
+        } 
+
+        function unColourLink(old_link_href, new_href) {
+            // console.log('old href is: ', old_link_href)
+            // console.log('count is: ', link_count)
+            if(link_count != 0 && old_link_href != new_href){
+                var col=document.getElementById(old_link_href);
+                col.style.background="#FFFFFF";
+                col.style.fontWeight= 'normal';
+            }
+        }  
+
+        function highlightLinks(href){
+            href = href.split('#')
+            let new_href = href[1]
+            changeLinkColour(new_href)
+            unColourLink(old_link_href, new_href)
+            link_count++
+            old_link_href = new_href
+        }
+
+        function unColour2(){
+            if(count != 0 && old_href != 'old_link'){
+                var col=document.getElementById(old_href);
+                col.style.background="#FFFFFF";
+                col.style.fontWeight= 'normal';
+            }
+        }
+
+        function myFunction2(id){
+            unColour2()
+            document.getElementById(id).addEventListener("click", openTab(onclick, id));
+            return true;
+        }
+
+        function changeBackground(evt, href) {
+            var col=document.getElementById(href);
+            col.style.background="#E6E6FA";
+            col.style.fontWeight= 'bold';
+        }  
+
+        function changeColor(evt, href) {    
+            changeBackground(evt, href);
+            // console.log('old ref in change color: ', old_href)
+        } 
+
+        function unColour(old_href, href) {
+            // console.log('old href is: ', old_href)
+            // console.log('count is: ', count)
+            if(count != 0 && old_href != href){
+                var col=document.getElementById(old_href);
+                col.style.background="#FFFFFF";
+                col.style.fontWeight= 'normal';
+            }
+        }  
+
+        function doBoth(evt, id, href){
+            changeColor(evt, href)
+            unColour(old_href, href)
+            count++
+            old_href = href
+            // console.log('count is at end of do both: ', count)
+            openTab(evt, id)
+        }
+
+
+        function myFunction(id, href){
+                let text = id;
+                // console.log(id)
+                href = href.split('#')
+                let new_href = href[1]
+                document.getElementById(id).addEventListener("click", doBoth(onclick, id, new_href));
+                return true;
+        }
+    </script> 
+</head>
+
+<body onload="document.getElementById('defaultOpen').click();">
+    {% extends "layout.html" %}
+    {% block content %} 
+    <script> 
+        clickTab("Graph + Case Text");
+    </script>
+    <div class= "control_panel">
+            <table class="table2">
+                <tr>
+                    <th>{{ case_name }}</th>
+                    <th>{{ maj_op }}</th>
+                    <th>
+                            <button class="tablinks2 active" type="button" name="submit_button" value="Graph + Case Text" onclick="clickTab(value)" id="defaultOpen">Graph + Judgment Text</button>
+                            <button type="button" name="submit_button" value="Graph + Summary" onclick="clickTab(value)">Graph + Summary</button>
+                            <button type="button" name="submit_button" value="Summary + Case Text" onclick="clickTab(value)">Summary + Judgment Text</button>
+                    </th>
+                </tr>
+            </table>
+    </div> 
+
+
+    <div class="float-parent-element"></div>
+    <div class="tab2">
+        <button class="tablinks2" onclick="openSelection(event, 'Random')"></button>
+        <button class="tablinks2" onclick="openSelection(event, 'Random')"></button>
+        <button class="tablinks2" onclick="openSelection(event, 'Random')"></button>
+      </div>
+      
+
+      <div id="Graph + Case Text" class="tabcontent2" display=block>
+        <div class="float-child-element">
+            <div class="split left">
+                <h4>Graph: </h4>
+                    <div id="both">
+                    <div id="image_map"> 
+                        <img src="/static/case_x2.png" usemap="{{ map_name }}"/>
+                        {{ map_file|safe }}
+                    </div>
+                    <div class="below">
+                        <script>
+                            function includeHTML() {
+                                var z, i, elmnt, file, xhttp;
+                                z = document.getElementsByTagName("*");
+                                for (i = 0; i < z.length; i++) {
+                                elmnt = z[i];
+                                file = elmnt.getAttribute("w3-include-html");
+                                if (file) {
+                                    xhttp = new XMLHttpRequest();
+                                    xhttp.onreadystatechange = function() {
+                                    if (this.readyState == 4) {
+                                        if (this.status == 200) {elmnt.innerHTML = this.responseText;}
+                                        if (this.status == 404) {elmnt.innerHTML = "Page not found.";}
+                                        elmnt.removeAttribute("w3-include-html");
+                                        includeHTML();
+                                    }
+                                    }      
+                                    xhttp.open("GET", file, true);
+                                    xhttp.send();
+                                    return;
+                                }
+                                }
+                            };
+                        </script> 
+                            <div w3-include-html="/static/tab_file.html"></div>
+                            <script>
+                                includeHTML();
+                               
+                            </script>
+                            </div>
+                </div>
+                </div>
+            </div>
+
+        <div class="float-child-element">
+            <div class="split right">
+                <h4>Judgment Text: </h4>
+                <div id="test">
+                <script>
+                    function includeHTML() {
+                        var z, i, elmnt, file, xhttp;
+                        z = document.getElementsByTagName("*");
+                        for (i = 0; i < z.length; i++) {
+                        elmnt = z[i];
+                        file = elmnt.getAttribute("w3-include-html");
+                        if (file) {
+                            xhttp = new XMLHttpRequest();
+                            xhttp.onreadystatechange = function() {
+                            if (this.readyState == 4) {
+                                if (this.status == 200) {elmnt.innerHTML = this.responseText;}
+                                if (this.status == 404) {elmnt.innerHTML = "Page not found.";}
+                                elmnt.removeAttribute("w3-include-html");
+                                includeHTML();
+                            }
+                            }      
+                            xhttp.open("GET", file, true);
+                            xhttp.send();
+                            return;
+                        }
+                        }
+                    };
+                </script> 
+                <div style="height:600px;position:fixed;top:170;width:700px;font:11px/26px Georgia, Garamond, Serif;overflow:auto;">                  
+                    <div w3-include-html="/static/graph_text.html"></div>
+                    <script>
+                        includeHTML();
+                    </script> 
+                </div>
+            </div>
+        </div>
+      </div>
+      </div>
+
+      
+      <div id="Graph + Summary" class="tabcontent2" style="display:none">
+        <div class="float-child-element">
+            <div class="split left">
+                <h4>Graph : </h4>
+                    <div id="both">
+                    <div id="image">
+                    <img src="/static/case_x2.png" alt="Case Graph">
+                    </div>
+                    <div class="below">
+                        <script>
+                            function includeHTML() {
+                                var z, i, elmnt, file, xhttp;
+                                z = document.getElementsByTagName("*");
+                                for (i = 0; i < z.length; i++) {
+                                elmnt = z[i];
+                                file = elmnt.getAttribute("w3-include-html");
+                                if (file) {
+                                    xhttp = new XMLHttpRequest();
+                                    xhttp.onreadystatechange = function() {
+                                    if (this.readyState == 4) {
+                                        if (this.status == 200) {elmnt.innerHTML = this.responseText;}
+                                        if (this.status == 404) {elmnt.innerHTML = "Page not found.";}
+                                        elmnt.removeAttribute("w3-include-html");
+                                        includeHTML();
+                                    }
+                                    }      
+                                    xhttp.open("GET", file, true);
+                                    xhttp.send();
+                                    return;
+                                }
+                                }
+                            };
+                        </script> 
+                            <div w3-include-html="/static/tab_file.html"></div>
+                            <script>
+                                includeHTML();  
+                            </script>
+                            </div>
+                </div>
+                </div>
+            </div>
+
+        <div class="float-child-element">
+            <div class="split right">
+            <h4>Summary: </h4>
+            <div style="height:600px;position:fixed;top:170;width:700px;font:11px/26px Georgia, Garamond, Serif;overflow:auto;">                  
+                <div w3-include-html="/static/graph_summary.html"></div>
+                <script>
+                    includeHTML();
+                </script> 
+            </div>
+        </div>
+        </div>
+    </div>
+        
+      
+      <div id="Summary + Case Text" class="tabcontent2" style="display:none">
+        <div class="float-child-element">
+            <div class="split left">
+            <h4>Summary: </h4>
+            <div style="height:600px;position:fixed;top:170;width:700px;font:11px/26px Georgia, Garamond, Serif;overflow:auto;">                  
+                <div w3-include-html="/static/summary.html"></div>
+                <script>
+                    includeHTML();
+                </script> 
+            </div>
+            </div>
+        </div>
+
+        <div class="float-child-element">
+            <div class="float-child-element">
+                <div class="split right">
+                    <h4>Judgment Text: </h4>
+                    <div id="test">
+                    <script>
+                        function includeHTML() {
+                            var z, i, elmnt, file, xhttp;
+                            z = document.getElementsByTagName("*");
+                            for (i = 0; i < z.length; i++) {
+                            elmnt = z[i];
+                            file = elmnt.getAttribute("w3-include-html");
+                            if (file) {
+                                xhttp = new XMLHttpRequest();
+                                xhttp.onreadystatechange = function() {
+                                if (this.readyState == 4) {
+                                    if (this.status == 200) {elmnt.innerHTML = this.responseText;}
+                                    if (this.status == 404) {elmnt.innerHTML = "Page not found.";}
+                                    elmnt.removeAttribute("w3-include-html");
+                                    includeHTML();
+                                }
+                                }      
+                                xhttp.open("GET", file, true);
+                                xhttp.send();
+                                return;
+                            }
+                            }
+                        };
+                    </script> 
+                    <div style="height:600px;position:fixed;top:170;width:700px;font:11px/26px Georgia, Garamond, Serif;overflow:auto;">                  
+                        <div w3-include-html="/static/summary_links.html"></div>
+                        <script>
+                            includeHTML();
+                        </script> 
+                    </div>
+                </div>
+            </div>
+        </div>
+      </div>
+    {% endblock %}
+</body>
+</html>

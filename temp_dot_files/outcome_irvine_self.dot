@@ -1,0 +1,7 @@
+digraph outcome_irvine_self { 
+ K=0.6 
+ "irvine" -> { "self" } [color="blue", arrowhead="vee", penwidth=1, href="#8"]; 
+ "irvine" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#irvine"]; 
+ "irvine" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#irvine"]; 
+
+}

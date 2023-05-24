@@ -1,0 +1,7 @@
+digraph outcome_mustill_self { 
+ K=0.6 
+ "mustill" -> { "self" } [color="blue", arrowhead="vee", penwidth=1, href="#12"]; 
+ "mustill" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#mustill"]; 
+ "mustill" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#mustill"]; 
+
+}

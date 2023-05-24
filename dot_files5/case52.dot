@@ -1,0 +1,22 @@
+digraph case52 { 
+ K=0.6 
+ "bingham" -> { "steyn" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#5"]; 
+ "bingham" -> { "hutton" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#5"]; 
+ "bingham" -> { "bingham" } [color="blue", arrowhead="vee", penwidth=1, href="#5"]; 
+ "bingham" -> { "steyn" } [color="blue", arrowhead="vee", penwidth=1, href="#5"]; 
+ "steyn" -> { "hutton" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#231"]; 
+ "steyn" -> { "steyn" } [color="blue", arrowhead="vee", penwidth=1, href="#231"]; 
+ "hoffmann" -> { "rodger" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#242"]; 
+ "hoffmann" -> { "hoffmann" } [color="blue", arrowhead="vee", penwidth=1, href="#242"]; 
+ "hutton" -> { "steyn" } [color="darkgreen", arrowhead="onormal", penwidth=1, href="partagr_hutton_steyn"];
+ "hutton" -> { "hutton" } [color="blue", arrowhead="vee", penwidth=1, href="#319"]; 
+ "hutton" -> { "steyn" } [color="blue", arrowhead="vee", penwidth=1, href="#319"]; 
+ "rodger" -> { "steyn" } [color="darkgreen", arrowhead="onormal", penwidth=1, href="partagr_rodger_steyn"];
+ "rodger" -> { "rodger" } [color="blue", arrowhead="vee", penwidth=1, href="#377"]; 
+ "bingham" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#bingham"]; 
+ "steyn" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#steyn"]; 
+ "hoffmann" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#hoffmann"]; 
+ "hutton" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#hutton"]; 
+ "rodger" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#rodger"]; 
+
+}

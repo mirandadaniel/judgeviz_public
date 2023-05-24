@@ -1,0 +1,7 @@
+digraph partagr_bingham_nicholls { 
+ K=0.6 
+ bingham -> { nicholls } [color="darkgreen", arrowhead="onormal", penwidth=1, href="#16"]; 
+ "bingham" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#bingham"]; 
+ "nicholls" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#nicholls"]; 
+
+}

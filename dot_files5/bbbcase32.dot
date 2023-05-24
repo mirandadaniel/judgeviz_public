@@ -1,0 +1,33 @@
+digraph bbbcase32 { 
+ K=0.6 
+ "irvine" -> { "scott" } [color="darkgreen", arrowhead="onormal", penwidth=1, href="#6"]; 
+ "irvine" -> { "millett" } [color="darkgreen", arrowhead="onormal", penwidth=1, href="#6"]; 
+ "irvine" -> { "scott" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#7"]; 
+ "irvine" -> { "irvine" } [color="blue", arrowhead="vee", penwidth=1, href="#8"]; 
+ "hutton" -> { "scott" } [color="darkgreen", arrowhead="onormal", penwidth=1, href="partagr_hutton_scott"];
+ "hutton" -> { "rodger" } [color="darkgreen", arrowhead="onormal", penwidth=1, href="#23"]; 
+ "hutton" -> { "hutton" } [color="blue", arrowhead="vee", penwidth=1, href="#26"]; 
+ "millett" -> { all } [color="darkgreen", arrowhead="onormal", penwidth=1, href="#137"]; 
+ "millett" -> { "millett" } [color="blue", arrowhead="vee", penwidth=1, href="#138"]; 
+ "scott" -> { "scott" } [color="blue", arrowhead="vee", penwidth=1, href="outcome_scott_self"];
+ "rodger" -> { "millett" } [color="red", arrowhead="odot", penwidth=1, href="partdisa_rodger_millett"];
+ "rodger" -> { "scott" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#252"]; 
+ "rodger" -> { "millett" } [color="darkgreen", arrowhead="onormal", penwidth=1, href="partagr_rodger_millett"];
+ "rodger" -> { "scott" } [color="darkgreen", arrowhead="onormal", penwidth=1, href="#260"]; 
+ "nicholls" -> { "hoffmann" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#6"]; 
+ "nicholls" -> { "nicholls" } [color="blue", arrowhead="vee", penwidth=1, href="#6"]; 
+ "hoffmann" -> { "hoffmann" } [color="blue", arrowhead="vee", penwidth=1, href="#236"]; 
+ "hope" -> { "hoffmann" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#242"]; 
+ "hope" -> { "hobhouse" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#242"]; 
+ "hope" -> { "hope" } [color="blue", arrowhead="vee", penwidth=1, href="#242"]; 
+ "hobhouse" -> { "hobhouse" } [color="blue", arrowhead="vee", penwidth=1, href="#247"]; 
+ "hobhouse" -> { "hoffmann" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#248"]; 
+ "hobhouse" -> { "hoffmann" } [color="darkgreen", arrowhead="onormal", penwidth=1, href="partagr_hobhouse_hoffmann"];
+ "scott" -> { "hoffmann" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#295"]; 
+ "nicholls" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#nicholls"]; 
+ "hoffmann" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#hoffmann"]; 
+ "hope" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#hope"]; 
+ "hobhouse" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#hobhouse"]; 
+ "scott" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#scott"]; 
+
+}

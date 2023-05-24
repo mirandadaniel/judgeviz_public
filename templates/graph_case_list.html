@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>judgeViz</title>
+</head>
+<body>
+    {% extends "layout.html" %}
+    {% block content %} 
+    <h2>Please select which case you would like to work with:</h2>
+    <strong><nav>
+        <ul class="menu">
+          <li><a href="{{ url_for('case23_graph') }}">Case 22 - Deep Vein Thrombosis and Air Travel Group Litigation (8 actions) (formerly 24 actions)</a></li>
+          <li><a href="{{ url_for('case102') }}">Case 102 - UKNOWN CASE</a></li>
+        </ul>
+      </nav></strong>
+    {% endblock %}
+</body>
+</html>

@@ -1,0 +1,19 @@
+digraph case12 { 
+ K=0.6 
+ "slynn" -> { "slynn" } [color="blue", arrowhead="vee", penwidth=1, href="#157"]; 
+ "goff" -> { "clyde" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#166"]; 
+ "goff" -> { "slynn" } [color="blue", arrowhead="vee", penwidth=1, href="#166"]; 
+ "nolan" -> { "clyde" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#172"]; 
+ "nolan" -> { "slynn" } [color="blue", arrowhead="vee", penwidth=1, href="#172"]; 
+ "hope" -> { "slynn" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#178"]; 
+ "hope" -> { "slynn" } [color="blue", arrowhead="vee", penwidth=1, href="#178"]; 
+ "clyde" -> { "slynn" } [color="darkgreen", arrowhead="onormal", penwidth=1, href="#211"]; 
+ "clyde" -> { "clyde" } [color="blue", arrowhead="vee", penwidth=1, href="#215"]; 
+ "clyde" -> { "slynn" } [color="blue", arrowhead="vee", penwidth=1, href="#215"]; 
+ "slynn" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="yellow", href="#slynn"]; 
+ "goff" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#goff"]; 
+ "nolan" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#nolan"]; 
+ "hope" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#hope"]; 
+ "clyde" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="yellow", href="#clyde"]; 
+
+}

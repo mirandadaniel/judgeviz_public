@@ -1,0 +1,10 @@
+digraph partagr_scott_hobhouse { 
+ K=0.6 
+ "scott" -> { "hobhouse" } [color="darkgreen", arrowhead="onormal", penwidth=1, href="#188"]; 
+ "scott" -> { "hobhouse" } [color="darkgreen", arrowhead="onormal", penwidth=1, href="#191"]; 
+ "scott" -> { "hobhouse" } [color="darkgreen", arrowhead="onormal", penwidth=1, href="#216"]; 
+ "scott" -> { "hobhouse" } [color="darkgreen", arrowhead="onormal", penwidth=1, href="#217"]; 
+ "scott" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#scott"]; 
+ "hobhouse" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="yellow", href="#hobhouse"]; 
+
+}

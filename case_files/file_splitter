@@ -1,0 +1,35 @@
+from flask import Flask, render_template, request, redirect, url_for
+from flask_mysqldb import MySQL
+import mysql.connector as mysql
+import numpy as np
+import pandas as pd
+import pydot
+import os
+import tkinter as tk
+from tkinter import *
+from PIL import ImageTk, Image
+from flask_wtf import FlaskForm
+from wtforms import widgets, SelectMultipleField
+from wtforms import RadioField
+from mysql.connector import Error
+from string import ascii_lowercase
+import re
+import  jpype     
+import  asposecells     
+jpype.startJVM() 
+from asposecells.api import Workbook
+
+with open("ukhl_corpus.tsv") as file:
+    tsv_file = csv.reader(file, delimiter="\t")
+    i = 0
+    while i < 10:
+     for line in tsv_file:
+        print(line)
+        i++
+
+
+
+# # From csv to tsv: 
+# workbook = Workbook("/Users/mirandadaniel/Documents/Comp_Sci/summer_project/PYTHON/virtualEnv2/graphviz2/mo_tsv_files/case6.csv")
+# workbook.save("/Users/mirandadaniel/Documents/Comp_Sci/summer_project/PYTHON/virtualEnv2/graphviz2/mo_tsv_files/case6.tsv")
+# jpype.shutdownJVM()

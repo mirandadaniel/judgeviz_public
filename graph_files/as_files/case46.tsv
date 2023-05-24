@@ -1,0 +1,382 @@
+46	0	https://publications.parliament.uk/pa/ld200203/ldjudgmt/jd030130/kanar-1.htm 	NAN	NAN	NAN	0	lord hutton
+46	1	------------- NEW JUDGE --------------- 	NAN	NAN	NAN	0	lord hutton
+46	2	LORD NICHOLLS OF BIRKENHEAD 	NAN	NAN	NAN	0	lord hutton
+46	3	My Lords , 	NAN	NAN	NAN	0	lord hutton
+46	4	1 . 	NAN	NAN	NAN	0	lord hutton
+46	5	I have had the opportunity of reading in draft the speeches of my noble and learned friends Lord Hope of Craighead and Lord Hutton . 	lord nicholls	lord hope	ackn	0	lord hutton
+46	5	I have had the opportunity of reading in draft the speeches of my noble and learned friends Lord Hope of Craighead and Lord Hutton . 	lord nicholls	lord hutton	ackn	0	lord hutton
+46	6	For the reasons given by Lord Hutton , with which I agree , I would allow this appeal . 	lord nicholls	lord hutton	fullagr	0	lord hutton
+46	6	For the reasons given by Lord Hutton , with which I agree , I would allow this appeal . 	lord nicholls	self	outcome	0	lord hutton
+46	7	I agree also with the cautionary observations of Lord Hope of Craighead . 	lord nicholls	lord hope	NAN	0	lord hutton
+46	8	------------- NEW JUDGE --------------- 	NAN	NAN	NAN	0	lord hutton
+46	9	LORD SLYNN OF HADLEY 	NAN	NAN	NAN	0	lord hutton
+46	10	My Lords , 	NAN	NAN	NAN	0	lord hutton
+46	11	2 . 	NAN	NAN	NAN	0	lord hutton
+46	12	I have had the advantage of reading in draft the speech of my noble and learned friend Lord Hutton . 	lord slynn	lord hutton	ackn	0	lord hutton
+46	13	For the reasons he gives with which I agree I would allow the appeal and make the order he proposes . 	lord slynn	lord hutton	fullagr	0	lord hutton
+46	13	For the reasons he gives with which I agree I would allow the appeal and make the order he proposes . 	lord slynn	self	outcome	0	lord hutton
+46	13	For the reasons he gives with which I agree I would allow the appeal and make the order he proposes . 	lord slynn	lord hutton	outcome	0	lord hutton
+46	14	------------- NEW JUDGE --------------- 	NAN	NAN	NAN	0	lord hutton
+46	15	LORD STEYN 	NAN	NAN	NAN	0	lord hutton
+46	16	My Lords , 	NAN	NAN	NAN	0	lord hutton
+46	17	3 . 	NAN	NAN	NAN	0	lord hutton
+46	18	For the reasons given by Lord Hutton I would also allow the appeal . 	lord steyn	lord hutton	fullagr	0	lord hutton
+46	18	For the reasons given by Lord Hutton I would also allow the appeal . 	lord steyn	self	outcome	0	lord hutton
+46	19	The broader observations of Lord Hope of Craighead may provide valuable perspectives in future cases . 	lord steyn	lord hope	partagr	0.1	lord hutton
+46	20	------------- NEW JUDGE --------------- 	NAN	NAN	NAN	0.1	lord hutton
+46	21	LORD HOPE OF CRAIGHEAD 	NAN	NAN	NAN	0.1	lord hutton
+46	22	My Lords , 	NAN	NAN	NAN	0.1	lord hutton
+46	23	4 . 	NAN	NAN	NAN	0.1	lord hutton
+46	24	I have had the advantage of reading in draft the speech of my noble and learned friend Lord Hutton . 	lord hope	lord hutton	ackn	0.1	lord hutton
+46	25	I agree with it , and for the reasons which he has given I too would allow the appeal . 	lord hope	lord hutton	fullagr	0.1	lord hutton
+46	25	I agree with it , and for the reasons which he has given I too would allow the appeal . 	lord hope	self	outcome	0.1	lord hutton
+46	26	But I should like to add a few observations of my own about the consequences of this decision on statutory custody time limits , in a case where the trial judge is considering whether it would be appropriate to order that a preparatory hearing should be held under Part III of the Criminal Procedure and Investigations Act 1996 . 	NAN	NAN	NAN	0.1	lord hutton
+46	27	The statutory time limits 5 . 	NAN	NAN	NAN	0.1	lord hutton
+46	28	Section 22 of the Prosecution of Offences Act 1985 gave power to the Home Secretary to make provision by regulations as to the maximum period which was to be allowed to the prosecution to complete any specified preliminary stage of proceedings for an offence -LRB- the `` overall time limit '' -RRB- or during which the accused might be held in custody -LRB- the `` custody time limit '' -RRB- . 	NAN	NAN	NAN	0.1	lord hutton
+46	29	Section 22 -LRB- 3 -RRB- of the Act provides that a court may , at any time before the expiry of a time limit , extend it if it is satisfied that there is a good and sufficient cause for doing so and that the prosecution has acted with all due expedition . 	NAN	NAN	NAN	0.1	lord hutton
+46	30	This measure has been described as a cautious approach to the establishing of time limits in criminal trials : see the general note to section 22 of the Act in Current Law Statutes 1985 , vol 2 . 	NAN	NAN	NAN	0.1	lord hutton
+46	31	Caution has certainly been exercised in making use of the power which the section provides . 	NAN	NAN	NAN	0.1	lord hutton
+46	32	Provision was made by the Prosecution of Offences -LRB- Custody Time Limits -RRB- Regulations 1987 -LRB- SI 1987/299 -RRB- for the maximum period that an accused person might be held in custody before trial . 	NAN	NAN	NAN	0.1	lord hutton
+46	33	Regulation 5 -LRB- 6B -RRB- of the 1987 Regulations , as amended , provides that where an accused is sent for trial under section 51 of the Crime and Disorder Act 1998 the maximum period of custody between the accused being sent to the Crown Court and the start of the trial shall be 182 days , less any period during which he has been in the custody of the magistrates ' court since his first appearance for the offence . 	NAN	NAN	NAN	0.1	lord hutton
+46	34	But no regulations have yet been made providing for overall time limits . 	NAN	NAN	NAN	0.1	lord hutton
+46	35	6 . 	NAN	NAN	NAN	0.1	lord hutton
+46	36	The custody time limit which regulation 5 -LRB- 6B -RRB- lays down is comparatively generous to the prosecution by United Kingdom standards . 	NAN	NAN	NAN	0.1	lord hutton
+46	37	Section 65 -LRB- 4 -RRB- -LRB- b -RRB- of the Criminal Procedure -LRB- Scotland -RRB- Act 1995 provides that an accused who is committed for any offence until liberated in due course of law shall not be detained by virtue of that committal for a total period of more than 110 days unless the trial is commenced within that period . 	NAN	NAN	NAN	0.1	lord hutton
+46	38	This is an overall time limit , as a failure to bring the accused to trial within that period will result in his being free for ever from all question or process for the offence . 	NAN	NAN	NAN	0.1	lord hutton
+46	39	The period may be extended if delay in the commencement of the trial is due to a sufficient cause which is not due to fault on the part of the prosecutor , but this test is not easily satisfied . 	NAN	NAN	NAN	0.1	lord hutton
+46	40	The system is highly visible and easy to administer . 	NAN	NAN	NAN	0.1	lord hutton
+46	41	Every step in the proceedings and every order made is recorded precisely in a minute prepared by the clerk of court , of whom much more appears to be expected than in the case of his counterpart in England and Wales . 	NAN	NAN	NAN	0.1	lord hutton
+46	42	There is no room for doubt as to what each step in the proceedings is about , as to whether and if so to what date the time limit has been extended and as to when the commencement of the trial takes place . 	NAN	NAN	NAN	0.1	lord hutton
+46	43	The facts 7 . 	NAN	NAN	NAN	0.1	lord hutton
+46	44	The respondent was arrested on 10 April 2001 and charged with conspiring with others to launder the proceeds of criminal conduct including drug trafficking . 	NAN	NAN	NAN	0.1	lord hutton
+46	45	He was detained in custody . 	NAN	NAN	NAN	0.1	lord hutton
+46	46	On 27 April 2001 his case was transferred to the Crown Court at Southwark under section 51 of the Crime and Disorder Act 1998 . 	NAN	NAN	NAN	0.1	lord hutton
+46	47	It was linked up there with the cases of ten other defendants , but they were later all transferred to the Crown Court sitting at Kingston . 	NAN	NAN	NAN	0.1	lord hutton
+46	48	As a result the respondent was now one of eleven defendants named on a single indictment . 	NAN	NAN	NAN	0.1	lord hutton
+46	49	He faced four charges of conspiracy on that indictment , and on each of the four charges against him he was charged jointly with all or some of the other defendants . 	NAN	NAN	NAN	0.1	lord hutton
+46	50	The effect of regulation 5 -LRB- 6B -RRB- of the 1987 Regulations was that his custody time limit was due to expire on 21 October 2001 . 	NAN	NAN	NAN	0.1	lord hutton
+46	51	8 . 	NAN	NAN	NAN	0.1	lord hutton
+46	52	After some preliminary procedure all eleven defendants appeared before the judge in the Crown Court at Kingston on 7 September 2001 . 	NAN	NAN	NAN	0.1	lord hutton
+46	53	Section 29 -LRB- 1 -RRB- of the 1996 Act permits a judge to hold a preparatory hearing if it appears to him that the indictment reveals a case of such complexity , or a case whose trial is likely to be of such length , that substantial benefits are likely to accrue from his doing so before the jury are sworn . 	NAN	NAN	NAN	0.1	lord hutton
+46	54	Section 29 -LRB- 2 -RRB- provides that the purposes for which such a hearing may be ordered are those of identifying the issues that are likely to be material , assisting the jury 's comprehension of these issues , expediting the proceedings before the jury and assisting the judge 's management of the trial . 	NAN	NAN	NAN	0.1	lord hutton
+46	55	The powers that may be exercised to enable the judge to identify and clarify the issues in the case are set out in section 31 . 	NAN	NAN	NAN	0.1	lord hutton
+46	56	They include power to require the prosecutor to prepare and serve a written case statement and to require the accused to give written notice of any objections to the case statement and of any points of law he wishes to take . 	NAN	NAN	NAN	0.1	lord hutton
+46	57	9 . 	NAN	NAN	NAN	0.2	lord hutton
+46	58	When the defendants appeared before him on 7 September 2001 the judge was invited by the prosecutor to hold a preparatory hearing in this case , and he agreed to do so . 	NAN	NAN	NAN	0.2	lord hutton
+46	59	On that date nine of the eleven defendants were arraigned and pleaded not guilty . 	NAN	NAN	NAN	0.2	lord hutton
+46	60	In the respondent 's case an issue was raised as to whether he was fit to plead , so his arraignment was postponed to enable a psychiatric assessment to take place . 	NAN	NAN	NAN	0.2	lord hutton
+46	61	The other defendant had indicated that he would be applying for the charges to be dismissed against him . 	NAN	NAN	NAN	0.2	lord hutton
+46	62	The respondent appeared again before the judge on 5 October 2001 . 	NAN	NAN	NAN	0.2	lord hutton
+46	63	The issue as to his fitness to plead was resolved , and he was then arraigned and a plea of not guilty was taken from him . 	NAN	NAN	NAN	0.2	lord hutton
+46	64	As your Lordships have held , the hearing which took place in the respondent 's case on that date was a preparatory hearing within the meaning of section 29 of the 1996 Act . 	NAN	NAN	NAN	0.2	lord hutton
+46	65	Discussion 10 . 	NAN	NAN	NAN	0.2	lord hutton
+46	66	The question whether the hearing which took place on 5 October 2001 in the respondent 's case was or was not a preparatory hearing had a direct bearing on the protection which regulation 5 -LRB- 6B -RRB- of the 1987 Regulations gave against his being held too long in custody . 	NAN	NAN	NAN	0.2	lord hutton
+46	67	At the outset of his submissions on 7 September 2001 , when he was inviting the judge to order a preparatory hearing in this case , counsel for the prosecution very properly drew the judge 's attention to the fact that three of the defendants were in custody . 	NAN	NAN	NAN	0.2	lord hutton
+46	68	This was important because section 30 of the 1996 Act provides that , if a judge orders a preparatory hearing , the trial shall start with that hearing . 	NAN	NAN	NAN	0.2	lord hutton
+46	69	One of the effects of that provision is that the judge who conducts the hearing must conduct the trial , save in exceptional circumstances : R v Southwark Crown Court , ex p Commissioners of Customs and Excise -LSB- 1993 -RSB- 1 WLR 764 , 772F-G . 	NAN	NAN	NAN	0.2	lord hutton
+46	70	Another is that it brings to an end the protection of the statutory custody time limit , as that time limit applies only during the period between the first appearance in court and the start of the trial . 	NAN	NAN	NAN	0.2	lord hutton
+46	71	Section 22 -LRB- 11 -RRB- of the 1985 Act provides that the expression `` preliminary stage '' does not include any stage of the proceedings after the accused has been arraigned in the Crown Court or , in the case of summary trial , the magistrates ' court has begun to hear evidence for the prosecution in the case . 	NAN	NAN	NAN	0.2	lord hutton
+46	72	In the normal course of a trial on indictment the jury is sworn immediately after arraignment at the commencement of the trial . 	NAN	NAN	NAN	0.2	lord hutton
+46	73	Arraignment has to be complete before the preparatory hearing starts , as the trial can not commence until the defendant has pleaded to the indictment : R v Southwark Crown Court , ex p Commissioners of Customs and Excise , p769F . 	NAN	NAN	NAN	0.2	lord hutton
+46	74	11 . 	NAN	NAN	NAN	0.2	lord hutton
+46	75	The effect of your Lordships ' decision that the hearing which took place on 5 October 2001 was a preparatory hearing is that the protection of the statutory custody time limit came to end on that date . 	NAN	NAN	NAN	0.2	lord hutton
+46	76	It was , as I have said , due to expire on 21 October 2001 . 	NAN	NAN	NAN	0.2	lord hutton
+46	77	That was the date when the respondent would have had to be released from custody if the trial had not yet started , unless the time limit was extended under section 22 -LRB- 3 -RRB- of the 1985 Act . 	NAN	NAN	NAN	0.2	lord hutton
+46	78	In the event , the start of the preparatory hearing deprived him of the statutory protection against being held for too long a period in custody . 	NAN	NAN	NAN	0.2	lord hutton
+46	79	The discipline of having to observe the time limit , and of having to justify any extension of it , was removed from the case . 	NAN	NAN	NAN	0.2	lord hutton
+46	80	12 . 	NAN	NAN	NAN	0.2	lord hutton
+46	81	The effect of this on the progress of the trial is not hard to see . 	NAN	NAN	NAN	0.2	lord hutton
+46	82	Instead of having to ensure that the trial proper began before the expiry of the time limit on 21 October 2001 or any later date to which the time limit could properly be extended under section 22 -LRB- 3 -RRB- of the 1985 Act , the court was relieved of the need to concern itself with any time limits . 	NAN	NAN	NAN	0.2	lord hutton
+46	83	The judge exercised the power to adjourn the preparatory hearing which was given to him by section 31 -LRB- 2 -RRB- of the 1996 Act . 	NAN	NAN	NAN	0.2	lord hutton
+46	84	In order to give sufficient time for the preparatory steps to be taken , the date for trial was fixed for 7 May 2002 . 	NAN	NAN	NAN	0.2	lord hutton
+46	85	At a hearing on 11 January 2002 at which all the eleven defendants were represented , the date for trial was moved to 2 September 2002 . 	NAN	NAN	NAN	0.2	lord hutton
+46	86	At a further hearing on 1 March 2002 the case was severed into two trials . 	NAN	NAN	NAN	0.2	lord hutton
+46	87	The first trial was fixed for 2 September 2002 , but it was later put back to 7 October 2002 . 	NAN	NAN	NAN	0.2	lord hutton
+46	88	The second trial , which is the one at which the respondent is to be tried , was fixed for 7 May 2003 , but it is not now likely to be heard until the second half of 2003 . 	NAN	NAN	NAN	0.2	lord hutton
+46	89	This means that the respondent 's trial will not start until well over two years after the date of his first appearance in court on the charges which he faces on this indictment . 	NAN	NAN	NAN	0.2	lord hutton
+46	90	13 . 	NAN	NAN	NAN	0.2	lord hutton
+46	91	The significance of this point was not lost on Andrew Smith J when he was considering the respondent 's application for habeas corpus . 	NAN	NAN	NAN	0.2	lord hutton
+46	92	It is plain from his carefully worded judgment that he did not regard it as acceptable that the hearing on 5 October 2001 at which so little was achieved should have the result of depriving the respondent of his liberty for the many months that were going to elapse before his trial was heard . 	NAN	NAN	NAN	0.2	lord hutton
+46	93	After concluding that it was a fiction , and in his view an impermissible fiction , to say that the preparatory hearing began on that date , he made these observations in para 49 of his judgment : `` It might be said that the applicant is exploiting a technical argument when it is clear that those involved in the proceedings regarded the preparatory hearing as begun against him and the custody time limit protected . 	NAN	NAN	NAN	0.2	lord hutton
+46	94	And it might well be that in this case the prosecution could have justified an application to extend the time limit : indeed , although I have not heard argument on the point , there is every indication that , if the Crown had sought an extension of the custody time limits the defendants would have had difficulty in resisting it . 	NAN	NAN	NAN	0.3	lord hutton
+46	95	However the fact remains that , although Mrs Radford fired a warning shot on 5 October 2001 when the prosecution could still have applied for an extension of the limit , no application was made . 	NAN	NAN	NAN	0.3	lord hutton
+46	96	The custody time limits rules are an important safeguard for accused persons and demand that prosecutors and the court consider with care whether prolonged detention before trial is properly justified . 	NAN	NAN	NAN	0.3	lord hutton
+46	97	This is witnessed by the narrow view the courts have taken of what constitutes ` good and sufficient cause ' to extend custody time limits . 	NAN	NAN	NAN	0.3	lord hutton
+46	98	It is not an answer to an accused entitled to his liberty after the limit has expired that his argument is a technical one . '' 	NAN	NAN	NAN	0.3	lord hutton
+46	99	Conclusions 14 . 	NAN	NAN	NAN	0.3	lord hutton
+46	100	I agree that , on a proper reading of all that took place on 5 October 2001 as revealed by the transcript of the proceedings , the hearing which the judge ordered to take place on that date was indeed a preparatory hearing and that the appeal must be allowed on this ground . 	NAN	NAN	NAN	0.3	lord hutton
+46	101	But I think that there is much force in the observations which Andrew Smith J. made about the importance of the safeguard which is afforded to accused persons by the statutory custody time limit . 	NAN	NAN	NAN	0.3	lord hutton
+46	102	While it is true that the accused may apply to the judge for bail after the removal of that time limit , he will no longer have the benefit of the statutory rules which restrict the grounds on which the statutory custody time limit may be extended . 	NAN	NAN	NAN	0.3	lord hutton
+46	103	The significance of this point can be seen by reading the transcript of the proceedings in the Crown Court on both 7 September and 5 October 2001 . 	NAN	NAN	NAN	0.3	lord hutton
+46	104	Conspicuous by its absence , when the timetable for further proceedings in the case was being fixed , is any discussion of the effect of that timetable on the three defendants , including the respondent , who were still being detained in custody . 	NAN	NAN	NAN	0.3	lord hutton
+46	105	15 . 	NAN	NAN	NAN	0.3	lord hutton
+46	106	It has not been suggested that this was not an appropriate case for the judge to exercise the case management powers which have been given to him by Part III of the 1996 Act or that the time which he allowed for the preparatory steps to be taken was unreasonably long . 	NAN	NAN	NAN	0.3	lord hutton
+46	107	His rulings on these matters are not open to review in these proceedings . 	NAN	NAN	NAN	0.3	lord hutton
+46	108	But there is no doubt that a careful assessment was required of the need for this procedure . 	NAN	NAN	NAN	0.3	lord hutton
+46	109	The cases where a preparatory hearing is likely to produce a significant saving in time and money overall are unlikely to be many . 	NAN	NAN	NAN	0.3	lord hutton
+46	110	It was made clear by the government when this legislation was introduced that it was the intention that this power should not be widely used . 	NAN	NAN	NAN	0.3	lord hutton
+46	111	There is no doubt that this was the view of Lord Taylor of Gosforth CJ , as he observed during the debate on Second Reading -LRB- Hansard , HL Vol 567 , col 478 -RRB- when he said : `` Such hearings certainly have their place , both in serious fraud trials and in other exceptionally long or complex cases ; but I do not expect their use to become widespread and hope that is not the intention . '' 	NAN	NAN	NAN	0.3	lord hutton
+46	112	16 . 	NAN	NAN	NAN	0.3	lord hutton
+46	113	An additional factor which this case has revealed is the effect which the delays which the use of the procedure is likely to introduce into the case will have on those who are being detained in custody . 	NAN	NAN	NAN	0.3	lord hutton
+46	114	The introduction of a preparatory hearing as part of the trial in serious and complicated fraud trials by section 7 of the Criminal Justice Act 1987 followed a recommendation to that effect in the Roskill Report : The Report of the Roskill Committee on Fraud Trials -LRB- HMSO , 1986 -RRB- . 	NAN	NAN	NAN	0.3	lord hutton
+46	115	The Roskill Report did not discuss the question whether , and if so how , account should be taken of the effect of the procedure on those detained in custody . 	NAN	NAN	NAN	0.3	lord hutton
+46	116	Perhaps this was not perceived to be a problem , as the accused in trials of that kind are almost always released on bail . 	NAN	NAN	NAN	0.3	lord hutton
+46	117	But the extension of the same procedure by Part III of the 1996 Act to other long and complex trials such as those involving allegations of drug trafficking means that this factor can no longer be ignored . 	NAN	NAN	NAN	0.3	lord hutton
+46	118	Moreover there is the obligation which section 6 -LRB- 1 -RRB- of the Human Rights Act 1998 has now imposed on the court as a public authority . 	NAN	NAN	NAN	0.3	lord hutton
+46	119	Article 5.3 of the European Convention for the Protection of Human Rights and Fundamental Freedoms provides that everyone lawfully arrested or detained on reasonable suspicion of having committed an offence `` shall be entitled to trial within a reasonable time or to release pending trial . '' 	NAN	NAN	NAN	0.3	lord hutton
+46	120	17 . 	NAN	NAN	NAN	0.3	lord hutton
+46	121	These considerations suggest that a judge who is minded to order a preparatory hearing in a long and complex case should be careful not to deprive an accused who is in custody of the protection of the statutory custody time limit until it has become necessary for him to do so . 	NAN	NAN	NAN	0.3	lord hutton
+46	122	Section 32 -LRB- 2 -RRB- -LRB- a -RRB- of the 1996 Act enables a judge to exercise the powers under section 31 -LRB- 4 -RRB- to -LRB- 7 -RRB- before the preparatory hearing begins , and thus before arraignment , in a way that would be compatible with the accused 's Convention right . 	NAN	NAN	NAN	0.3	lord hutton
+46	123	The use of this procedure should enable considerable progress to be made in the preparation and exchange of information before the judge engages in a detailed discussion of how the trial is to be managed , while at the same time preserving to the accused in the meantime the full protection of the statutory custody time limit . 	NAN	NAN	NAN	0.3	lord hutton
+46	124	------------- NEW JUDGE --------------- 	NAN	NAN	NAN	0.3	lord hutton
+46	125	LORD HUTTON 	NAN	NAN	NAN	0.3	lord hutton
+46	126	My Lords , 	NAN	NAN	NAN	0.3	lord hutton
+46	127	18 . 	NAN	NAN	NAN	0.3	lord hutton
+46	128	The principal issue which arises on this appeal is whether a Crown Court judge can conduct two separate preparatory hearings in respect of different defendants who are charged with criminal offences in the same indictment . 	NAN	NAN	NAN	0.3	lord hutton
+46	129	However before consideration can be given to this issue , a preliminary question must be addressed , which is what were the orders which the Crown Court judge made on 7 September and 5 October 2001 when counsel appeared before him . 	NAN	NAN	NAN	0.3	lord hutton
+46	130	It is also necessary to state briefly the background to the case and to refer to the relevant legislation . 	NAN	NAN	NAN	0.3	lord hutton
+46	131	The background and the relevant legislation 19 . 	NAN	NAN	NAN	0.3	lord hutton
+46	132	The respondent , Mr Kanaris , is one of eleven defendants in an indictment containing eight counts , and he is charged jointly with other defendants in four of the counts with conspiracy to launder drugs money or the proceeds of other crime or both . 	NAN	NAN	NAN	0.4	lord hutton
+46	133	The respondent was arrested on 10 April 2001 and remained in custody until the order made by Andrew Smith J in the Administrative Court on 9 January 2002 that a writ of habeas corpus should issue and that the respondent should be released on bail . 	NAN	NAN	NAN	0.4	lord hutton
+46	134	It is against the judgment of Andrew Smith J that the Crown now appeals to this House . 	NAN	NAN	NAN	0.4	lord hutton
+46	135	20 . 	NAN	NAN	NAN	0.4	lord hutton
+46	136	Section 22 -LRB- 1 -RRB- -LRB- b -RRB- of the Prosecution of Offences Act 1985 provides that the Secretary of State may by regulations make provision , with respect to any specified preliminary stage of proceedings for an offence , as to the maximum period during which the accused may , while awaiting completion of that stage by the prosecution , be in the custody of the Crown Court in relation to that offence . 	NAN	NAN	NAN	0.4	lord hutton
+46	137	Regulation 5 -LRB- 6B -RRB- of the Prosecution of Offences -LRB- Custody Time Limits -RRB- Regulations 1987 provides that where -LRB- as in this case -RRB- an accused is sent for trial under section 51 of the Crime and Disorder Act 1998 , the maximum period of custody between the accused being sent to the Crown Court by a magistrates ' court for an offence and the start of the trial in relation to it , shall be 182 days . 	NAN	NAN	NAN	0.4	lord hutton
+46	138	In this case the custody time limit in respect of the respondent would have expired on 21 October 2001 . 	NAN	NAN	NAN	0.4	lord hutton
+46	139	Therefore if the respondent 's trial had not started before that date he would have been entitled to be released on bail . 	NAN	NAN	NAN	0.4	lord hutton
+46	140	21 . 	NAN	NAN	NAN	0.4	lord hutton
+46	141	Part III of the Criminal Procedure and Investigations Act 1996 makes provision for a judge of the Crown Court to order a preparatory hearing . 	NAN	NAN	NAN	0.4	lord hutton
+46	142	Section 29 provides : '' -LRB- 1 -RRB- Where it appears to a judge of the Crown Court that an indictment reveals a case of such complexity , or a case whose trial is likely to be of such length , that substantial benefits are likely to accrue from a hearing -- -LRB- a -RRB- before the jury are sworn , and -LRB- b -RRB- for any of the purposes mentioned in subsection -LRB- 2 -RRB- , he may order that such a hearing -LRB- in this Part referred to as a preparatory hearing -RRB- shall be held . 	NAN	NAN	NAN	0.4	lord hutton
+46	143	-LRB- 2 -RRB- The purposes are those of -- -LRB- a -RRB- identifying issues which are likely to be material to the verdict of the jury ; -LRB- b -RRB- assisting their comprehension of any such issues ; -LRB- c -RRB- expediting the proceedings before the jury ; -LRB- d -RRB- assisting the judge 's management of the trial . '' 	NAN	NAN	NAN	0.4	lord hutton
+46	144	Section 30 provides : `` If a judge orders a preparatory hearing -- -LRB- a -RRB- the trial shall start with that hearing , and -LRB- b -RRB- arraignment shall take place at the start of that hearing , unless it has taken place before then . '' 	NAN	NAN	NAN	0.4	lord hutton
+46	145	Section 31 provides : '' -LRB- 1 -RRB- At the preparatory hearing the judge may exercise any of the powers specified in this section . 	NAN	NAN	NAN	0.4	lord hutton
+46	146	-LRB- 2 -RRB- The judge may adjourn a preparatory hearing from time to time . 	NAN	NAN	NAN	0.4	lord hutton
+46	147	-LRB- 3 -RRB- He may make a ruling as to -- -LRB- a -RRB- any question as to the admissibility of evidence ; -LRB- b -RRB- any other question of law relating to the case . 	NAN	NAN	NAN	0.4	lord hutton
+46	148	-LRB- 4 -RRB- He may order the prosecutor -- -LRB- a -RRB- to give the court and the accused or , if there is more than one , each of them a written statement -LRB- a case statement -RRB- of the matters falling within subsection -LRB- 5 -RRB- ; ... . 	NAN	NAN	NAN	0.4	lord hutton
+46	149	-LRB- c -RRB- to give the court and the accused or , if there is more than one , each of them written notice of documents the truth of the contents of which ought in the prosecutor 's view to be admitted and of any other matters which in his view ought to be agreed ; ... . 	NAN	NAN	NAN	0.4	lord hutton
+46	150	-LRB- 5 -RRB- The matters referred to in subsection -LRB- 4 -RRB- -LRB- a -RRB- are -- -LRB- a -RRB- the principal facts of the case for the prosecution ; -LRB- b -RRB- the witnesses who will speak to those facts ; -LRB- c -RRB- any exhibits relevant to those facts ; -LRB- d -RRB- any proposition of law on which the prosecutor proposes to rely ; -LRB- e -RRB- the consequences in relation to any of the counts in the indictment that appear to the prosecutor to flow from the matters falling within paragraphs -LRB- a -RRB- to -LRB- d -RRB- . 	NAN	NAN	NAN	0.4	lord hutton
+46	151	-LRB- 6 -RRB- Where a judge has ordered the prosecutor to give a case statement and the prosecutor has complied with the order , the judge may order the accused or , if there is more than one , each of them -- -LRB- a -RRB- to give the court and the prosecutor a written statement setting out in general terms the nature of his defence and indicating the principal matters on which he takes issue with the prosecution ; ... '' Section 32 provides : '' -LRB- 1 -RRB- This section applies where -- -LRB- a -RRB- a judge orders a preparatory hearing , and -LRB- b -RRB- he decides that any order which could be made under section 31 -LRB- 4 -RRB- to -LRB- 7 -RRB- at the hearing should be made before the hearing . 	NAN	NAN	NAN	0.4	lord hutton
+46	152	-LRB- 2 -RRB- In such a case -- -LRB- a -RRB- he may make any such order before the hearing -LRB- or at the hearing -RRB- , and -LRB- b -RRB- section 31 -LRB- 4 -RRB- to -LRB- 11 -RRB- shall apply accordingly . '' 	NAN	NAN	NAN	0.4	lord hutton
+46	153	The preliminary question : what orders did the Crown Court judge make on 7 September 2001 and 5 October 2001 ? 	NAN	NAN	NAN	0.4	lord hutton
+46	154	22 . 	NAN	NAN	NAN	0.4	lord hutton
+46	155	On 7 September 2001 the eleven defendants , all of whom were represented by counsel , appeared at Kingston Crown Court before His Honour Judge McGregor-Johnson . 	NAN	NAN	NAN	0.4	lord hutton
+46	156	Mr Black QC appeared for the Crown . 	NAN	NAN	NAN	0.4	lord hutton
+46	157	Prior to the hearing the Crown had sent to the defendants ' representatives a document which was headed : `` PREPARATORY HEARING - 7 SEPTEMBER 2001 PROPOSED AGENDA '' This document was also provided to the Crown Court judge . 	NAN	NAN	NAN	0.4	lord hutton
+46	158	A full transcript of this hearing on 7 September 2001 was before the Administrative Court and before the House . 	NAN	NAN	NAN	0.4	lord hutton
+46	159	23 . 	NAN	NAN	NAN	0.4	lord hutton
+46	160	At the outset of the hearing Crown counsel stated at page 3 : `` Your Honour , can I set out , I hope very briefly , the current position in relation to these proceedings . 	NAN	NAN	NAN	0.4	lord hutton
+46	161	Your Honour may remember that the case was last before you on the 8th June as a complete case when the Crown indicated this is a case where we thought it was appropriate to create a preparatory hearing . 	NAN	NAN	NAN	0.4	lord hutton
+46	162	The principal concern at that stage was service of the material in the case and your Honour set a deadline for that . 	NAN	NAN	NAN	0.4	lord hutton
+46	163	The material has been served and your Honour will see from the agenda , note the extent of it . '' 	NAN	NAN	NAN	0.4	lord hutton
+46	164	At page 4 he said : `` Your Honour , the indictment , of course , at some stage has got to be put . 	NAN	NAN	NAN	0.4	lord hutton
+46	165	The Crown respectfully submit the sooner the better as far as that is concerned so that the preparatory hearing can commence . 	NAN	NAN	NAN	0.4	lord hutton
+46	166	As far as the position of custody time limits are concerned , your Honour will also recall three defendants remain in custody and the custody time limits clearly expire towards the middle of October . 	NAN	NAN	NAN	0.4	lord hutton
+46	167	We believe the 21st October is the latest date so if we can have that very much in the back of our mind as far as the timetable is concerned . 	NAN	NAN	NAN	0.4	lord hutton
+46	168	That is obviously important in respect of the proceedings in the case . 	NAN	NAN	NAN	0.4	lord hutton
+46	169	So firstly there is the indictment . 	NAN	NAN	NAN	0.5	lord hutton
+46	170	The Crown welcome that being put at the very first available opportunity so we know the shape of the trial , who is to contest it and so forth . '' 	NAN	NAN	NAN	0.5	lord hutton
+46	171	At page 6 Crown counsel referred to section 29 of the 1996 Act and said : `` We submit this is a case that cries out for a preparatory hearing . 	NAN	NAN	NAN	0.5	lord hutton
+46	172	JUDGE MCGREGOR-JOHNSON : That is certainly my view and I will hear anything anybody else wants to say but certainly subject to argument I would have thought it qualifies . 	NAN	NAN	NAN	0.5	lord hutton
+46	173	MR BLACK : I am very grateful . 	NAN	NAN	NAN	0.5	lord hutton
+46	174	JUDGE MCGREGOR-JOHNSON : Of course , I have got power , effectively , to order statements and the like in advance if it is necessary to do so . '' 	NAN	NAN	NAN	0.5	lord hutton
+46	175	Then Crown counsel stated that the defendant Correya had notified the Crown that he might apply for dismissal . 	NAN	NAN	NAN	0.5	lord hutton
+46	176	At page 7 Crown counsel stated : `` There will clearly be preliminary matters to deal with in this case . 	NAN	NAN	NAN	0.5	lord hutton
+46	177	There may be severance , there may be other matters such as that . '' 	NAN	NAN	NAN	0.5	lord hutton
+46	178	At page 8 the judge said : `` On the timetable that you are suggesting , obviously I will hear what other people have to say about it , it seems to me that the earliest date for a proper full preparatory hearing after the service of statements is probably going to be the very beginning of January . '' 	NAN	NAN	NAN	0.5	lord hutton
+46	179	At page 10 counsel for the defendant Correya requested that the case statement from the Crown should be served on him and stated that the defence would then serve its formal application to dismiss . 	NAN	NAN	NAN	0.5	lord hutton
+46	180	Counsel then stated : `` As your Honour is aware from the remark your Honour made a few moments ago that section 32 of the Act does allow you to make orders which can properly and should be properly be made at a preparatory hearing in advance of a preparatory hearing . 	NAN	NAN	NAN	0.5	lord hutton
+46	181	That includes an order for the service by the Crown of a case statement . '' 	NAN	NAN	NAN	0.5	lord hutton
+46	182	In response to the application by counsel for Correya Crown counsel stated at page 13 : `` The difficulty is , of course , is in a sense the earlier we get started with the preparatory hearings the earlier we can get on with the case . '' 	NAN	NAN	NAN	0.5	lord hutton
+46	183	The judge commented in reply : `` I would n't envisage on the sort of timetable you are proposing , obviously I have n't heard from other people about that , that that would necessarily interfere with the date of the preparatory hearing . 	NAN	NAN	NAN	0.5	lord hutton
+46	184	I would still expect those representing Mr Correya to proceed on the basis that the matter is going ahead and to be ready for a preparatory hearing along with everybody else . '' 	NAN	NAN	NAN	0.5	lord hutton
+46	185	Counsel for Correya then observed : `` I have no representations to make as to whether or not it is appropriate to proceed with the preparatory hearing in respect of other defendants but plainly it can not be right that formal arraignment of Mr Correya take place today . '' 	NAN	NAN	NAN	0.5	lord hutton
+46	186	The judge then requested the views of counsel for the other defendants on the proposed timetable . 	NAN	NAN	NAN	0.5	lord hutton
+46	187	Counsel for the defendant Mackenzie stated at page 14 : `` As I say , we accept that at some stage there should be arraignment and a preparatory hearing should commence then in the not too distant future . 	NAN	NAN	NAN	0.5	lord hutton
+46	188	JUDGE MCGREGOR-JOHNSON : Is there any reason not to have arraignment today in relation to those defendants to whom an application to dismiss does not apply ? 	NAN	NAN	NAN	0.5	lord hutton
+46	189	MR DE-SILVA : Your Honour , we are very neutral on that . 	NAN	NAN	NAN	0.5	lord hutton
+46	190	I think others might prefer it to be deferred for some short period of time . 	NAN	NAN	NAN	0.5	lord hutton
+46	191	As I say I can indicate informally that it will be a plea of not guilty and that is not going to change . '' 	NAN	NAN	NAN	0.5	lord hutton
+46	192	Counsel for the defendant Green stated that his client would be pleading not guilty and said at page 17 : `` We do not feel that , even if all the evidence is served by the 30th October of this year with a preparatory hearing , a preparatory hearing being held sometime in early November with a preparatory hearing in January that within two or three months thereafter we shall be in a position to proceed . '' 	NAN	NAN	NAN	0.5	lord hutton
+46	193	Counsel for the other defendants also stated that pleas of not guilty would be entered . 	NAN	NAN	NAN	0.5	lord hutton
+46	194	Mr Caldwell , counsel for Mr Kanaris , then stated that because of his mental state there was considerable doubt as to whether he was fit to stand trial at that time . 	NAN	NAN	NAN	0.5	lord hutton
+46	195	At page 22 counsel stated : `` Of course , this is a case which requires a preparatory hearing but not today and in my submission it ca n't take place today in respect of Mr Kanaris because it could not take place in advance of arraignment which in my submission must be postponed . '' 	NAN	NAN	NAN	0.5	lord hutton
+46	196	At pages 24 and 25 Crown counsel observed : `` Plainly the court must be satisfied that Mr Kanaris is a person who is fit to plead . 	NAN	NAN	NAN	0.5	lord hutton
+46	197	No arraignment should take place in his case in our submission until the court is so satisfied . 	NAN	NAN	NAN	0.5	lord hutton
+46	198	JUDGE MCGREGOR-JOHNSON : I think that must be right . 	NAN	NAN	NAN	0.5	lord hutton
+46	199	MR BLACK : As far as Mr Correya is concerned that speaks for itself in the directions your Honour has already indicated . 	NAN	NAN	NAN	0.5	lord hutton
+46	200	As far as the remainder of the defendants are concerned ostensibly there is no reason not to arraign but it is a matter for the court . '' 	NAN	NAN	NAN	0.5	lord hutton
+46	201	Immediately following these observations the judge stated at page 25 : `` Yes . 	NAN	NAN	NAN	0.5	lord hutton
+46	202	Thank you very much . 	NAN	NAN	NAN	0.5	lord hutton
+46	203	In my view it is right to start the preparatory hearing to this extent : To have arraignment today of those defendants apart from Mr Correya and Mr Kanaris for the reasons that have already been set out . '' 	NAN	NAN	NAN	0.5	lord hutton
+46	204	The defendants with the exception of Mr Kanaris and Mr Correya were then arraigned and pleaded not guilty to the counts against them . 	NAN	NAN	NAN	0.5	lord hutton
+46	205	25 . 	NAN	NAN	NAN	0.5	lord hutton
+46	206	The judge then discussed with Crown counsel the starting date for a trial and at page 35 he said : `` As far as further orders are concerned I propose to adopt the suggested timetable in your agenda so that the prosecution case statement is to be served by the 30th October together with the other matters that you set out which is schedules , draft admissions and any notices to omit documents . 	NAN	NAN	NAN	0.5	lord hutton
+46	207	I propose to adopt the timetable in paragraph five of your agenda for service by the defence of documents in reply by the 14th December . '' 	NAN	NAN	NAN	0.6	lord hutton
+46	208	At page 38 Crown counsel said : `` There is one , of course , issue that remains in relation to Mr Kanaris because of the custody time limit and it seems respectfully , either we have a hearing before they expire as they are at the moment or with the consent of the defence we extend them to a convenient date to give the court an opportunity to consider the ramifications of the material that has been suggested to you . 	NAN	NAN	NAN	0.6	lord hutton
+46	209	JUDGE MCGREGOR-JOHNSON : I would rather if we can have a hearing before the expiry date . '' 	NAN	NAN	NAN	0.6	lord hutton
+46	210	At page 40 counsel for the defendant Kyriacou asked : `` Is your Honour going to set a date for a preparatory hearing in the New Year ? 	NAN	NAN	NAN	0.6	lord hutton
+46	211	JUDGE MCGREGOR-JOHNSON : I will when reminded to do so , yes . 	NAN	NAN	NAN	0.6	lord hutton
+46	212	I think that ought to be right at the beginning of January . 	NAN	NAN	NAN	0.6	lord hutton
+46	213	MR BLACK : We respectfully agree because there is clearly a lot of matters that are going to flow from that and that first directions hearing is important . '' 	NAN	NAN	NAN	0.6	lord hutton
+46	214	After the luncheon adjournment Crown counsel said at page 43 `` Your Honour , can I deal with Mr Kanaris first as one of the remaining outstanding matters from this morning in relation to fitness to plead . 	NAN	NAN	NAN	0.6	lord hutton
+46	215	Could we , having discussed the matter , invite the court to list the case for mention in 28 days from today ? 	NAN	NAN	NAN	0.6	lord hutton
+46	216	JUDGE MCGREGOR-JOHNSON : Yes . 	NAN	NAN	NAN	0.6	lord hutton
+46	217	MR BLACK : So that the court - the idea being the court would have by then reports before it . 	NAN	NAN	NAN	0.6	lord hutton
+46	218	JUDGE MCGREGOR-JOHNSON : And then we can either set a timetable or decide what to do . 	NAN	NAN	NAN	0.6	lord hutton
+46	219	MR BLACK : Allowing time for the reports to be prepared and allows the court to make directions and at an early stage . '' 	NAN	NAN	NAN	0.6	lord hutton
+46	220	There was then discussion about obtaining a medical report in respect of Mr Kanaris and the judge said at page 45 : `` The date that has been suggested is four weeks today , would be 5th October . 	NAN	NAN	NAN	0.6	lord hutton
+46	221	As I say the only difficulty is by then I will be at Wood Green and not here . 	NAN	NAN	NAN	0.6	lord hutton
+46	222	But I would have thought since it is purely going to be effectively a directions matter there wo n't be a huge amount of paper ... I can deal with it at Wood Green . '' 	NAN	NAN	NAN	0.6	lord hutton
+46	223	The judge then discussed other matters with counsel and the hearing concluded . 	NAN	NAN	NAN	0.6	lord hutton
+46	224	26 . 	NAN	NAN	NAN	0.6	lord hutton
+46	225	On 5 October 2001 Mr Kanaris , now represented by Mrs Radford QC , appeared at Wood Green Crown Court before His Honour Judge McGregor-Johnson . 	NAN	NAN	NAN	0.6	lord hutton
+46	226	No other defendants appeared at the hearing . 	NAN	NAN	NAN	0.6	lord hutton
+46	227	Miss Bewsey appeared for the Crown . 	NAN	NAN	NAN	0.6	lord hutton
+46	228	No issue was raised as to the fitness of Mr Kanaris to plead and Mrs Radford informed the judge that the indictment could be put . 	NAN	NAN	NAN	0.6	lord hutton
+46	229	Mr Kanaris was arraigned and pleaded not guilty to the four counts against him . 	NAN	NAN	NAN	0.6	lord hutton
+46	230	A full transcript of this hearing was also before the Administrative Court and before the House . 	NAN	NAN	NAN	0.6	lord hutton
+46	231	27 . 	NAN	NAN	NAN	0.6	lord hutton
+46	232	At page 5 Crown counsel stated : `` Your Honour , of course , the hearing that we had on the 7th of September was a preparatory hearing . 	NAN	NAN	NAN	0.6	lord hutton
+46	233	JUDGE MCGREGOR-JOHNSON : Yes . 	NAN	NAN	NAN	0.6	lord hutton
+46	234	MISS BEWSEY : And , as such , therefore , the arraignment of the defendants was the start of the trial for the purposes of custody time limits . 	NAN	NAN	NAN	0.6	lord hutton
+46	235	JUDGE MCGREGOR-JOHNSON : That 's right . 	NAN	NAN	NAN	0.6	lord hutton
+46	236	MISS BEWSEY : Your Honour , of course , Mr Kanaris falls outside that hearing , but could I invite your Honour , on the same basis , to say that this , therefore , is the start of Mr Kanaris 's trial ? 	NAN	NAN	NAN	0.6	lord hutton
+46	237	JUDGE MCGREGOR-JOHNSON : Yes , I ordered on the last occasion , that the preparatory hearing should start on that occasion . 	NAN	NAN	NAN	0.6	lord hutton
+46	238	MISS BEWSEY : Your Honour , yes . 	NAN	NAN	NAN	0.6	lord hutton
+46	239	JUDGE MCGREGOR-JOHNSON : And , of course , all save two defendants were arraigned . 	NAN	NAN	NAN	0.6	lord hutton
+46	240	So , yes , unless Mrs Radford wants to say anything about that , I 'll make the same order , as far as this is concerned . 	NAN	NAN	NAN	0.6	lord hutton
+46	241	MISS BEWSEY : I 'm very grateful . 	NAN	NAN	NAN	0.6	lord hutton
+46	242	MRS RADFORD : Your Honour , my only concern is this . 	NAN	NAN	NAN	0.6	lord hutton
+46	243	As your Honour is aware , Mr Kanaris is one of - I do n't know whether it 's one of two or one of three - who now remain in custody ? 	NAN	NAN	NAN	0.6	lord hutton
+46	244	JUDGE MCGREGOR-JOHNSON : Three . 	NAN	NAN	NAN	0.7	lord hutton
+46	245	MRS RADFORD : It 's three , I understand . 	NAN	NAN	NAN	0.7	lord hutton
+46	246	I 'm only concerned , and I bring this point to your Honour 's attention , that , obviously , the deprivation of somebody 's liberty , particularly for a period of time that is going to extend until May of next year , is a very grave concern ; and the concern , obviously - in the drafting of the legislation there is a concern obviously , that by simply saying it 's a preparatory hearing , it means that the custody time limits can no longer , in effect , be argued ; and I am concerned about that because , through no fault of his own , he , at the moment , stands in a position in which he will be in custody for at least seven more months ? 	NAN	NAN	NAN	0.7	lord hutton
+46	247	JUDGE MCGREGOR-JOHNSON : Well , that 's true , but the thing is I dealt with the question of the fixing of the trial on the last occasion . 	NAN	NAN	NAN	0.7	lord hutton
+46	248	The submission that was then made by counsel who appeared for Mr Kanaris was that the defence would not be ready before Easter next year . 	NAN	NAN	NAN	0.7	lord hutton
+46	249	MRS RADFORD : Yes . 	NAN	NAN	NAN	0.7	lord hutton
+46	250	JUDGE MCGREGOR-JOHNSON : So , in other words , if there had been any suggestion of custody time limit problems , I would certainly have addressed that before fixing the trial . 	NAN	NAN	NAN	0.7	lord hutton
+46	251	I was told , as I say , that defence would not be ready before then ; which , of course , is well outside the custody time limit . 	NAN	NAN	NAN	0.7	lord hutton
+46	252	MRS RADFORD : I appreciate that , your Honour . 	NAN	NAN	NAN	0.7	lord hutton
+46	253	I simply bring that to your Honour 's attention because it may be a matter that would be ventilated elsewhere . 	NAN	NAN	NAN	0.7	lord hutton
+46	254	I know not . 	NAN	NAN	NAN	0.7	lord hutton
+46	255	It 's something that has to be looked at , but I simply bring that to your Honour 's attention . '' 	NAN	NAN	NAN	0.7	lord hutton
+46	256	28 . 	NAN	NAN	NAN	0.7	lord hutton
+46	257	Mrs Radford then referred to the fact that Mr Kanaris had been refused bail . 	NAN	NAN	NAN	0.7	lord hutton
+46	258	The judge said at page 7 : `` I had intended - and there were no submissions made on behalf of any defendant on the last occasions that I should not treat the matter as a preparatory hearing and , indeed , I ordered that I should . 	NAN	NAN	NAN	0.7	lord hutton
+46	259	It seems to me that it follows from that - in fact , I 've already made that order , even though the defendant listed then was not arraigned on that occasion for good reason , because the question of fitness to plead had to be looked at . 	NAN	NAN	NAN	0.7	lord hutton
+46	260	So it seems to me the same should apply to him , obviously in terms of any bail application that follows subsequently . 	NAN	NAN	NAN	0.7	lord hutton
+46	261	The matter of the date of the trial is a matter that one would be entitled to take into account . '' 	NAN	NAN	NAN	0.7	lord hutton
+46	262	I observe that it would probably be more accurate if the transcript of the last part of these comments by the judge read : `` So it seems to me the same should apply to him . 	NAN	NAN	NAN	0.7	lord hutton
+46	263	Obviously in terms of any bail application that follows subsequently the matter of the date of the trial is a matter that one would be entitled to take into account . '' 	NAN	NAN	NAN	0.7	lord hutton
+46	264	Crown counsel then said at page 8 : `` MISS BEWSEY : Your Honour , if it 's necessary for your Honour to do so , could I invite your Honour to simply say that the orders that your Honour made in respect of all other defendants on the 7th of September , obviously apply to Mr Kanaris ; and he will be receiving his copy of the prosecution case statement at the end of this month , as ordered . 	NAN	NAN	NAN	0.7	lord hutton
+46	265	JUDGE MCGREGOR-JOHNSON : Yes , I see no reason to depart from that timetable . '' 	NAN	NAN	NAN	0.7	lord hutton
+46	266	There was then a brief discussion between the judge and Crown counsel as to the documents to be served and the judge said at page 8 : `` And then the next preparatory hearing will be the 11th of January . '' 	NAN	NAN	NAN	0.7	lord hutton
+46	267	There was then some discussion between the judge and Crown counsel and Mrs Radford about certain days when the Court would not sit during the course of the trial and the hearing concluded . 	NAN	NAN	NAN	0.7	lord hutton
+46	268	29 . 	NAN	NAN	NAN	0.7	lord hutton
+46	269	In his judgment Andrew Smith J set out the Crown Court judge 's words at the hearing on 7 September when he said at page 25 of the transcript : `` it is right to start the preparatory hearing to this extent : to have arraignment today of those defendants apart from Mr Correya and Mr Kanaris '' . 	NAN	NAN	NAN	0.7	lord hutton
+46	270	The High Court judge then said : `` By this , did he mean -LRB- i -RRB- that the nine defendants should be arraigned and the preparatory hearing begin against all eleven defendants ; -LRB- ii -RRB- that the nine defendants should be arraigned and the preparatory hearing begin against those nine only ; or -LRB- iii -RRB- that the nine defendants should be arraigned , something which could be done at a preparatory hearing but could be done before it ? '' 	NAN	NAN	NAN	0.7	lord hutton
+46	271	30 . 	NAN	NAN	NAN	0.7	lord hutton
+46	272	The Judge rightly rejected the first of these meanings . 	NAN	NAN	NAN	0.7	lord hutton
+46	273	But he also rejected the second meaning and gave the Crown Court judge 's words the third meaning . 	NAN	NAN	NAN	0.7	lord hutton
+46	274	He said : `` 42 . 	NAN	NAN	NAN	0.7	lord hutton
+46	275	I also find it difficult to believe that he intended the second meaning , even if he did have power , or believed that he had power , to start a preparatory hearing against some defendants . 	NAN	NAN	NAN	0.7	lord hutton
+46	276	It would , on any view , be an unusual order , and he does not say that he is making it . 	NAN	NAN	NAN	0.7	lord hutton
+46	277	He does not differentiate between different defendants with regard to whether the preparatory hearing was beginning or with regard to whether he was making an order for a preparatory hearing to begin . 	NAN	NAN	NAN	0.7	lord hutton
+46	278	43 . 	NAN	NAN	NAN	0.7	lord hutton
+46	279	I am driven to give the Judge 's words the third meaning . 	NAN	NAN	NAN	0.7	lord hutton
+46	280	Although this departs from their literal meaning , it is in closer accord with other remarks which were made during the hearing on 7 September to which I have referred . 	NAN	NAN	NAN	0.7	lord hutton
+46	281	Given that in the course of exchanges between the Judge and Counsel there was -LRB- perhaps understandably -RRB- a certain amount of loose language , this seems to me the most probable import of his words . 	NAN	NAN	NAN	0.7	lord hutton
+46	282	44 . 	NAN	NAN	NAN	0.8	lord hutton
+46	283	What then happened on 5 October 2001 , when Mr Black says the Judge ordered the preparatory hearing begin against the applicant ? 	NAN	NAN	NAN	0.8	lord hutton
+46	284	The Judge was , it seems , initially proceeding on the basis -LRB- as I have held on the mistaken basis -RRB- that on 7 September 2001 he had ordered the start of the preparatory hearing against nine defendants ; and it appears from the exchanges with Miss Bewsey which I have set out , that he was prepared to make an order to put the applicant in the same position as the nine `` unless Miss Radford wants to say anything about that '' . 	NAN	NAN	NAN	0.8	lord hutton
+46	285	However , after Mrs Radford had addressed him , he did not make such an order , apparently because he had come to the view that the applicant was already covered by what was ordered on 7 September 2001 . 	NAN	NAN	NAN	0.8	lord hutton
+46	286	He ordered that the same timetabling orders should apply to the applicants as to the nine , but I do not interpret that as amounting to an order -LRB- which the Judge , it seems , would have regarded as otiose -RRB- that the preparatory hearing against the applicant begin . 	NAN	NAN	NAN	0.8	lord hutton
+46	287	Certainly , he did not , in my view , say anything sufficiently clear and specific to amount to an order having the effect of depriving the applicant of his liberty for the months before his trial is heard . '' 	NAN	NAN	NAN	0.8	lord hutton
+46	288	31 . 	NAN	NAN	NAN	0.8	lord hutton
+46	289	I am unable to agree with the view taken by the High Court judge . 	NAN	NAN	NAN	0.8	lord hutton
+46	290	Whilst , when analysed in hindsight , the statements of counsel and of the Crown Court judge may have lacked some degree of precision , and whilst some of the observations of the judge on 7 September could be read to mean that a preparatory hearing would not take place until January , I think that it is reasonably clear both from the transcript of the hearing on 7 September read as a whole and from the orders made by the judge , that he ordered at the hearing on 7 September that the nine defendants should be arraigned and that the preparatory hearing in respect of them should begin , because the judge said : `` In my view it is right to start the preparatory hearing to this extent : To have arraignment today of those defendants apart from Mr Correya and Mr Kanaris for the reasons that have already been set out . '' 	NAN	NAN	NAN	0.8	lord hutton
+46	291	32 . 	NAN	NAN	NAN	0.8	lord hutton
+46	292	Moreover after the nine defendants had been arraigned the judge at page 35 made the very orders which a Crown Court judge is empowered to make at a preparatory hearing by section 31 -LRB- 4 -RRB- and -LRB- 6 -RRB- of the 1996 Act , viz . 	NAN	NAN	NAN	0.8	lord hutton
+46	293	an order for the service of the prosecution case statement by 30 October and the service of a defence statement by 14 December . 	NAN	NAN	NAN	0.8	lord hutton
+46	294	The fact that section 32 of the 1996 Act empowers the Crown Court judge to make orders under section 31 -LRB- 4 -RRB- to -LRB- 7 -RRB- before the preparatory hearing does not assist the respondent because the Crown Court judge made it clear at page 25 that he was holding a preparatory hearing on that day . 	NAN	NAN	NAN	0.8	lord hutton
+46	295	Having regard to the words used by the judge and to the orders which he made pursuant to section 31 -LRB- 4 -RRB- and -LRB- 6 -RRB- I consider that there is no substance in the suggestion that he mistakenly thought that the mere fact of arraigning the nine defendants was sufficient in itself to constitute a preparatory hearing in respect of them . 	NAN	NAN	NAN	0.8	lord hutton
+46	296	Nor does it materially assist the respondent that at the hearing on 7 September the judge referred to a preparatory hearing in January ; under section 31 -LRB- 2 -RRB- the judge may adjourn a preparatory hearing from time to time , and I consider that the references to a preparatory hearing in the New Year related to a further preparatory hearing in January . 	NAN	NAN	NAN	0.8	lord hutton
+46	297	This is confirmed by the judge 's statement at the hearing on 5 October at page 8 that `` the next preparatory hearing will be the 11th January '' . 	NAN	NAN	NAN	0.8	lord hutton
+46	298	33 . 	NAN	NAN	NAN	0.8	lord hutton
+46	299	I further consider that the observations of Crown counsel and of the judge at the hearing on 5 October confirm that there was a preparatory hearing in respect of the nine defendants on 7 September and that there was a preparatory hearing in respect of the respondent on 5 October . 	NAN	NAN	NAN	0.8	lord hutton
+46	300	On 5 October the judge said expressly at page 5 that he had ordered on the last occasion that `` the preparatory hearing should start on that occasion '' and that `` unless Miss Radford wants to say anything about that , I 'll make the same order , as far as this is concerned . '' 	NAN	NAN	NAN	0.8	lord hutton
+46	301	At that point , although she expressed concern that Mr Kanaris would be in custody until May , Mrs Radford did not dispute the statements by Crown counsel and the judge that the hearing on 7 September had been a preparatory hearing . 	NAN	NAN	NAN	0.8	lord hutton
+46	302	I am unable to agree with the view of Andrew Smith J in paragraph 44 of his judgment that after Mrs Radford had addressed him the judge did not make an order that a preparatory hearing would start against the respondent . 	NAN	NAN	NAN	0.8	lord hutton
+46	303	I consider that the words of Crown counsel and of the Crown Court judge at page 8 make it clear that the judge was ordering a preparatory hearing against the respondent on that date and that the same timetable for the delivery of documents pursuant to section 31 -LRB- 4 -RRB- and -LRB- 6 -RRB- would apply to him . 	NAN	NAN	NAN	0.8	lord hutton
+46	304	As I have already observed in relation to the nine defendants , the fact that a preparatory hearing in respect of the respondent took place on 5 October is confirmed by the judge 's words at page 8 that `` And then the next preparatory hearing will be the 11th January . '' 	NAN	NAN	NAN	0.8	lord hutton
+46	305	Separate preparatory hearings 34 . 	NAN	NAN	NAN	0.8	lord hutton
+46	306	A further and separate ground on which Andrew Smith J held that no preparatory hearing had begun in respect of the respondent was that when there was an indictment against a number of defendants , and particularly where a number of defendants were charged on the same count , there could not be a separate preparatory hearing in respect of one or some defendants . 	NAN	NAN	NAN	0.8	lord hutton
+46	307	The judge said at paragraph 34 of his judgment : '' -LSB- The statute -RSB- does not contemplate a number of separate preparatory hearings . 	NAN	NAN	NAN	0.8	lord hutton
+46	308	If the case as a whole is such as to warrant -LSB- a -RSB- preparatory hearing , at that single hearing the charges against all the parties should be considered . 	NAN	NAN	NAN	0.8	lord hutton
+46	309	And the corollary is that the arraignment which is to take place at the start of the preparatory hearing -LRB- if it has not taken place earlier -RRB- is the arraignment of all the defendants . 	NAN	NAN	NAN	0.8	lord hutton
+46	310	I therefore take the view that a preparatory hearing can not take place against only some defendants on an indictment , a fortiori against only some of the defendants charged on the same count . '' 	NAN	NAN	NAN	0.8	lord hutton
+46	311	35 . 	NAN	NAN	NAN	0.8	lord hutton
+46	312	In my opinion the judge erred in making this ruling . 	NAN	NAN	NAN	0.8	lord hutton
+46	313	The law is clear that where a number of defendants are charged in the same indictment or in the same count , each defendant is charged with having himself committed an offence . 	NAN	NAN	NAN	0.8	lord hutton
+46	314	In Director of Public Prosecutions v Merriman -LSB- 1973 -RSB- AC 584 the respondent and his brother were jointly charged with the offence of wounding another man with intent to do him grievous bodily harm . 	NAN	NAN	NAN	0.8	lord hutton
+46	315	Lord Morris of Borth-y-Gest stated at page 591H : `` it is important to consider what is meant by a ` joint charge ' . 	NAN	NAN	NAN	0.8	lord hutton
+46	316	In my view , it only means that more than one person is being charged and that within certain rules of practice or convenience it is permissible for the two persons to be named in one count . 	NAN	NAN	NAN	0.8	lord hutton
+46	317	Each person is , however , being charged with having himself committed an offence . 	NAN	NAN	NAN	0.8	lord hutton
+46	318	All crime is personal and individual though there may be some crimes -LRB- of which conspiracy is an example -RRB- which can only be committed in co-operation with others . 	NAN	NAN	NAN	0.8	lord hutton
+46	319	The offences charged in the present case were individual charges against each of the brothers . '' 	NAN	NAN	NAN	0.9	lord hutton
+46	320	36 . 	NAN	NAN	NAN	0.9	lord hutton
+46	321	In R v Fenwick -LRB- 1953 -RRB- 54 SR -LRB- NSW -RRB- 147 -LRB- approved by the House in Merriman -RRB- Street CJ stated at page 152 : `` Indictments are to be read jointly and severally , and this indictment , as is the common practice in indictments in cases of murder , although it is framed against two accused , is to be regarded as a joint and several indictment of those accused . '' 	NAN	NAN	NAN	0.9	lord hutton
+46	322	In R v Gibbins and Proctor -LSB- 1918 -RSB- 13 Cr App R 134 , 136 Darling J stated : `` The rule is , that it is a matter for the discretion of the judge at the trial whether two people jointly indicted should be tried together or separately but the judge must exercise his discretion judicially . '' 	NAN	NAN	NAN	0.9	lord hutton
+46	323	Moreover , it was stated in R v Assim -LSB- 1966 -RSB- 2 QB 249 , 258F : `` The first point that becomes quite clear upon an examination of the authorities is that questions of joinder , be they of offences or of offenders , are matters of practice on which the court has , unless restrained by statute , inherent power both to formulate its own rules and to vary them in the light of current experience and the needs of justice . '' 	NAN	NAN	NAN	0.9	lord hutton
+46	324	37 . 	NAN	NAN	NAN	0.9	lord hutton
+46	325	Therefore I consider that there is no rule of statute or practice which prevents a judge from ordering a separate preparatory hearing in respect of one defendant jointly charged with other defendants in the same indictment if he considers that it is in the interests of justice to do so . 	NAN	NAN	NAN	0.9	lord hutton
+46	326	In most cases it will be appropriate for a preparatory hearing to take place in respect of all those who are charged in the same indictment , but I consider that a judge has power to order a separate preparatory hearing in respect of one defendant where the circumstances require it . 	NAN	NAN	NAN	0.9	lord hutton
+46	327	In my opinion the present case was one where the judge was fully entitled to take the view that it was desirable to make such an order . 	NAN	NAN	NAN	0.9	lord hutton
+46	328	Eleven defendants represented by separate counsel , who had each received a proposed agenda headed `` PREPARATORY HEARING -- 7 September 2001 '' , had appeared before him in the Crown Court , the Crown submitted that the case was a proper one for a preparatory hearing , and the judge accepted this submission . 	NAN	NAN	NAN	0.9	lord hutton
+46	329	However a question was raised as to the fitness of one defendant , the respondent , to stand trial , and therefore there could not be a preparatory hearing in respect of him on that date . 	NAN	NAN	NAN	0.9	lord hutton
+46	330	In addition counsel for another defendant informed the judge that he intended to apply for dismissal . 	NAN	NAN	NAN	0.9	lord hutton
+46	331	In those circumstances rather than adjourn the entire case to a future date for the first preparatory hearing , I think that it was sensible for the judge to proceed with the preparatory hearing in respect of the other nine defendants and to make orders pursuant to section 31 -LRB- 4 -RRB- and -LRB- 6 -RRB- in respect of them , and to adjourn to another day the preparatory hearing in respect of the respondent . 	NAN	NAN	NAN	0.9	lord hutton
+46	332	An actual preparatory hearing 38 . 	NAN	NAN	NAN	0.9	lord hutton
+46	333	Andrew Smith J also accepted a further submission by Mrs Radford that even if the Crown Court judge had ordered that a preparatory hearing should begin in respect of the respondent on 5 October , in reality no such hearing did begin . 	NAN	NAN	NAN	0.9	lord hutton
+46	334	Counsel submitted that to take away a defendant 's right to bail it was not enough for a judge merely to direct that a preparatory hearing should begin or to state that a preparatory hearing was taking place , but that a preparatory hearing actually had to take place . 	NAN	NAN	NAN	0.9	lord hutton
+46	335	In support of this submission counsel relied on the decisions of the Divisional Court in R v Maidstone Crown Court Ex parte Hollstein -LSB- 1995 -RSB- 3 All ER 503 and R v Maidstone Crown Court Ex parte Clarke -LSB- 1995 -RSB- 1 WLR 831 -LRB- when the custody time limit ran until arraignment -RRB- that arraignment should not take place artificially and should not be used as a mechanism for terminating the right to bail . 	NAN	NAN	NAN	0.9	lord hutton
+46	336	In accepting this submission the Judge relied on his ruling that there could not be separate preparatory hearings , but he also stated : `` 47 . 	NAN	NAN	NAN	0.9	lord hutton
+46	337	I need hardly say that no-one suggests -LRB- and from what I have seen , no-one could properly suggest -RRB- that the prosecution was intending to act deviously or improperly , or was in any way behaving trickily . 	NAN	NAN	NAN	0.9	lord hutton
+46	338	To avoid that connotation , I do not describe what happened as a `` sham '' . 	NAN	NAN	NAN	0.9	lord hutton
+46	339	Nevertheless , it was a fiction , and in my view an impermissible fiction , to say that the preparatory hearing was beginning against anyone on 7 September 2001 or on 5 October 2001 . 	NAN	NAN	NAN	0.9	lord hutton
+46	340	The truth is that the partial arraignment of the defendants was a device , and I do not think that the time limits can be so circumvented . 	NAN	NAN	NAN	0.9	lord hutton
+46	341	48 . 	NAN	NAN	NAN	0.9	lord hutton
+46	342	I therefore conclude that no preparatory hearing has begun against the applicant and the custody time limit is spent . 	NAN	NAN	NAN	0.9	lord hutton
+46	343	49 . 	NAN	NAN	NAN	0.9	lord hutton
+46	344	It might be said that the applicant is exploiting a technical argument when it is clear that those involved in the proceedings regarded the preparatory hearing as begun against him , and the custody time limit protected . 	NAN	NAN	NAN	0.9	lord hutton
+46	345	And it might well be that in this case the prosecution could have justified an application to extend the time limit : indeed , although I have not heard argument on the point , there is every indication that , if the Crown had sought an extension of the custody time limits the defendants would have had difficulty in resisting it . 	NAN	NAN	NAN	0.9	lord hutton
+46	346	However the fact remains that , although Mrs Radford fired a warning shot on 5 October 2001 when the prosecution could still have applied for an extension of the limit , no application was made . 	NAN	NAN	NAN	0.9	lord hutton
+46	347	The custody time limits rules are an important safeguard for accused persons and demand that prosecutors and the Court consider with care whether prolonged detention before trial is properly justified . 	NAN	NAN	NAN	0.9	lord hutton
+46	348	This is witnessed by the narrow view the courts have taken of what constitutes `` good and sufficient cause '' to extend custody time limits . 	NAN	NAN	NAN	0.9	lord hutton
+46	349	It is not an answer to an accused entitled to his liberty after the limit has expired that his argument is a technical one . '' 	NAN	NAN	NAN	0.9	lord hutton
+46	350	39 . 	NAN	NAN	NAN	0.9	lord hutton
+46	351	I am again unable to agree with the view of the High Court judge that it was a fiction to say that preparatory hearings began on 7 September and 5 October and that the arraignment of the defendants was a device to circumvent the time limits . 	NAN	NAN	NAN	0.9	lord hutton
+46	352	On 7 September the Crown Court judge ordered pursuant to section 29 of the 1996 Act that there would be a preparatory hearing in respect of the nine defendants , and in the course of that preparatory hearing he made orders pursuant to section 31 -LRB- 4 -RRB- and -LRB- 6 -RRB- . 	NAN	NAN	NAN	0.9	lord hutton
+46	353	Therefore there was not a fictitious preparatory hearing but an actual preparatory hearing . 	NAN	NAN	NAN	0.9	lord hutton
+46	354	The arraignment of the nine defendants was not an artificial device to circumvent the time limits but took place because section 30 -LRB- b -RRB- provides that arraignment shall take place at the start of the preparatory hearing unless it has taken place before that . 	NAN	NAN	NAN	0.9	lord hutton
+46	355	The same procedure for the same reasons took place in respect of the respondent on 5 October . 	NAN	NAN	NAN	0.9	lord hutton
+46	356	40 . 	NAN	NAN	NAN	0.9	lord hutton
+46	357	It is also relevant to observe that at the hearing on 5 October when Mrs Radford made the point that the respondent would be in custody until the trial began in May the Crown Court judge observed in reply -LRB- in the passage of the transcript set out in paragraph 10 above -RRB- that at the hearing on 7 September it was counsel for Mr Kanaris who submitted that the defence would not be ready before Easter , and that if any suggestion had been made at the hearing on 7 September that there was a problem in respect of the custody time limit he would have addressed that problem before fixing the date for the trial . 	NAN	NAN	NAN	1	lord hutton
+46	358	Custody time limits 41 . 	NAN	NAN	NAN	1	lord hutton
+46	359	Although I am unable to agree with Andrew Smith J that no preparatory hearings had begun against the respondent and against the other nine defendants , I am in agreement with him that the custody time limits are an important safeguard for accused persons and that prosecutors and judges should consider with care whether prolonged detention before trial is properly justified . 	NAN	NAN	NAN	1	lord hutton
+46	360	This is a matter to which particular reference is made in the speech of my noble and learned friend Lord Hope of Craighead which I have had the advantage of reading in draft . 	lord hutton	lord hope	partagr	1	lord hutton
+46	360	This is a matter to which particular reference is made in the speech of my noble and learned friend Lord Hope of Craighead which I have had the advantage of reading in draft . 	lord hutton	lord hope	ackn	1	lord hutton
+46	361	On this aspect of the case I would wish to make two observations . 	NAN	NAN	NAN	1	lord hutton
+46	362	The first observation is that where a preparatory hearing takes place before the custody time limit expires so that a defendant loses the right to bail which he would have enjoyed if the time limit had expired before there had been a preparatory hearing , he is still entitled to apply for bail to the Crown Court , and the period which would elapse before the case came to trial is a factor which the judge hearing the application would have to take into account . 	NAN	NAN	NAN	1	lord hutton
+46	363	This is a point to which the Crown Court judge referred in his comments at page 7 of the transcript of the hearing on 5 October 2001 which is set out in paragraph 11 of this opinion . 	NAN	NAN	NAN	1	lord hutton
+46	364	But it appears that in this case no application for bail on behalf of the respondent was made to the Crown Court after the preparatory hearing on 5 October 2001 . 	NAN	NAN	NAN	1	lord hutton
+46	365	42 . 	NAN	NAN	NAN	1	lord hutton
+46	366	Secondly , I think that there may be some cases involving a large number of defendants or complex issues where , in the particular circumstances of the case , it may be appropriate for the judge to conduct a preparatory hearing , which has the effect of terminating the custody time limit , notwithstanding that a trial can not be held in the near future . 	NAN	NAN	NAN	1	lord hutton
+46	367	In such a case , where a defendant remains in custody and an application is made to the Crown Court for bail , it will be for the judge , weighing all the circumstances , including the period for which the defendant will remain in custody before trial if he were not granted bail , to decide whether or not bail should be granted . 	NAN	NAN	NAN	1	lord hutton
+46	368	As the European Court of Human Rights has stated in Wemhoff v Federal Republic of Germany -LSB- 1968 -RSB- 1 EHRR 55 para 10 in considering Art 5.3 of the European Convention for the Protection of Human Rights and Fundamental Freedoms : `` The reasonableness of an accused person 's continued detention must be assessed in each case according to its special features . 	NAN	NAN	NAN	1	lord hutton
+46	369	The factors which may be taken into consideration are extremely diverse . 	NAN	NAN	NAN	1	lord hutton
+46	370	Hence , the possibility of wide differences in opinion in the assessment of the reasonableness of a given detention . '' 	NAN	NAN	NAN	1	lord hutton
+46	371	Therefore I do not think it is appropriate to state as an inflexible rule that a judge should not start a preparatory hearing until he is certain that he is in a position to proceed with the hearing itself expeditiously . 	NAN	NAN	NAN	1	lord hutton
+46	372	Conclusion 43 . 	NAN	NAN	NAN	1	lord hutton
+46	373	Accordingly for the reasons which I have given I would allow the appeal and would hold that a preparatory hearing did take place in respect of the respondent on 5 October 2001 . 	lord hutton	self	outcome	1	lord hutton
+46	374	I would remit to the High Court the issue whether the respondent should continue to be released on bail . 	NAN	NAN	NAN	1	lord hutton

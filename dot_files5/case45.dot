@@ -1,0 +1,20 @@
+digraph case45 { 
+ K=0.6 
+ "slynn" -> { "hope" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#6"]; 
+ "slynn" -> { "slynn" } [color="blue", arrowhead="vee", penwidth=1, href="#6"]; 
+ "slynn" -> { "hope" } [color="blue", arrowhead="vee", penwidth=1, href="#6"]; 
+ "mackay" -> { "hope" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#12"]; 
+ "mackay" -> { "mackay" } [color="blue", arrowhead="vee", penwidth=1, href="#12"]; 
+ "nicholls" -> { "hope" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#18"]; 
+ "nicholls" -> { "nicholls" } [color="blue", arrowhead="vee", penwidth=1, href="#18"]; 
+ "nicholls" -> { "hope" } [color="blue", arrowhead="vee", penwidth=1, href="#18"]; 
+ "hope" -> { "hope" } [color="blue", arrowhead="vee", penwidth=1, href="#363"]; 
+ "hobhouse" -> { "hope" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#371"]; 
+ "hobhouse" -> { "hobhouse" } [color="blue", arrowhead="vee", penwidth=1, href="#371"]; 
+ "slynn" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#slynn"]; 
+ "mackay" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#mackay"]; 
+ "nicholls" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#nicholls"]; 
+ "hope" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="yellow", href="#hope"]; 
+ "hobhouse" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#hobhouse"]; 
+
+}

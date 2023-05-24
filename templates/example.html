@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>judgeViz</title>
+</head>
+<body>
+    {% extends "layout.html" %}
+    {% block content %} 
+    <h2>Please select which sentence roles you would like highlighted:</h2>
+    <form method="post">
+        {{ form.hidden_tag() }}
+        {{ form.example }}
+        <button type="submit">Submit</button>
+    </form>
+    <div>
+        <h3>What do these sentence roles mean?</h3> 
+        <ul>
+            <li><bold>Fact:</bold> A recounting of the events or circumstances which gave rise to legal proceedings.</li>
+            <li><bold>Proceedings:</bold> A description of legal proceedings taken in the lower courts.</li>
+            <li><bold>Background:</bold> A direct quotation or citation of source of law material.</li>
+            <li><bold>Framing:</bold> Part of the law lord's argumentation.</li>
+            <li><bold>Disposal:</bold> Either credits or discredits a claim or previuos ruling.</li>
+            <li><bold>Textual: </bold> A sentence which has to do with the structure of the document or with things unrelated to a case.</li>
+        </ul>
+    </div>
+    {% endblock %}
+</body>
+</html>

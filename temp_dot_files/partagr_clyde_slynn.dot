@@ -1,0 +1,7 @@
+digraph partagr_clyde_slynn { 
+ K=0.6 
+ "clyde" -> { "slynn" } [color="darkgreen", arrowhead="onormal", penwidth=1, href="#211"]; 
+ "clyde" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#clyde"]; 
+ "slynn" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#slynn"]; 
+
+}

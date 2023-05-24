@@ -1,0 +1,23 @@
+digraph case66 { 
+ K=0.6 
+ "bingham" -> { "hoffmann" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#5"]; 
+ "bingham" -> { "bingham" } [color="blue", arrowhead="vee", penwidth=1, href="#35"]; 
+ "bingham" -> { "hoffmann" } [color="blue", arrowhead="vee", penwidth=1, href="#35"]; 
+ "steyn" -> { "bingham" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#41"]; 
+ "steyn" -> { "hoffmann" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#41"]; 
+ "steyn" -> { "millett" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#41"]; 
+ "steyn" -> { "hoffmann" } [color="blue", arrowhead="vee", penwidth=1, href="#41"]; 
+ "hoffmann" -> { "hoffmann" } [color="blue", arrowhead="vee", penwidth=1, href="outcome_hoffmann_self"];
+ "millett" -> { "hoffmann" } [color="darkgreen", arrowhead="onormal", penwidth=1, href="#215"]; 
+ "millett" -> { "hoffmann" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#265"]; 
+ "millett" -> { "millett" } [color="blue", arrowhead="vee", penwidth=1, href="#265"]; 
+ "scott" -> { "hoffmann" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#270"]; 
+ "scott" -> { "scott" } [color="blue", arrowhead="vee", penwidth=1, href="#270"]; 
+ "scott" -> { "hoffmann" } [color="blue", arrowhead="vee", penwidth=1, href="#271"]; 
+ "bingham" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#bingham"]; 
+ "steyn" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#steyn"]; 
+ "hoffmann" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="yellow", href="#hoffmann"]; 
+ "millett" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#millett"]; 
+ "scott" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#scott"]; 
+
+}

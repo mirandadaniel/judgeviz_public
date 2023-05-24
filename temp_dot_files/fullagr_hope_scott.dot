@@ -1,0 +1,8 @@
+digraph fullagr_hope_scott { 
+ K=0.6 
+ "hope" -> { "scott" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#70"]; 
+ "hope" -> { "scott" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#70"]; 
+ "hope" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#hope"]; 
+ "scott" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="yellow", href="#scott"]; 
+
+}

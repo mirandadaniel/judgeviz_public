@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>judgeViz</title>
+</head>
+<body>
+    {% extends "layout.html" %}
+    {% block content %} 
+    <!-- <h2>Please select which case you would like to work with:</h2> -->
+    <h2>Graph generator</h2>
+    <h4>Please select which case you would like to work with (scroll down to submit):</h4>
+    <form method="post">
+        {{ form.hidden_tag() }}
+        {{ form.example }}
+        <button type="submit">Submit</button>
+    </form>
+    {% endblock %}
+</body>
+</html>
+
+

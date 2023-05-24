@@ -1,0 +1,7 @@
+digraph fullagr_bingham_all { 
+ K=0.6 
+ bingham -> { all } [color="darkgreen", arrowhead="normal", penwidth=1, href="#22"]; 
+ "bingham" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#bingham"]; 
+ "all" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#all"]; 
+
+}

@@ -1,0 +1,6 @@
+digraph outcomehopeself { 
+ K=0.6 
+ "hope" -> { "hope" } [color="blue", arrowhead="vee", penwidth=1, href="#242"]; 
+ "hope" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#hope"]; 
+
+}

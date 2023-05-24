@@ -1,0 +1,7 @@
+digraph outcome_brown_self { 
+ K=0.6 
+ brown -> { self } [color="blue", arrowhead="vee", penwidth=1, href="#577"]; 
+ "brown" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#brown"]; 
+ "brown" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#brown"]; 
+
+}

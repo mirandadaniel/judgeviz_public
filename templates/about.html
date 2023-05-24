@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<body>
+{% extends "layout.html" %}
+{% block content %}
+  <div class="about">  
+  <h2>About judgeViz:</h2>
+  <p>judgeViz is a website created by Miranda Daniel, an MSc student at the University of Bristol, to visualize UKHL judgments in a more understandable and approacable way.</p></b><br>
+  
+  <b>Accessibility: </b><br>
+  <p>judgeViz works best if you use it in full screen mode on a computer; preferably using Google Chrome or Firefox. judgeViz is not currently suitable for use on phones or tablets.</p>
+<br><br>
+  
+  <b>What does the graph represent?</b><br>
+  <p> The graph represents the judgment of the case you selected. The arrows represent relationships between judges.
+    <ol>
+        <li>Green arrow with solid arrowhead: full agreement</li>
+        <li>Green arrow with empty arrowhead: partial agreement</li>
+        <li>Red arrow with solid arrowhead: full disagreement</li>
+        <li>Red arrow with empty arrowhead: partial disagreement</li>
+        <li>Blue arrow with solid arrowhead: agreement on outcome</li>
+    </ol>  
+
+    For example, in the graph below, Lords Steyn, Browne-Wilkinson, Clyde and Hutton all have green arrows with solid arrow heads pointing towards Lord Cooke.
+    This shows that they all fully agree with Lord Cooke. 
+</p>
+
+    <img src="/static/ex1.png" alt="Example graph" width="450px"  height="200px"/>
+
+
+    <br>
+ <p>  Lord Cooke is yellow because he gives the majority opinion in this case. The judges(s) who give the majority opinion in the case will always be displayed in yellow; if there is no majority opinion, every judge will be white.
+    <br>
+    <br>
+    You can click on an arrow to be taken to the line in the judgment that that relation originates from. 
+    <br> 
+    You can also click on a judge's circle to be taken to the start of their judgment. 
+    <br>
+    Some arrows represent multiple relations; when you click on these arrows, the expanded arrow will be shown below the main graph, and you can click on the new expanded arrows. On some computers, you may have to scroll down to see the expanded arrows.
+    <br>Below is an example of an expanded arrow:
+    <p>
+        <img src="/static/expand.png" alt="Example expanded arrow" width="350px"  height="170px"/>
+<br><br></b>
+    <b>Interactivity: </b>
+    <p> Most aspects of judgeViz are interactive (the only non-interactive aspect is when viewing the graph alongside the summary - this feature is in development!).
+        As aforementioned, you can click on the different judge circles in the graph to jump to the start of their speech in the judgment text. You can also click on the arrows between judges to jump to the line that that relation was dervied from. 
+        Furthermore, you can then hover on the coloured relationship block in the right-hand column, in order to see details about who exactly the relationship is between. An example shown below:
+        <br>
+        <img src="/static/hover.png" alt="Example hover" width="500px"  height="200px"/>
+
+    
+
+
+</div>
+{% endblock %}
+</body>
+</html>

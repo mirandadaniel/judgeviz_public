@@ -1,0 +1,260 @@
+20	0	https://publications.parliament.uk/pa/ld200102/ldjudgmt/jd010712/mcgra-1.htm 	NAN	NAN	NAN	0	lord clyde, lord hutton
+20	1	------------- NEW JUDGE --------------- 	NAN	NAN	NAN	0	lord clyde, lord hutton
+20	2	LORD STEYN 	NAN	NAN	NAN	0	lord clyde, lord hutton
+20	3	My Lords , 	NAN	NAN	NAN	0	lord clyde, lord hutton
+20	4	1 . 	NAN	NAN	NAN	0	lord clyde, lord hutton
+20	5	I have had the advantage of reading in draft the speeches of my noble and learned friends , Lord Clyde and Lord Hutton . 	lord steyn	lord clyde	ackn	0	lord clyde, lord hutton
+20	5	I have had the advantage of reading in draft the speeches of my noble and learned friends , Lord Clyde and Lord Hutton . 	lord steyn	lord hutton	ackn	0	lord clyde, lord hutton
+20	6	For the reasons they have given I would allow the appeal . 	lord steyn	lord clyde	fullagr	0	lord clyde, lord hutton
+20	6	For the reasons they have given I would allow the appeal . 	lord steyn	lord hutton	fullagr	0	lord clyde, lord hutton
+20	6	For the reasons they have given I would allow the appeal . 	lord steyn	self	outcome	0	lord clyde, lord hutton
+20	7	------------- NEW JUDGE --------------- 	NAN	NAN	NAN	0	lord clyde, lord hutton
+20	8	LORD BROWNE-WILKINSON 	NAN	NAN	NAN	0	lord clyde, lord hutton
+20	9	My Lords , 	NAN	NAN	NAN	0	lord clyde, lord hutton
+20	10	2 . 	NAN	NAN	NAN	0	lord clyde, lord hutton
+20	11	I have had the advantage of reading in draft the speech prepared by my noble and learned friend , Lord Clyde . 	lord browne-wilkinson	lord clyde	ackn	0	lord clyde, lord hutton
+20	12	For the reasons he gives I too , would allow the appeal . 	lord browne-wilkinson	lord clyde	fullagr	0	lord clyde, lord hutton
+20	12	For the reasons he gives I too , would allow the appeal . 	lord browne-wilkinson	self	outcome	0	lord clyde, lord hutton
+20	13	------------- NEW JUDGE --------------- 	NAN	NAN	NAN	0.1	lord clyde, lord hutton
+20	14	LORD COOKE OF THORNDON 	NAN	NAN	NAN	0.1	lord clyde, lord hutton
+20	15	My Lords , 	NAN	NAN	NAN	0.1	lord clyde, lord hutton
+20	16	3 . 	NAN	NAN	NAN	0.1	lord clyde, lord hutton
+20	17	I have had the advantage of reading in draft the speeches of my noble and learned friends , Lord Clyde and Lord Hutton . 	lord cooke	lord clyde	ackn	0.1	lord clyde, lord hutton
+20	17	I have had the advantage of reading in draft the speeches of my noble and learned friends , Lord Clyde and Lord Hutton . 	lord cooke	lord hutton	ackn	0.1	lord clyde, lord hutton
+20	18	For the reasons they have given I would allow the appeal . 	lord cooke	lord clyde	fullagr	0.1	lord clyde, lord hutton
+20	18	For the reasons they have given I would allow the appeal . 	lord cooke	lord hutton	fullagr	0.1	lord clyde, lord hutton
+20	18	For the reasons they have given I would allow the appeal . 	lord cooke	self	outcome	0.1	lord clyde, lord hutton
+20	19	------------- NEW JUDGE --------------- 	NAN	NAN	NAN	0.1	lord clyde, lord hutton
+20	20	LORD CLYDE 	NAN	NAN	NAN	0.1	lord clyde, lord hutton
+20	21	My Lords , 	NAN	NAN	NAN	0.1	lord clyde, lord hutton
+20	22	4 . 	NAN	NAN	NAN	0.1	lord clyde, lord hutton
+20	23	Various provisions exist for the enforcement in one part of the United Kingdom of warrants granted in another part and the statutory provisions enabling such enforcement have sometimes given rise to problems . 	NAN	NAN	NAN	0.1	lord clyde, lord hutton
+20	24	One recent example is R v Manchester Stipendiary Magistrate , Ex p Granada Television Ltd -LSB- 2001 -RSB- 1 AC 300 . 	NAN	NAN	NAN	0.1	lord clyde, lord hutton
+20	25	Another example is O'Hara v Chief Constable of the Royal Ulster Constabulary -LSB- 1997 -RSB- AC 286 . 	NAN	NAN	NAN	0.1	lord clyde, lord hutton
+20	26	The present case is , however , somewhat exceptional on its facts . 	NAN	NAN	NAN	0.1	lord clyde, lord hutton
+20	27	The plaintiff , the respondent in the present appeal , was arrested in Northern Ireland by virtue of a warrant granted by a sheriff in Scotland . 	NAN	NAN	NAN	0.1	lord clyde, lord hutton
+20	28	He has raised proceedings in Northern Ireland against the appellant defendants claiming damages for wrongful arrest . 	NAN	NAN	NAN	0.1	lord clyde, lord hutton
+20	29	The defendants are the Chief Constables respectively of the Royal Ulster Constabulary and of the Dumfries and Galloway Constabulary . 	NAN	NAN	NAN	0.1	lord clyde, lord hutton
+20	30	The case came before MacDermott LJ and after hearing the evidence he gave judgment for the defendants . 	NAN	NAN	NAN	0.1	lord clyde, lord hutton
+20	31	The plaintiff then appealed to the Court of Appeal in Northern Ireland -LSB- 2000 -RSB- NI 56 who allowed the appeal and awarded a sum of damages against both the defendants . 	NAN	NAN	NAN	0.1	lord clyde, lord hutton
+20	32	They have now appealed to this House . 	NAN	NAN	NAN	0.1	lord clyde, lord hutton
+20	33	It is necessary at the outset to narrate the facts . 	NAN	NAN	NAN	0.1	lord clyde, lord hutton
+20	34	5 . 	NAN	NAN	NAN	0.1	lord clyde, lord hutton
+20	35	On 24 January 1991 Dominic Mackin and William John Joseph Barker stole a car in Stranraer . 	NAN	NAN	NAN	0.1	lord clyde, lord hutton
+20	36	The following day , after Barker had been seen driving the car in a reckless manner , they were both arrested by officers of the Dumfries and Galloway Constabulary . 	NAN	NAN	NAN	0.1	lord clyde, lord hutton
+20	37	Mackin told the police that he was Terence Joseph McGrath of 29 Distillery Street , Belfast and that his date of birth was 15 July 1970 . 	NAN	NAN	NAN	0.1	lord clyde, lord hutton
+20	38	He had given those details to the harbour police at Stranraer when he came ashore from the Larne ferry two days earlier . 	NAN	NAN	NAN	0.2	lord clyde, lord hutton
+20	39	That name , address and date of birth related not to Mackin but to the plaintiff . 	NAN	NAN	NAN	0.2	lord clyde, lord hutton
+20	40	Mackin knew the plaintiff because they had been at school together . 	NAN	NAN	NAN	0.2	lord clyde, lord hutton
+20	41	Mackin persisted in this deception throughout the subsequent proceedings in the Sheriff Court at Stranraer . 	NAN	NAN	NAN	0.2	lord clyde, lord hutton
+20	42	He appeared , along with Barker , at the sheriff court in Stranraer on 25 January 1991 and was then remanded in custody to Dumfries prison . 	NAN	NAN	NAN	0.2	lord clyde, lord hutton
+20	43	He was charged , along with Barker , with the theft . 	NAN	NAN	NAN	0.2	lord clyde, lord hutton
+20	44	So far as Mackin was concerned the charge ran in the name of Terence Joseph McGrath and a schedule of previous convictions of Terence Joseph McGrath was prepared in connection with the charge against him . 	NAN	NAN	NAN	0.2	lord clyde, lord hutton
+20	45	On 11 February 1991 he pled guilty to the charge of theft . 	NAN	NAN	NAN	0.2	lord clyde, lord hutton
+20	46	Barker also pleaded guilty to the theft and to a number of offences under the Road Traffic Act 1988 . 	NAN	NAN	NAN	0.2	lord clyde, lord hutton
+20	47	In accordance with practice Mackin was asked to sign his plea of guilt and he did so using the name Terence McGrath . 	NAN	NAN	NAN	0.2	lord clyde, lord hutton
+20	48	The case was then adjourned for reports and sentence . 	NAN	NAN	NAN	0.2	lord clyde, lord hutton
+20	49	On 13 February 1991 Mackin , under the name of McGrath , and Barker were granted bail . 	NAN	NAN	NAN	0.2	lord clyde, lord hutton
+20	50	6 . 	NAN	NAN	NAN	0.2	lord clyde, lord hutton
+20	51	On 25 February 1991 they both failed to appear at court for sentencing . 	NAN	NAN	NAN	0.2	lord clyde, lord hutton
+20	52	The sheriff accordingly on that day , on the application of the procurator fiscal , granted a warrant for the arrest of both men . 	NAN	NAN	NAN	0.2	lord clyde, lord hutton
+20	53	The sheriff 's direction was issued orally and he signed a manuscript record of it made by the sheriff clerk . 	NAN	NAN	NAN	0.2	lord clyde, lord hutton
+20	54	That record read : `` The court on the motion of the prosecutor granted warrant to apprehend and commit the accused Terence Joseph McGrath and William John Joseph Barker to any lawful prison until liberated in due course of law . '' 	NAN	NAN	NAN	0.2	lord clyde, lord hutton
+20	55	An `` extract of warrant '' was then prepared by the sheriff clerk and signed by the sheriff . 	NAN	NAN	NAN	0.2	lord clyde, lord hutton
+20	56	That was sent to the procurator fiscal so that the police might enforce it . 	NAN	NAN	NAN	0.2	lord clyde, lord hutton
+20	57	It was confirmed by a Scottish advocate who gave evidence before the court in Northern Ireland that the warrant which was issued was a proper and valid warrant under the law of Scotland and that its effect was to authorise police officers to search for and arrest the persons named therein . 	NAN	NAN	NAN	0.2	lord clyde, lord hutton
+20	58	7 . 	NAN	NAN	NAN	0.2	lord clyde, lord hutton
+20	59	On 25 September 1991 a constable of the Royal Ulster Constabulary , who was aware that a warrant had been issued for the arrest of Terence Joseph McGrath , date of birth 1970 , of 29 Distillery Street , Belfast , saw the plaintiff standing on a footpath in Belfast . 	NAN	NAN	NAN	0.2	lord clyde, lord hutton
+20	60	He asked the plaintiff for his personal details . 	NAN	NAN	NAN	0.2	lord clyde, lord hutton
+20	61	These precisely fitted the details which had been passed to him relating to the warrant . 	NAN	NAN	NAN	0.2	lord clyde, lord hutton
+20	62	He accordingly checked with his base by radio and then arrested the plaintiff . 	NAN	NAN	NAN	0.2	lord clyde, lord hutton
+20	63	Later on that day the plaintiff was transferred into the custody of two officers of the Dumfries and Galloway Constabulary and was taken to Stranraer . 	NAN	NAN	NAN	0.2	lord clyde, lord hutton
+20	64	It was then discovered that he was not the person who had been detained in January 1991 . 	NAN	NAN	NAN	0.3	lord clyde, lord hutton
+20	65	He was released and given some money for his fare to travel back to Belfast . 	NAN	NAN	NAN	0.3	lord clyde, lord hutton
+20	66	8 . 	NAN	NAN	NAN	0.3	lord clyde, lord hutton
+20	67	The plaintiff claims that he was arrested wrongfully , unlawfully and without reasonable cause . 	NAN	NAN	NAN	0.3	lord clyde, lord hutton
+20	68	The defendants contend that the arrest was lawful . 	NAN	NAN	NAN	0.3	lord clyde, lord hutton
+20	69	The authority on which the defendants rely for making the arrest is to be found in section 38 -LRB- 3 -RRB- of the Criminal Law Act 1977 . 	NAN	NAN	NAN	0.3	lord clyde, lord hutton
+20	70	Section 38 of that Act was repealed by section 168 -LRB- 3 -RRB- of and Schedule 11 to the Criminal Justice and Public Order Act 1994 and replaced by section 136 . 	NAN	NAN	NAN	0.3	lord clyde, lord hutton
+20	71	But it was section 38 -LRB- 3 -RRB- which was in force at the period with which we are concerned and it ran as follows : `` A warrant issued in England , Wales or Scotland for the arrest of a person charged with an offence may be executed in Northern Ireland by any member of the Royal Ulster Constabulary or the Royal Ulster Constabulary Reserve and subsections -LRB- 4 -RRB- and -LRB- 5 -RRB- of section 159 of the Magistrates ' Courts Act -LRB- Northern Ireland -RRB- 1964 -LRB- execution without possession of the warrant and execution on Sunday -RRB- shall apply to the execution in Northern Ireland of any such warrant . '' 	NAN	NAN	NAN	0.3	lord clyde, lord hutton
+20	72	9 . 	NAN	NAN	NAN	0.3	lord clyde, lord hutton
+20	73	The intention of the sheriff in granting the warrant to arrest Terence McGrath was no doubt to have the man who had appeared before him in court to be arrested and brought back for sentence . 	NAN	NAN	NAN	0.3	lord clyde, lord hutton
+20	74	That that was his intention was recognised both by the trial judge and the Court of Appeal . 	NAN	NAN	NAN	0.3	lord clyde, lord hutton
+20	75	The Court of Appeal however considered the terms of section 38 -LRB- 3 -RRB- and took the view that the subsection did not avail the defendants because the plaintiff was not `` a person charged with an offence '' for the purposes of the subsection . 	NAN	NAN	NAN	0.3	lord clyde, lord hutton
+20	76	The person charged with an offence was Mackin . 	NAN	NAN	NAN	0.3	lord clyde, lord hutton
+20	77	The warrant `` was for the arrest of Mackin , the person who had been before the sheriff and whom the latter intended to have brought back to his court . '' 	NAN	NAN	NAN	0.3	lord clyde, lord hutton
+20	78	-LSB- 2000 -RSB- NI 56 , 60 . 	NAN	NAN	NAN	0.3	lord clyde, lord hutton
+20	79	The court did not think it possible : `` to construe the phrase ` person charged ' as meaning the person whose name is set out in the warrant if he was not the person who had been before the court and whom the sheriff intended to have arrested . '' 	NAN	NAN	NAN	0.3	lord clyde, lord hutton
+20	80	The court continued , at p 61 : `` We recognise that this penalises a police officer who has acted in good faith and who has been misled by the deception perpetrated by the accused , but we think that it would be less than just if a third person who has been arrested and detained , although innocent of any wrongdoing , were left without a remedy . '' 	NAN	NAN	NAN	0.3	lord clyde, lord hutton
+20	81	10 . 	NAN	NAN	NAN	0.3	lord clyde, lord hutton
+20	82	The question in the case comes eventually to be one of the construction of section 38 -LRB- 3 -RRB- . 	NAN	NAN	NAN	0.3	lord clyde, lord hutton
+20	83	Before I turn to that question , however , it is convenient to mention certain other lines of argument which were raised during the course of the hearing and to make some more general observations about the granting and execution of warrants . 	NAN	NAN	NAN	0.3	lord clyde, lord hutton
+20	84	11 . 	NAN	NAN	NAN	0.3	lord clyde, lord hutton
+20	85	Some attempt at the hearing before us was made to resurrect an argument that a defence was open to the appellants under section 50 of the Constabulary -LRB- Ireland -RRB- Act 1836 -LRB- 6 & 7 Will 4 , c 13 -RRB- . 	NAN	NAN	NAN	0.3	lord clyde, lord hutton
+20	86	According to MacDermott LJ counsel had conceded that they were not entitled to rely on that section , and counsel did not rely on it before the Court of Appeal . 	NAN	NAN	NAN	0.3	lord clyde, lord hutton
+20	87	On the view which I am taking of the case it is not necessary to consider this argument . 	NAN	NAN	NAN	0.3	lord clyde, lord hutton
+20	88	However , it is not immediately evident that the section extends not only to warrants granted by a magistrate within the jurisdiction of the Northern Irish courts but also to a warrant granted by a sheriff in Scotland . 	NAN	NAN	NAN	0.3	lord clyde, lord hutton
+20	89	We were not addressed in detail on the point and I remain doubtful whether such a construction would be possible . 	NAN	NAN	NAN	0.4	lord clyde, lord hutton
+20	90	12 . 	NAN	NAN	NAN	0.4	lord clyde, lord hutton
+20	91	Section 50 of the 1836 Act provides a protection to the constable in respect of an irregularity in the issuing of a warrant or for any want of jurisdiction in the magistrate who has issued it . 	NAN	NAN	NAN	0.4	lord clyde, lord hutton
+20	92	A protection comparable with that provided in section 50 of the 1836 Act was afforded to a constable in England under section 6 of the Constables Protection Act 1750 -LRB- 24 Geo 2 , c 44 -RRB- . 	NAN	NAN	NAN	0.4	lord clyde, lord hutton
+20	93	As is pointed out in Clerk and Lindsell on Torts , 18th ed -LRB- 2000 -RRB- , p 912 , para 17-128 , at one time a constable was exposed to a double danger , namely that the warrant might have been issued without jurisdiction and so was a nullity ; or that it was issued with jurisdiction but the constable did something not covered by its authority . 	NAN	NAN	NAN	0.4	lord clyde, lord hutton
+20	94	The Act of 1750 provided protection against the former danger . 	NAN	NAN	NAN	0.4	lord clyde, lord hutton
+20	95	As Macnaghten J observed in Horsfield v Brown -LSB- 1932 -RSB- 1 KB 355,369 : `` If the constable acts in obedience to the warrant , then , though the warrant be an unlawful warrant , he is protected by the statute of 1750 , but if the warrant be a lawful warrant , and he executes it in an unlawful way , then no action is maintainable against the magistrate , but an action is maintainable against the constable . '' 	NAN	NAN	NAN	0.4	lord clyde, lord hutton
+20	96	In the present case , however , the argument is that the warrant was lawful and was executed lawfully . 	NAN	NAN	NAN	0.4	lord clyde, lord hutton
+20	97	The defendants ' claim is that they were acting in the lawful exercise of a statutory provision , section 38 -LRB- 3 -RRB- of the 177 Act , in the enforcement of a warrant which had been regularly issued by a sheriff acting within his jurisdiction . 	NAN	NAN	NAN	0.4	lord clyde, lord hutton
+20	98	If that was the case , the defendants would have a sound defence against a claim of wrongful arrest : Archbold , Criminal Pleading Evidence & Practice -LRB- 2001 ed -RRB- , p 1745 , paras 19-339 , 19-340 . 	NAN	NAN	NAN	0.4	lord clyde, lord hutton
+20	99	13 . 	NAN	NAN	NAN	0.4	lord clyde, lord hutton
+20	100	Another line of argument was presented under reference to article 5 of the European Convention for the Protection of Human Rights and Fundamental Freedoms . 	NAN	NAN	NAN	0.4	lord clyde, lord hutton
+20	101	But it was not made clear how this could constitute a distinct argument in its own right . 	NAN	NAN	NAN	0.4	lord clyde, lord hutton
+20	102	It was not suggested that the provisions of the Human Rights Act 1998 should apply . 	NAN	NAN	NAN	0.4	lord clyde, lord hutton
+20	103	It was not suggested that the article should be invoked as a consideration in the construction of section 38 . 	NAN	NAN	NAN	0.4	lord clyde, lord hutton
+20	104	Regard must certainly be paid to the basic right to liberty and security of a person , but beyond that general consideration it is not easy to discern what further weight reference to article 5 adds to the argument . 	NAN	NAN	NAN	0.4	lord clyde, lord hutton
+20	105	The question still remains whether the execution of the warrant was lawful . 	NAN	NAN	NAN	0.4	lord clyde, lord hutton
+20	106	14 . 	NAN	NAN	NAN	0.4	lord clyde, lord hutton
+20	107	One of the cases to which counsel referred us was R v Governor of Brockhill Prison , Ex p Evans -LRB- No 2 -RRB- -LSB- 2000 -RSB- 3 WLR 843 But that case was very different from the present . 	NAN	NAN	NAN	0.4	lord clyde, lord hutton
+20	108	It was held there that the applicant was entitled to damages for false imprisonment . 	NAN	NAN	NAN	0.4	lord clyde, lord hutton
+20	109	She had been sentenced to various concurrent terms of imprisonment . 	NAN	NAN	NAN	0.4	lord clyde, lord hutton
+20	110	But she was entitled to a reduction in the actual period to be served . 	NAN	NAN	NAN	0.4	lord clyde, lord hutton
+20	111	The court did not specify the date of release . 	NAN	NAN	NAN	0.4	lord clyde, lord hutton
+20	112	That was for the governor of the prison to calculate . 	NAN	NAN	NAN	0.4	lord clyde, lord hutton
+20	113	The governor of the prison had calculated her release date on a basis which was subsequently held to be unsound . 	NAN	NAN	NAN	0.4	lord clyde, lord hutton
+20	114	On the correct calculation she should have been released 59 days earlier than the date of her actual release . 	NAN	NAN	NAN	0.5	lord clyde, lord hutton
+20	115	Thus she had been unlawfully detained for that period . 	NAN	NAN	NAN	0.5	lord clyde, lord hutton
+20	116	It was held that the fact that the governor had acted in accordance with the law as it was at the time when he made his calculation was not sufficient justification for a false imprisonment , which is a tort of strict liability . 	NAN	NAN	NAN	0.5	lord clyde, lord hutton
+20	117	That case concerned a mistake as to the law , committed by the governor in calculating the period for release under a sentence of the court which had left that calculation as matter for him . 	NAN	NAN	NAN	0.5	lord clyde, lord hutton
+20	118	Once the calculation had been corrected it followed that there was a period of unlawful imprisonment . 	NAN	NAN	NAN	0.5	lord clyde, lord hutton
+20	119	The present case concerns a mistake of fact in the identity of the person named in the order of the court . 	NAN	NAN	NAN	0.5	lord clyde, lord hutton
+20	120	The order was not unlawful . 	NAN	NAN	NAN	0.5	lord clyde, lord hutton
+20	121	The only issue is whether its execution upon the person named in it constituted an unlawful arrest . 	NAN	NAN	NAN	0.5	lord clyde, lord hutton
+20	122	I do not consider that Evans is of direct assistance to the resolution of the present case . 	NAN	NAN	NAN	0.5	lord clyde, lord hutton
+20	123	15 . 	NAN	NAN	NAN	0.5	lord clyde, lord hutton
+20	124	If reference is to be made to the situation of a gaoler acting under a warrant a closer example would be that of Henderson v Preston -LRB- 1888 -RRB- 21 QBD 362 , which represents a line of authority which was distinguished in Evans . 	NAN	NAN	NAN	0.5	lord clyde, lord hutton
+20	125	In Henderson an action for false imprisonment failed where the warrant ordered the prison governor to receive the plaintiff and keep him for the space of seven days . 	NAN	NAN	NAN	0.5	lord clyde, lord hutton
+20	126	The sentence ran from 24 August but the plaintiff was only lodged in prison on 25 August . 	NAN	NAN	NAN	0.5	lord clyde, lord hutton
+20	127	The governor detained him until and including 31 August and was held to be protected by the warrant . 	NAN	NAN	NAN	0.5	lord clyde, lord hutton
+20	128	Lindley LJ stated , at p 366 : `` All that one has to do is to read the warrant . 	NAN	NAN	NAN	0.5	lord clyde, lord hutton
+20	129	What is a governor of a gaol who receives such a warrant to do except to obey it ? 	NAN	NAN	NAN	0.5	lord clyde, lord hutton
+20	130	It is perfectly valid and correct , and is authorised by the Act of Parliament , and issued by persons who have jurisdiction to issue it . 	NAN	NAN	NAN	0.5	lord clyde, lord hutton
+20	131	It appears to me that the governor by obeying that warrant has simply done his duty , and the warrant protects him and is an answer to the action . '' 	NAN	NAN	NAN	0.5	lord clyde, lord hutton
+20	132	Another example can be found in Olotu v Home Office -LSB- 1997 -RSB- 1 WLR 328 . 	NAN	NAN	NAN	0.5	lord clyde, lord hutton
+20	133	16 . 	NAN	NAN	NAN	0.5	lord clyde, lord hutton
+20	134	Of more direct relevance is one of the other cases to which we were referred , Hoye v Bush -LRB- 1840 -RRB- 1 Man & G 775 . 	NAN	NAN	NAN	0.5	lord clyde, lord hutton
+20	135	It was held in that case that an arrest was wrongful where the constable had applied for a warrant to arrest Richard Hoye , the warrant had been mistakenly issued in the name of John Hoye and the constable had arrested Richard Hoye . 	NAN	NAN	NAN	0.5	lord clyde, lord hutton
+20	136	Thus a police officer can not under a warrant arrest someone who is not named in it even although he knows the person intended to be covered by it . 	NAN	NAN	NAN	0.5	lord clyde, lord hutton
+20	137	Tindal CJ -LRB- p 786 -RRB- observed : `` It would be dangerous if a person whose office is wholly ministerial , were allowed to sit in judgment , and say who is the unnamed person intended by the warrant which he is required to execute . '' 	NAN	NAN	NAN	0.5	lord clyde, lord hutton
+20	138	One principle which can be found in Hoye is that the person executing a warrant should follow and be entitled to rely on the face of the warrant . 	NAN	NAN	NAN	0.5	lord clyde, lord hutton
+20	139	He may not act outside the terms of the warrant . 	NAN	NAN	NAN	0.6	lord clyde, lord hutton
+20	140	That was what happened in Hoye . 	NAN	NAN	NAN	0.6	lord clyde, lord hutton
+20	141	But he should be not be held to have acted unlawfully if he carries out the instruction which appears from the face of the warrant . 	NAN	NAN	NAN	0.6	lord clyde, lord hutton
+20	142	It is not for him to question that instruction if it is clear . 	NAN	NAN	NAN	0.6	lord clyde, lord hutton
+20	143	17 . 	NAN	NAN	NAN	0.6	lord clyde, lord hutton
+20	144	Warrants issued by a court of law require to be treated with the same respect as must be accorded to any order of the court . 	NAN	NAN	NAN	0.6	lord clyde, lord hutton
+20	145	The general rule was stated by Romer LJ in Hadkinson v Hadkinson -LSB- 1952 -RSB- P 285 , 288 : `` It is the plain and unqualified obligation of every person against , or in respect of whom , an order is made by a court of competent jurisdiction , to obey it unless and until that order is discharged . 	NAN	NAN	NAN	0.6	lord clyde, lord hutton
+20	146	The uncompromising nature of this obligation is shown by the fact that it extends even to cases where the person affected by an order believes it to be irregular or even void . ' 	NAN	NAN	NAN	0.6	lord clyde, lord hutton
+20	147	A person who knows of an order , whether null and void , regular or irregular , can not be permitted to disobey it ... . 	NAN	NAN	NAN	0.6	lord clyde, lord hutton
+20	148	It would be most dangerous to hold that the suitors , or their solicitors , could themselves judge whether an order was null and void - whether it was regular or irregular . 	NAN	NAN	NAN	0.6	lord clyde, lord hutton
+20	149	That they should come to the court and not take upon themselves to determine such a question : that the course of a party knowing of an order which was null and irregular and who might be affected by it was plain . 	NAN	NAN	NAN	0.6	lord clyde, lord hutton
+20	150	He should apply to the court that it might be discharged . 	NAN	NAN	NAN	0.6	lord clyde, lord hutton
+20	151	As long as it existed it must not be disobeyed ' -LRB- Per Lord Cottenham LC in Chuck v Cremer -LRB- 1846 -RRB- Cooper temp Cott 205 , 338 -RRB- . '' 	NAN	NAN	NAN	0.6	lord clyde, lord hutton
+20	152	That passage was followed in R v Oldham Justices , Ex p Cawley -LSB- 1997 -RSB- QB 1 , where it was held that a prison governor did not require to question the order contained in a warrant of committal . 	NAN	NAN	NAN	0.6	lord clyde, lord hutton
+20	153	18 . 	NAN	NAN	NAN	0.6	lord clyde, lord hutton
+20	154	If warrants which are apparently valid are to be taken at their face value and justify the action taken in conformity with them it is necessary that there be strict controls governing the granting and the execution of them . 	NAN	NAN	NAN	0.6	lord clyde, lord hutton
+20	155	In so far as warrants may authorise what would otherwise be an unlawful invasion of private rights , there are various safeguards which accompany the granting and execution of them . 	NAN	NAN	NAN	0.6	lord clyde, lord hutton
+20	156	Whether or not they are granted under statutory provision the procedures required for the granting of them must be carefully followed . 	NAN	NAN	NAN	0.6	lord clyde, lord hutton
+20	157	They must state whatever the particular statutory provision under which they are issued requires them to state -LRB- e.g. R v Inland Revenue Commissioners , Ex p Rossminster Ltd -LSB- 1980 -RSB- AC 952 . 	NAN	NAN	NAN	0.6	lord clyde, lord hutton
+20	158	The warrants must be sufficiently clear and precise in their terms so that all those interested in their execution may know precisely what are the limits of the power which has been granted . 	NAN	NAN	NAN	0.6	lord clyde, lord hutton
+20	159	As Coltman J stated in Hoye -LRB- p 788 -RRB- : `` It is of the essence of a warrant that it should be so framed , that the officer should know whom he is to take , and that the party upon whom it is executed should know whether he is bound to submit to the arrest . '' 	NAN	NAN	NAN	0.6	lord clyde, lord hutton
+20	160	To take an example from Scots law , a search warrant must clearly identify the premises which the constable has power to search -LRB- Bell v H M Advocate 1988 JC 69 -RRB- . 	NAN	NAN	NAN	0.6	lord clyde, lord hutton
+20	161	Compliance with the proper procedure is particularly important where the liberty of the subject is concerned -LRB- R v Metropolitan Police Commissioner , Ex p Hammond -LSB- 1965 -RSB- AC 810 , 837 -RRB- . 	NAN	NAN	NAN	0.6	lord clyde, lord hutton
+20	162	Where legislation requires particular information to be given to the arrested person , as in section 28 -LRB- 3 -RRB- of the Police and Criminal Evidence Act 1984 , the failure to give the information will make the arrest unlawful -LRB- e.g. Mullady v Director of Public Prosecutions -LSB- 1997 -RSB- EWHC 595 -RRB- . 	NAN	NAN	NAN	0.6	lord clyde, lord hutton
+20	163	19 . 	NAN	NAN	NAN	0.6	lord clyde, lord hutton
+20	164	So far as the present case is concerned it has to be noted that the warrant was lawfully and validly issued under the law of Scotland . 	NAN	NAN	NAN	0.7	lord clyde, lord hutton
+20	165	The evidence to that effect was not disputed . 	NAN	NAN	NAN	0.7	lord clyde, lord hutton
+20	166	The sheriff was acting within his jurisdiction in directing that the order be issued . 	NAN	NAN	NAN	0.7	lord clyde, lord hutton
+20	167	One starts then with the basis that there was a valid warrant granted by the sheriff in Scotland . 	NAN	NAN	NAN	0.7	lord clyde, lord hutton
+20	168	It may be that that did not in fact achieve what the sheriff had presumably intended - that the warrant should enable the arrest of the man who had appeared before him in court . 	NAN	NAN	NAN	0.7	lord clyde, lord hutton
+20	169	But , albeit mistakenly , it was on the face of it a valid warrant for the arrest of the plaintiff . 	NAN	NAN	NAN	0.7	lord clyde, lord hutton
+20	170	It was not a warrant for the arrest of Mackin . 	NAN	NAN	NAN	0.7	lord clyde, lord hutton
+20	171	If a constable had attempted to arrest Mackin on the strength of the warrant the arrest would have been as unlawful as was the arrest in Hoye . 	NAN	NAN	NAN	0.7	lord clyde, lord hutton
+20	172	That it might be possible to strike it down on the ground of the mistake did not render it a nullity . 	NAN	NAN	NAN	0.7	lord clyde, lord hutton
+20	173	The granting of the warrant was a lawful judicial act and the validity of the warrant would remain until it was recalled or cancelled . 	NAN	NAN	NAN	0.7	lord clyde, lord hutton
+20	174	While the granting of a warrant is a judicial act , an endorsement of the warrant is merely a ministerial act -LRB- R v Metropolitan Police Commissioner , Ex p Hammond -LSB- 1965 -RSB- AC 810 , 837 -RRB- and , as was noticed in Hoye , the execution of it is correspondingly also a ministerial act . 	NAN	NAN	NAN	0.7	lord clyde, lord hutton
+20	175	20 . 	NAN	NAN	NAN	0.7	lord clyde, lord hutton
+20	176	The plaintiff makes no other complaint about the lawfulness of the arrest than that the constable was not acting within the scope of section 38 -LRB- 3 -RRB- . 	NAN	NAN	NAN	0.7	lord clyde, lord hutton
+20	177	We are not concerned with any lack of formalities in the way the arrest was made . 	NAN	NAN	NAN	0.7	lord clyde, lord hutton
+20	178	As regards possession of the warrant , section 159 -LRB- 4 -RRB- of the Magistrates ' Courts Act -LRB- Northern Ireland -RRB- 1964 is expressly made applicable to section 38 -LRB- 3 -RRB- . 	NAN	NAN	NAN	0.7	lord clyde, lord hutton
+20	179	That section provides that : `` Any warrant lawfully issued for the arrest of any person in connection with proceedings before a magistrates ' court may be executed by any constable at any time notwithstanding that the warrant is not in his possession at that time ... . '' 	NAN	NAN	NAN	0.7	lord clyde, lord hutton
+20	180	But it is unnecessary to explore any such considerations regarding the manner or procedure of the arrest . 	NAN	NAN	NAN	0.7	lord clyde, lord hutton
+20	181	The only question is whether its execution was in conformity with section 38 -LRB- 3 -RRB- . 	NAN	NAN	NAN	0.7	lord clyde, lord hutton
+20	182	21 . 	NAN	NAN	NAN	0.7	lord clyde, lord hutton
+20	183	I turn next to the question of the construction of section 38 -LRB- 3 -RRB- . 	NAN	NAN	NAN	0.7	lord clyde, lord hutton
+20	184	There can be no doubt that the warrant was `` a warrant issued in Scotland '' . 	NAN	NAN	NAN	0.7	lord clyde, lord hutton
+20	185	Indeed , as I have already said , the warrant was validly issued , even although it was directed against a person who was in fact not the person who had earlier appeared before the sheriff and whom the sheriff intended should be returned for sentence . 	NAN	NAN	NAN	0.7	lord clyde, lord hutton
+20	186	The problem then arises regarding the following phrase `` for the arrest of a person charged with an offence . '' 	NAN	NAN	NAN	0.7	lord clyde, lord hutton
+20	187	On the view which the Court of Appeal took , these words require that the person named in the warrant is a person who has actually been charged with an offence . 	NAN	NAN	NAN	0.7	lord clyde, lord hutton
+20	188	But that is not the only possible construction . 	NAN	NAN	NAN	0.7	lord clyde, lord hutton
+20	189	It is also possible that they are simply describing the kind of warrant with which the subsection is concerned , namely a warrant to arrest , as distinct from a warrant to search , or any other kind of warrant . 	NAN	NAN	NAN	0.8	lord clyde, lord hutton
+20	190	On this approach the words are not detailing the substance of the warrant so as to require that the person arrested has in fact been charged with an offence . 	NAN	NAN	NAN	0.8	lord clyde, lord hutton
+20	191	22 . 	NAN	NAN	NAN	0.8	lord clyde, lord hutton
+20	192	In my view counsel for the defendants was correct in submitting that the latter construction is to be preferred . 	NAN	NAN	NAN	0.8	lord clyde, lord hutton
+20	193	As he pointed out if the plaintiff had been in Scotland and the warrant had been executed in Scotland the arrest in conformity with the warrant would have been lawful . 	NAN	NAN	NAN	0.8	lord clyde, lord hutton
+20	194	That position should still be the same when by virtue of the legislation the power is given to execute it in Northern Ireland . 	NAN	NAN	NAN	0.8	lord clyde, lord hutton
+20	195	Section 38 -LRB- 3 -RRB- simply gives the power to execute the warrant within another jurisdiction . 	NAN	NAN	NAN	0.8	lord clyde, lord hutton
+20	196	If the execution is lawful in the one country , then it should be lawful in the other . 	NAN	NAN	NAN	0.8	lord clyde, lord hutton
+20	197	The purpose of the section is to enable warrants granted in one of the stated jurisdictions to be readily enforceable in another within the United Kingdom . 	NAN	NAN	NAN	0.8	lord clyde, lord hutton
+20	198	Endorsation of the warrant is expressly declared in subsection -LRB- 4 -RRB- not to be required . 	NAN	NAN	NAN	0.8	lord clyde, lord hutton
+20	199	The phrase `` for the arrest of a person charged with an offence '' appears in all of the first three subsections , covering the three jurisdictions in which the warrants in question may be executed . 	NAN	NAN	NAN	0.8	lord clyde, lord hutton
+20	200	In each case it seems to me that the words have no greater significance than to denote that the warrants are , to use the language of the side-note , `` warrants of arrest . '' 	NAN	NAN	NAN	0.8	lord clyde, lord hutton
+20	201	The construction adopted by the Court of Appeal would have more weight if the subsection had read `` may be executed against that person . '' 	NAN	NAN	NAN	0.8	lord clyde, lord hutton
+20	202	But those last three words do not appear in the legislation and there is no obvious reason for construing the subsection as if they were there . 	NAN	NAN	NAN	0.8	lord clyde, lord hutton
+20	203	23 . 	NAN	NAN	NAN	0.8	lord clyde, lord hutton
+20	204	Even if the construction which I prefer was incorrect and the critical phrase should be understood as requiring that the warrant should in its substance be for the arrest of a person who has been charged with an offence , the situation here was that the plaintiff had been , albeit mistakenly , charged with an offence . 	NAN	NAN	NAN	0.8	lord clyde, lord hutton
+20	205	It was against the plaintiff by name that the indictment had been issued . 	NAN	NAN	NAN	0.8	lord clyde, lord hutton
+20	206	The plaintiff can thus qualify as a person `` charged with an offence '' for the purposes of the subsection . 	NAN	NAN	NAN	0.8	lord clyde, lord hutton
+20	207	While I prefer to base my decision on the construction of the critical phrase , this alternative approach also seems to me to be acceptable . 	NAN	NAN	NAN	0.8	lord clyde, lord hutton
+20	208	But I do not consider that the Court of Appeal was correct in requiring that the warrant could only be executed against the plaintiff if he had in fact been the person who actually appeared before the sheriff and whom the sheriff intended to be arrested . 	NAN	NAN	NAN	0.8	lord clyde, lord hutton
+20	209	That construction involves a questioning of what appeared clearly , even although mistakenly , on the face of the warrant . 	NAN	NAN	NAN	0.8	lord clyde, lord hutton
+20	210	Where there is no reason to question what appears on the face of the warrant , the constable enforcing it has no obligation to do so : indeed on the contrary he has the duty to enforce it . 	NAN	NAN	NAN	0.8	lord clyde, lord hutton
+20	211	And if in executing it he complies with the terms of the instruction embodied in the warrant he should not be regarded as having acted unlawfully . 	NAN	NAN	NAN	0.8	lord clyde, lord hutton
+20	212	24 . 	NAN	NAN	NAN	0.8	lord clyde, lord hutton
+20	213	The alternative view involves , as the Court of Appeal recognised , penalising the officers engaged in the enforcement of the warrant where they had acted reasonably and in perfect good faith . 	NAN	NAN	NAN	0.8	lord clyde, lord hutton
+20	214	It would impose an unfair burden upon the police in acting responsibly and honestly in carrying out what is a ministerial function . 	NAN	NAN	NAN	0.8	lord clyde, lord hutton
+20	215	The Court of Appeal considered it would be unjust that the third party who had been arrested without any evident wrongdoing on his part should be without a remedy . 	NAN	NAN	NAN	0.9	lord clyde, lord hutton
+20	216	But if he is without a remedy that is not because the law deprives him of any right to a remedy but because the circumstances of the person who caused the mistake to be made by his own deliberate deception may be such that the remedy is not worth pursuing . 	NAN	NAN	NAN	0.9	lord clyde, lord hutton
+20	217	25 . 	NAN	NAN	NAN	0.9	lord clyde, lord hutton
+20	218	For the foregoing reasons I would allow the appeal . 	lord clyde	self	outcome	0.9	lord clyde, lord hutton
+20	219	------------- NEW JUDGE --------------- 	NAN	NAN	NAN	0.9	lord clyde, lord hutton
+20	220	LORD HUTTON 	NAN	NAN	NAN	0.9	lord clyde, lord hutton
+20	221	My Lords , 	NAN	NAN	NAN	0.9	lord clyde, lord hutton
+20	222	26 . 	NAN	NAN	NAN	0.9	lord clyde, lord hutton
+20	223	I have had the advantage of reading in draft the speech of my noble and learned friend , Lord Clyde and I am in general agreement with his reasons for concluding that the appeal should be allowed . 	lord hutton	lord clyde	ackn	0.9	lord clyde, lord hutton
+20	223	I have had the advantage of reading in draft the speech of my noble and learned friend , Lord Clyde and I am in general agreement with his reasons for concluding that the appeal should be allowed . 	lord hutton	lord clyde	partagr	0.9	lord clyde, lord hutton
+20	224	However , because we are differing from the decision of the Court of Appeal I wish to state briefly the considerations which have led me to conclude that the decision of MacDermott LJ sitting at first instance should be restored . 	NAN	NAN	NAN	0.9	lord clyde, lord hutton
+20	225	27 . 	NAN	NAN	NAN	0.9	lord clyde, lord hutton
+20	226	The central issue in the case relates to the construction of the words `` a person charged with an offence '' in section 38 -LRB- 3 -RRB- of the Criminal Law Act 1977 . 	NAN	NAN	NAN	0.9	lord clyde, lord hutton
+20	227	The argument advanced on behalf of the appellant defendants , the Chief Constables , is that those words mean the person whose name is set out in the warrant . 	NAN	NAN	NAN	0.9	lord clyde, lord hutton
+20	228	The argument advanced on behalf of the respondent plaintiff , Mr McGrath , is that the words mean the person who has actually been charged with an offence , and that person was Dominic Mackin , not the plaintiff . 	NAN	NAN	NAN	0.9	lord clyde, lord hutton
+20	229	28 . 	NAN	NAN	NAN	0.9	lord clyde, lord hutton
+20	230	The Court of Appeal -LSB- 2000 -RSB- NI 56 accepted the plaintiff 's argument and stated : `` It is true to say that the object of the legislation concerning warrants is to confine the police to following strictly the terms of the warrants which they are executing and to give them protection if they do so . 	NAN	NAN	NAN	0.9	lord clyde, lord hutton
+20	231	But we do not think it possible to construe the phase ` person charged ' as meaning the person whose name is set out in the warrant if he was not the person who had been before the court and whom the sheriff intended to have arrested . '' 	NAN	NAN	NAN	0.9	lord clyde, lord hutton
+20	232	29 . 	NAN	NAN	NAN	0.9	lord clyde, lord hutton
+20	233	There is considerable force in this reasoning , but I think that guidance can be obtained from the principle that a statutory provision is to be construed in its context , which includes the common law context . 	NAN	NAN	NAN	0.9	lord clyde, lord hutton
+20	234	In Hoye v Bush -LRB- 1840 -RRB- 1 Man & G 775 a constable applied for a warrant for the arrest of Richard Hoye , but the justice mistakenly issued a warrant for the arrest of John Hoye , which was the name of Richard Hoye 's father . 	NAN	NAN	NAN	0.9	lord clyde, lord hutton
+20	235	The constable arrested Richard Hoye , who sued for false imprisonment , and he was held to be entitled to recover . 	NAN	NAN	NAN	0.9	lord clyde, lord hutton
+20	236	Tindal CJ stated , at pp 784-785 : `` The question in this case is , whether the defendant was justified in arresting the plaintiff under a warrant , describing him as John Hoye , his real name being Richard Hoye . 	NAN	NAN	NAN	0.9	lord clyde, lord hutton
+20	237	On the part of the defendant it is contended that the justification was sufficient , inasmuch as an officer is protected , where the party arrested is the person really intended to be taken . 	NAN	NAN	NAN	0.9	lord clyde, lord hutton
+20	238	Such a qualification is not allowed by law . 	NAN	NAN	NAN	0.9	lord clyde, lord hutton
+20	239	In civil process you could not justify taking a person by the name mentioned in the warrant , his real name being different . 	NAN	NAN	NAN	0.9	lord clyde, lord hutton
+20	240	The case of Cole v Hindson -LRB- 1795 -RRB- 6 TR 234 is precisely upon that point . 	NAN	NAN	NAN	1	lord clyde, lord hutton
+20	241	That case is stronger than the present , because there the plea averred that Aquila Cole and Richard Cole were the same person . 	NAN	NAN	NAN	1	lord clyde, lord hutton
+20	242	So in Shadgett v Clipson -LRB- 1807 -RRB- 8 East 328 , it was held that a sheriff 's officer could not justify an imprisonment of A. B. under a latitat against C. B. though it was averred that A. B. and C. B. , are one and the same person , there being no averment that A. B. was known by the name of C. B . 	NAN	NAN	NAN	1	lord clyde, lord hutton
+20	243	Then what distinction can be made between civil and criminal process ? 	NAN	NAN	NAN	1	lord clyde, lord hutton
+20	244	If the warrant of the sheriff will not justify the officer , why should a magistrate 's warrant ? 	NAN	NAN	NAN	1	lord clyde, lord hutton
+20	245	In either case the object of the warrant is to identify the party who is to be arrested . '' 	NAN	NAN	NAN	1	lord clyde, lord hutton
+20	246	And , at p 786 : `` It would be dangerous if a person whose office is wholly ministerial , were allowed to sit in judgment , and say who is the unnamed person intended by the warrant which he is required to execute . '' 	NAN	NAN	NAN	1	lord clyde, lord hutton
+20	247	Coltman J stated , at p 788 : `` It is of the essence of a warrant that it should be so framed , that the officer should know whom he is to take , and that the party upon whom it is executed should know whether he is bound to submit to the arrest . '' 	NAN	NAN	NAN	1	lord clyde, lord hutton
+20	248	See also the judgment of Lindley LJ in Henderson v Preston -LRB- 1888 -RRB- 21 QBD 362 , 366 cited by my noble and learned friend , Lord Clyde . 	lord hutton	lord clyde	partagr	1	lord clyde, lord hutton
+20	249	30 . 	NAN	NAN	NAN	1	lord clyde, lord hutton
+20	250	Therefore it is clear that the common law placed emphasis on the importance of a warrant of arrest or commitment being precise in its terms , and on the need for a police officer or prison governor , given the duty of executing a warrant , to comply with its terms and not to exercise his own discretion as to whether or not he should enforce it . 	NAN	NAN	NAN	1	lord clyde, lord hutton
+20	251	Construing section 38 -LRB- 3 -RRB- against that background I consider that it is right to construe it as the defendants contend and accordingly I would allow the appeal . 	lord hutton	self	outcome	1	lord clyde, lord hutton

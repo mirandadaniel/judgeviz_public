@@ -1,0 +1,8 @@
+digraph partagr_rodger_bingham { 
+ K=0.6 
+ "rodger" -> { "bingham" } [color="darkgreen", arrowhead="onormal", penwidth=1, href="#452"]; 
+ "rodger" -> { "bingham" } [color="darkgreen", arrowhead="onormal", penwidth=1, href="#452"]; 
+ "rodger" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#rodger"]; 
+ "bingham" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#bingham"]; 
+
+}

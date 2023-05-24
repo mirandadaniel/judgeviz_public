@@ -1,0 +1,7 @@
+digraph fullagr_bingham_millett { 
+ K=0.6 
+ "bingham" -> { "millett" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#6"]; 
+ "bingham" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#bingham"]; 
+ "millett" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#millett"]; 
+
+}

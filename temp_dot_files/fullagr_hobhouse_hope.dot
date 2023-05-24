@@ -1,0 +1,7 @@
+digraph fullagr_hobhouse_hope { 
+ K=0.6 
+ "hobhouse" -> { "hope" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#499"]; 
+ "hobhouse" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#hobhouse"]; 
+ "hope" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#hope"]; 
+
+}

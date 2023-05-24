@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Index</title>
+    <!-- <link rel="stylesheet" href="{{ url_for('static', filename='block.css') }}"> -->
+</head>
+<body>
+    {% extends "layout.html" %}
+    {% block content %} 
+    <h2>Here is your graph: </h2>
+    <body> There are no relationships of this kind in this case. <body>
+    <!-- <div id="col-1"></div>
+    <!-- <img src="{{ user_image }}" alt="User Image"> -->
+    <img src="{{url_for('static', filename='case102.png')}}" />
+    </div>
+    <div id="col-2">
+        <h1>This is another half of a page</h1>
+    </div> -->
+    {% endblock %}
+</body>
+</html>

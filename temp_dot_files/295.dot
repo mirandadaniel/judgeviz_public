@@ -1,0 +1,6 @@
+digraph 295 { 
+ K=0.6 
+ "scott" -> { "scott" } [color="blue", arrowhead="vee", penwidth=1, href="#295"]; 
+ "scott" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#scott"]; 
+
+}

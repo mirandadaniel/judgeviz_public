@@ -1,0 +1,21 @@
+digraph case36 { 
+ K=0.6 
+ "slynn" -> { "woolf" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#6"]; 
+ "slynn" -> { "slynn" } [color="blue", arrowhead="vee", penwidth=1, href="#6"]; 
+ "slynn" -> { "woolf" } [color="darkgreen", arrowhead="onormal", penwidth=1, href="partagr_slynn_woolf"];
+ "browne-wilkinson" -> { "woolf" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#24"]; 
+ "browne-wilkinson" -> { "hobhouse" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#24"]; 
+ "browne-wilkinson" -> { "browne-wilkinson" } [color="blue", arrowhead="vee", penwidth=1, href="#24"]; 
+ "woolf" -> { "woolf" } [color="blue", arrowhead="vee", penwidth=1, href="outcome_woolf_self"];
+ "nolan" -> { "woolf" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#397"]; 
+ "nolan" -> { "hobhouse" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#397"]; 
+ "nolan" -> { "nolan" } [color="blue", arrowhead="vee", penwidth=1, href="outcome_nolan_self"];
+ "hobhouse" -> { "woolf" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#403"]; 
+ "hobhouse" -> { "hobhouse" } [color="blue", arrowhead="vee", penwidth=1, href="#403"]; 
+ "slynn" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#slynn"]; 
+ "browne-wilkinson" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#browne-wilkinson"]; 
+ "woolf" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="yellow", href="#woolf"]; 
+ "nolan" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#nolan"]; 
+ "hobhouse" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="yellow", href="#hobhouse"]; 
+
+}

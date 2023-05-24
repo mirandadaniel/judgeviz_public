@@ -1,0 +1,28 @@
+ <p> A taxpayer could not be required by a notice under s 20(1) of the 
+          Taxes Management Act 1970 to deliver documents attracting legal professional 
+          privilege (&quot;LPP&quot;).<br>
+          The House of Lords so held in allowing an appeal by the taxpayer, Morgan 
+          Grenfell &amp; Co Ltd, from the Court of Appeal which had dismissed 
+          the taxpayer's appeal from the Divisional Court of the Queen's Bench 
+          Division ([2002] 2 WLR 255, DC and CA).<br>
+          The Divisional Court had dismissed the taxpayer's application for judicial 
+          review of a notice under s 20(1) of the 1970 Act and decisions of a 
+          special commissioner consenting under s 20(7) to the issue of the notice 
+          and determining preliminary issues.</p>
+        <p> LORD NICHOLLS OF BIRKENHEAD agreed with Lord Hoffmann.<br>
+          LORD HOFFMANN said that in connection with the issue of the tax payable 
+          by the taxpayer pursuant to a tax avoidance scheme devised by it the 
+          inspector, wishing to see documents relating to the advice that the 
+          taxpayer had obtained from leading counsel and solicitors about whether 
+          the scheme would work, had issued a notice under s 20(1) demanding delivery, 
+          and the taxpayer had objected that the documents were subject to LPP. 
+          LPP was a fundamental human right not to be overridden except expressly 
+          or by necessary implication. S 20(1) did not do so expressly, and there 
+          was no necessary implication to be drawn from the context of the Act 
+          as a whole, including the express references to LPP in ss 20B(8) and 
+          20C(3) relied on by the revenue. The notice should accordingly be quashed.<br>
+          LORD HOPE OF CRAIGHEAD agreed with Lord Hoffmann and Lord Hobhouse of 
+          Woodborough.<br>
+          LORD HOBHOUSE OF WOODBOROUGH delivered an opinion agreeing with Lord 
+          Hoffmann.<br>
+          LORD SCOTT OF FOSCOTE agreed with Lord Hoffmann.<br>

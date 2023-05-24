@@ -1,0 +1,25 @@
+digraph case69 { 
+ K=0.6 
+ "nicholls" -> { "nicholls" } [color="blue", arrowhead="vee", penwidth=1, href="#376"]; 
+ "hope" -> { "nicholls" } [color="darkgreen", arrowhead="onormal", penwidth=1, href="#381"]; 
+ "hope" -> { all } [color="darkgreen", arrowhead="onormal", penwidth=1, href="#424"]; 
+ "hope" -> { "hope" } [color="blue", arrowhead="vee", penwidth=1, href="#493"]; 
+ "hobhouse" -> { "nicholls" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#499"]; 
+ "hobhouse" -> { "hope" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#499"]; 
+ "hobhouse" -> { "hobhouse" } [color="blue", arrowhead="vee", penwidth=1, href="outcome_hobhouse_self"];
+ "hobhouse" -> { all } [color="darkgreen", arrowhead="onormal", penwidth=1, href="#503"]; 
+ "hobhouse" -> { all } [color="darkgreen", arrowhead="normal", penwidth=1, href="#551"]; 
+ "scott" -> { "nicholls" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#576"]; 
+ "scott" -> { "hope" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#576"]; 
+ "scott" -> { "scott" } [color="blue", arrowhead="vee", penwidth=1, href="#578"]; 
+ "rodger" -> { "nicholls" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#584"]; 
+ "rodger" -> { "hope" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#584"]; 
+ "rodger" -> { "hobhouse" } [color="darkgreen", arrowhead="normal", penwidth=1, href="#584"]; 
+ "rodger" -> { "rodger" } [color="blue", arrowhead="vee", penwidth=1, href="#584"]; 
+ "nicholls" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#nicholls"]; 
+ "hope" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#hope"]; 
+ "hobhouse" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#hobhouse"]; 
+ "scott" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#scott"]; 
+ "rodger" [shape="circle", fixedsize="true", height=1, width=1, style="filled", fillcolor="white", href="#rodger"]; 
+
+}

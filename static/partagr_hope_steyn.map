@@ -1,0 +1,8 @@
+<map id="partagr_hope_steyn" name="partagr_hope_steyn">
+<area shape="circle" id="node1" href="#hope" title="hope" alt="partagr_hope_steyn" coords="53,53,48" onclick="return myFunction(this.alt, href);"/>
+<area shape="circle" id="node2" href="#steyn" title="steyn" alt="partagr_hope_steyn" coords="53,197,48" onclick="return myFunction(this.alt, href);"/>
+<area shape="poly" id="edge1" href="#424" alt="partagr_hope_steyn" coords="39,99,38,139,33,138,34,99" onclick="return myFunction(this.alt, href);"/>
+<area shape="poly" id="edge2" href="#438" alt="partagr_hope_steyn" coords="56,101,56,135,51,135,51,101" onclick="return myFunction(this.alt, href);"/>
+<area shape="poly" id="edge3" href="#477" alt="partagr_hope_steyn" coords="73,99,74,138,68,139,67,99" onclick="return myFunction(this.alt, href);"/>
+</map>
+
